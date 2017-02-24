@@ -1,0 +1,42 @@
+---
+title: ""
+---
+<br>
+<br>
+<br>
+```{r echo=FALSE, out.width="95%"}
+include_graphics("media/eqs.png")
+```
+<!--z
+
+library(knitr)
+rmarkdown::render_site()# build website
+
+# rmarkdown::render_site("index.Rmd")# build webpage
+  q(save="no")  
+
+-->
+
+## new stuff
+
+aslkdjfa;lskjdfaslkjdfas
+asdlkfjas;ldkjf;alsfj
+
+asdlkjfaslkjdfalskdjfasd
+f
+asdlkfjasldkjfa;lsjdf
+
+
+<p style="page-break-after:always;"> </p>
+
+## other stuff
+
+asldkjfaslkdf
+asdlkfasdlfj
+asdlkfjasldkfj
+alsdkjflaskjdf
+asldkjfa;slkjfd
+
+sl;kajsdfj
+asldkjsfdlkjasfd 
+laksdf

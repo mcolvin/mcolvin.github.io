@@ -315,7 +315,7 @@ $(document).ready(function () {
 </div>
 
 
-<p><br> <br> <br> <img src="media/eqs.png" width="95%" /> <!--z
+<p><br> <br> <br> <img src="media/banner-01.jpg" width="95%" /> <!--
 
 library(knitr)
 rmarkdown::render_site()# build website
@@ -324,17 +324,85 @@ rmarkdown::render_site()# build website
   q(save="no")  
 
 --></p>
-<div id="new-stuff" class="section level2">
-<h2>new stuff</h2>
-<p>aslkdjfa;lskjdfaslkjdfas asdlkfjas;ldkjf;alsfj</p>
-<p>asdlkjfaslkjdfalskdjfasd f asdlkfjasldkjfa;lsjdf</p>
-<p style="page-break-after:always;">
-</p>
+<div id="mortality-estimators-based-on-longevity-and-growth" class="section level2">
+<h2>Mortality estimators based on longevity and growth</h2>
+<div id="age-independent-methods" class="section level3">
+<h3>Age independent methods</h3>
+<div id="pauly-1980" class="section level4">
+<h4>Pauly 1980</h4>
+<p><span class="math inline">\(\[\log (M)=-0.0066\text{ }\text{ }0.279\text{ }log~{{L}_{\inf }}+\text{ }0.6543\text{ }log\text{ }K\text{ }+\text{ }0.4634\text{ }log\text{ }T\]\)</span></p>
+<p>Where M is instaneous mortality, L_inf and K are VBGF parameters and T is temperature</p>
 </div>
-<div id="other-stuff" class="section level2">
-<h2>other stuff</h2>
-<p>asldkjfaslkdf asdlkfasdlfj asdlkfjasldkfj alsdkjflaskjdf asldkjfa;slkjfd</p>
-<p>sl;kajsdfj asldkjsfdlkjasfd laksdf</p>
+<div id="hoenig-1983" class="section level4">
+<h4>Hoenig (1983)</h4>
+<p>$<span class="math display">\[ln\text{ }Z\text{ }=\text{ }1.46\text{ }-\text{ }1.01\text{ }ln\text{ }{{t}_{max}}\]</span> $ <span class="math inline">\(\[\text{ln(}\hat{M})=1.44-0.982\cdot ln({{t}_{max}})\]\)</span> Where Z is instaneous mortality and tmax is maximum age for 84 stocks of teleost fishes</p>
+</div>
+<div id="jensen-1996" class="section level4">
+<h4>Jensen 1996</h4>
+<p>$<span class="math display">\[M~=\text{ }1.65/{{x}_{m}}\]</span> $ <span class="math inline">\(\[M~=\text{ }1.5K\]\)</span> <span class="math inline">\(\[\begin{array}{*{35}{l}}M~=\text{ }1.60K \\\end{array}\]\)</span> Reanalysis of Pauley</p>
+<p>Peterson and Wroblewski (1984) estimate natural mortality that varies with age using dry weight as a scaling factor. Using particle-size theory and data from the pelagic ecosystem (including fish larvae, adult fish and chaetognaths) they showed that the natural mortality for a given weight organism (Mw) is</p>
+<p>Mw= 1.92w-0.25 (8.16)</p>
+<p>where w is the dry weight of an organism. To make this estimate of natural mortality age-specific, weight-at-age data is required. This is normally obtained from a length-weight relationship and length-at-age data from a von Bertalanffy growth function. Such an approach yields wet weight and Cortes (2002) suggested that a conversion factor of one fifth be used for sharks to give dry weight. One criticism of this method has been that it was developed for smaller pelagic organisms. However, McGurck (1986) showed that it accurately predicted natural mortality rates over 16 orders of magnitude. 8.2.3.2 Chen and Watanabe (1989) Chen and Watanabe (1989) recognized that natural mortality in fish populations, like most animal populations, should have a U-shaped curve when plotted against age (they referred to it as a bathtub curve). To model this curve, they used two functions, one describing the falling mortality rate early in life and a second describing the increasing mortality towards the end of life. To scale the values of mortality by age (M(t)), Chen and Watanabe (1989) used the k and t0parameters of the von Bertalanffy growth function.</p>
+<p>eqs.png</p>
+<p>Richter and Efanov (1977) <span class="math inline">\(\[M=\frac{1.52}{t_{50}^{0.72}}-0.16\]\)</span></p>
+<p>Where M is instaneous mortality and <span class="math inline">\({{T}_{50}}\)</span> is the age that 50% of the stock is mature</p>
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th align="center">Linf or WinfLinf or Winf</th>
+<th align="center">K</th>
+<th align="center">T0</th>
+<th align="center">Age at maturity</th>
+<th align="center">tmax</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Pauly 1980</td>
+<td align="center">x</td>
+<td align="center">x</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr class="even">
+<td>Hoenig 1983</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">x</td>
+</tr>
+<tr class="odd">
+<td>Jensen 1996</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">x</td>
+<td align="center"></td>
+</tr>
+<tr class="even">
+<td>Chen and Watanabe (1989)</td>
+<td align="center"></td>
+<td align="center">x</td>
+<td align="center">x</td>
+<td align="center">Derived from K and to</td>
+<td align="center"></td>
+</tr>
+<tr class="odd">
+<td>Richter and Efanov (1977)</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">xb</td>
+</tr>
+</tbody>
+</table>
+<p>b Age that 50% of stock is mature</p>
+</div>
+</div>
 </div>
 
 
