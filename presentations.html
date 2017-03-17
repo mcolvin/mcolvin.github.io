@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title></title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<link rel="stylesheet"
+      href="site_libs/highlight/textmate.css"
+      type="text/css" />
+<script src="site_libs/highlight/highlight.js"></script>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs && document.readyState && document.readyState === "complete") {
+   window.setTimeout(function() {
+      hljs.initHighlighting();
+   }, 0);
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 45px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+
+.section h2 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h3 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h4 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h5 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h6 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script src="site_libs/navigation-1.0/tabsets.js"></script>
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Colvin lab</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    About the lab
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="members.html">Lab members</a>
+    </li>
+    <li>
+      <a href="cv.html">CV</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Projects
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="pms.html">Chinook Prespawning Mortality</a>
+    </li>
+    <li>
+      <a href="clesm.html">Clear Lake Ecosystem Simulation</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Teaching &amp; Workshops
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="class.html">Classes</a>
+    </li>
+    <li>
+      <a href="workshops.html">Workshops</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Publications &amp; Presentations
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="peer-reviewed.html">Peer reviewed</a>
+    </li>
+    <li>
+      <a href="reports.html">Reports</a>
+    </li>
+    <li>
+      <a href="peer-reviewed.html">Scientific presentations</a>
+    </li>
+    <li>
+      <a href="reports.html">Public outreach</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Models &amp; Apps
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="about-apps.html">About</a>
+    </li>
+    <li>
+      <a href="peer-reviewed.html">Scientific</a>
+    </li>
+    <li>
+      <a href="teaching-apps.html">Teaching</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Lab operations
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="stuff.html">Stuff</a>
+    </li>
+    <li>
+      <a href="travel.html">Travel</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Additional Resources
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="R-tutorials.html">R tutorials</a>
+    </li>
+  </ul>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<p><img src="media/DSCF0082.JPG" width="100%" /> <!--
+rmarkdown::render_site("presentations.Rmd")# build webpage
+rmarkdown::render_site()# build website
+q(save="no")  
+--></p>
+<div id="presentations-and-outreach" class="section level2">
+<h2>Presentations and Outreach</h2>
+<div id="invited-presentations" class="section level3">
+<h3>Invited presentations</h3>
+<p>Colvin, M.E., R. Jacobson, D. James, L. Pierce, M. Randall, and T. Welker. 2017. Missouri River Pallid Sturgeon Effects Analysis. Lower Basin Pallid Sturgeon Workgroup Meeting. January 10th.</p>
+<p>Gilliland, C.R. and M.E. Colvin. 2016. Paddlefish Polyodon spathula spawning and migratory habitat use in the Noxubee River System with focus on the Noxubee National Wildlife Refuge. Presentation to the Audubon Society. Mississippi State, September 8th.</p>
+<p>Colvin, M.E. 2016. Challenges and potential solutions to integrating fisheries research, management, and monitoringâ€”emerging patterns from a national perspective. 42nd annual meeting of the Mississippi Chapter of the American Fisheries Society, Tara Lodge, MS. March 9-11th.</p>
+<p>Colvin, M.E., R. Jacobson, D. James, L. Pierce, M. Randall, and T. Welker. 2016. Pallid Sturgeon population modeling update. Middle Basin Pallid Sturgeon Recovery Meeting. Kansas City. February 18th -19th.</p>
+<p>Jacobson, R., M.E. Colvin, M. Randall, D. James, and T. Welker. 2016. Effects Analysis. Lower Basin Pallid Sturgeon Recovery Meeting. Middle Basin Pallid Sturgeon Recovery Meeting. Kansas City. February 18th -19th.</p>
+<p>Colvin, M.E., R. Jacobson, D. James, L. Pierce, M. Randall, and T. Welker. 2016. Pallid Sturgeon population modeling update. Lower Basin Pallid Sturgeon Recovery Meeting. Cape Girardeau. January 11th-13th.</p>
+<p>Jacobson, R., M.E. Colvin, M. Randall, D. James, and T. Welker. 2016. Effects Analysis. Lower Basin Pallid Sturgeon Recovery Meeting. Cape Girardeau. January 11th-13th.</p>
+<p>Colvin, M.E. 2015. Integrating management, monitoring and research in aquatic systems. University of Southern Mississippi Gulf Coast Research Laboratory. April 9th.</p>
+<p>Colvin, M.E. 2015. Integrating management, monitoring and research with structured decision making and adaptive management. Mississippi Research Summit. February 5th.</p>
+<p>Colvin, M.E., J.T. Peterson, M. Kent, and C.B. Schreck. 2014. Estimating sensitivity and prevalence from hierarchically structured pathogen sampling data using occupancy modeling. Oregon State University Microbiology Department Colloquium.</p>
+<p>Colvin, M.E., P.W. Bettoli, G.D. Scholten, C.L. Pierce, and T.W. Stewart. 2012. Caviar and carp: increasing fisheries model realism and management applications. University of Idaho 501 Seminar Series.</p>
+<p>Colvin, M.E., C.L. Pierce, and T.W. Stewart. 2012. Minimizing impacts of carp in a shallow lake: A simulation modeling approach for restoration and management. 142nd Annual Meeting American Fisheries Society, St. Paul, Minnesota.</p>
+<p>Colvin, M.E. 2011. Clear Lake Ecosystem simulation model overview and managing populations experiencing pulsed harvest. Iowa Department of Natural Resources Wildlife Bureau Meeting. Ames, IA.</p>
+<p>Colvin, M.E., T. Stewart, and C. Pierce. 2011. Monitoring and modeling the Clear Lake ecosystem: Native and invasive species in the context of lake restoration. Iowa Water Center Conference. Ames, IA.</p>
+<p>Colvin, M.E. 2010. Application of carp control strategies into a model for Malheur NWR. Malheur National Wildlife Refuge Invasive Carp Control Workshop. Burns, OR.</p>
+<p>Colvin, M.E., S. Grummer, J. Wahl, T.W. Stewart, and C.L. Pierce. 2010. Carp and water quality research, a Midwest case study. Malheur National Wildlife Refuge Invasive Carp Control Workshop. Burns, OR.</p>
+<p>Colvin, M.E., S. Grummer, J. Wahl, T. Stewart, and C. Pierce. 2010. Real and potential impacts of common carp and zebra mussel impacts on water quality in the context of ongoing shallow lake restoration. 71st Midwest Fish and Wildlife Conference. Minneapolis, MN.</p>
+<p>Colvin, M.E., T. Stewart and C. Pierce. 2009. Towards ecosystem management of an inland freshwater fishery in the context of invasive species. Iowa State University Student Subunit of the American Fisheries Society, Ames, IA.</p>
+<p>Ebersole, J.L., M.E. Colvin, P.J. Wigington, Jr., and S.G. Leibowitz. 2009. Patterns of coho salmon size and survival within a stream network. International Environmetrics Society, Corvallis, OR.</p>
+<p>Colvin, M.E., J.L. Ebersole and P.J. Wigington. 2007. A life-history based strategy for restoring juvenile salmon habitat across a stream network. Iowa State University Departmental Seminar Series, Ames, IA.</p>
+</div>
+<div id="technical-presentations" class="section level3">
+<h3>Technical presentations</h3>
+<p>Schreck, C.B., B.P. Dolan, M.L. Kent, M.E. Colvin, and J.T. Peterson. 2017. Stress, the immune system and maturation in Chinook salmon. 18th International Congress of Comparative Endocrinology. Banff, Alberta, CA. June 4-9th.</p>
+<p>Shirley, C. M.E. Colvin, C. Mischke, T. Holman, and P. Allen. 2017. Development of techniques for spawning, sperm cryopreservation, and feed-training of crappie (Pomoxis spp.). Annual Meeting of the Southern Division American Fisheries Society. MS-AL Chapter of the American Fisheries Society Annual Meeting. Biloxi, MS.</p>
+<p>Gilliland, C., M.E. Colvin, W. Neal, and P. Allen. 2017. Potential Paddlefish (Polyodon spathula) passage in a regulated stream. Annual Meeting of the Southern Division American Fisheries Society. MS-AL Chapter of the American Fisheries Society Annual Meeting. Biloxi, MS.</p>
+<p>Coppola G., H.R. Hatcher, M.A. Lashley, L.E. Miranda, and M.E. Colvin. Performance of agricultural plantings on reservoir mudflats. MS-AL Chapter of the American Fisheries Society Annual Meeting. Biloxi, MS.</p>
+<p>Hatcher, H.R., G. Coppola, L.E. Miranda, M.E. Colvin, M.A. Lashley. 2017. Fish Assemblages Associated with Cover in the Mudflats of a Reservoir. MS-AL Chapter of the American Fisheries Society Annual Meeting. Biloxi, MS.</p>
+<p>Shamaskin, A., M.E. Colvin and L.E. Miranda. 2017. Multisystem scale length limits: making it easy. MS-AL Chapter of the American Fisheries Society Annual Meeting. Biloxi, MS.</p>
+<p>Gilliland, C., M.E. Colvin, W. Neal, and P. Allen. 2017. Potential Paddlefish (Polyodon spathula) passage in a regulated stream. Annual Meeting of the Southern Division American Fisheries Society. Oklahoma City, OK. February 5th. (Platform)</p>
+<p>Coppola G., H.R. Hatcher, M.A. Lashley, L.E. Miranda, and M.E. Colvin. Performance of agricultural plantings on reservoir mudflats. Southern Division American Fisheries Society. February 3, 2017. Oklahoma City, OK.</p>
+<p>Hatcher, H.R., G. Coppola, L.E. Miranda, M.E. Colvin, M.A. Lashley. 2017. Fish Assemblages Associated with Cover in the Mudflats of a Reservoir. Annual Meeting of the Southern Division American Fisheries Society. Oklahoma City, OK. February 4th.</p>
+<p>Shamaskin, A., M.E. Colvin and L.E. Miranda. 2016. Sensitivity of a Multisystem Length Limit Model. Annual Meeting of the Southern Division American Fisheries Society. Oklahoma City, OK. February 4th.</p>
+<p>Hann, D., P. Kroboth, M.E. Colvin, P. Hartfield, and H. Schramm. 2017. Seasonal habitat use of adult Pallid Sturgeon in the Lower Mississippi River. Annual Meeting of the Southern Division of the American Fisheries Society. February 5th.</p>
+<p>Hann, D., P. Kroboth, M.E. Colvin, P. Hartfield, and H. Schramm. 2017. Seasonal habitat use of adult Pallid Sturgeon in the Lower Mississippi River. Lower Basin Pallid Sturgeon Workgroup Meeting. January 10th.</p>
+<p>Shamaskin, A., M.E. Colvin and L.E. Miranda. 2016. Sensitivity of a Multisystem Length Limit Model. 147th Annual Meeting of the American Fisheries Society, Kansas City, MO. August 21-25th.</p>
+<p>Colvin, M.E., R. Jacobson, D. James, L. Pierce, M. Randall, and T. Welker. 2016. Model development to support Pallid Sturgeon recovery. 147th Annual Meeting of the American Fisheries Society, Kansas City, MO. August 21-25th.</p>
+<p>Jacobson, R., M.E. Colvin, D. James, L. Pierce, M. Randall, and T. Welker. 147th Annual Meeting of the American Fisheries Society, Kansas City, MO. August 21-25th.</p>
+<p>Miranda, L.E., A. Shamanskin, and M.E. Colvin. 2016. Long-term population changes in relation to harvest regulations at Ross Barnett Reservoir, Mississippi. 147th Annual Meeting of the American Fisheries Society, Kansas City, MO. August 21-25th.</p>
+<p>Kramer, N.W., Q.E. Phelps, C.L. Pierce, and M.E. Colvin 2016. Using Food Web Modeling To Determine Effects of Increased Exploitation on Invasive Carps In The Middle Mississippi River. 76th annual Midwest Fish and Wildlife Conference. Grand Rapids, MI. January 27th.</p>
+<p>Shirley, C., N. Aycock, and M.E. Colvin. 2016. Effects of proposed length limit changes and â€˜5 under ruleâ€™ on Lake Washington crappie yield. Mississippi State University undergraduate Research Symposium. Mississippi State, MS. April 15th. (Poster)</p>
+<p>Kramer, N.W., Q.E. Phelps, C.L. Pierce, and M.E. Colvin 2016. Using Food Web Modeling To Determine Effects of Increased Exploitation on Invasive Carps In The Middle Mississippi River. 76th annual Midwest Fish and Wildlife Conference. Grand Rapids, MI. January 27th.</p>
+<p>Jacobson, R., M.E. Colvin, D. James, L. Pierce, M. Randall, and T. Welker. 2016. Missouri River Pallid Sturgeon Effects Analysis: Progress and Whatâ€™s Next. Missouri River Natural Resources Conference. March 22nd-25th. Great Falls, MT.</p>
+<p>Colvin, M.E., R. Jacobson, D. James, L. Pierce, M. Randall, and T. Welker. 2016. Model development to support Pallid Sturgeon effects analysis and adaptive management. Missouri River Natural Resources Conference. March 22nd-25th. Great Falls, MT.</p>
+<p>Shirley, C., N. Aycock, and M.E. Colvin. 2016. Effects of proposed length limit changes and â€˜5 under ruleâ€™ on Lake Washington crappie yield. 42nd annual meeting of the Mississippi Chapter of the American Fisheries Society, Tara Lodge, MS. March 9-11th.</p>
+<p>Shamaskin, A., M.E. Colvin, L.E. Miranda, L. Bull, and T. Holman. 2016. Long-term population changes in relation to harvest regulations at Ross Barnett Reservoir, Mississippi. 42nd annual meeting of the Mississippi Chapter of the American Fisheries Society, Tara Lodge, MS. March 9-11th.</p>
+<p>Veum, S. S.A. Rush, M.E. Colvin, and S.R. Reagan. 2016. Habitat use and niche partitioning of bats in the central gulf coastal plains of Mississippi. 21st Annual Meeting of the Southeastern Bat Diversity Network &amp; 26th Annual Colloquium on the Conservation of Mammals in the Southeastern U.S. February 18th -19th.</p>
+<p>Kneece, M.R., J.C. Shipes, J.B. Davis, E.P. Wiggers, R.M. Kaminski, and M.E. Colvin. 2016. Nesting Ecology of Mottled Ducks in Coastal South Carolina. North American Duck Symposium and Workshop. Annapolis, February 1-5.</p>
+<p>Kramer, N.W., Q. Phelps, C.L. Pierce, and M.E. Colvin. 2016. Using Food Web Modeling To Determine Effects of Increased Exploitation on Invasive Carps In The Middle Mississippi River. 76th Midwest Fish and Wildlife Conference, Grand Rapids, MI. January 24-27th.</p>
+<p>James, D.A., L.L. Pierce, M.L. Annis, M.E. Colvin, R.B. Jacobson, M. Randall, and T.L. Welker. 2015. Association of Native Prey-fish Abundance to Pallid Sturgeon Condition. 145th Annual Meeting of the American Fisheries Society, Portland, OR. August 16-20th.</p>
+<p>Neely, B.C., J.D. Koch, and M.E. Colvin. 2015. Influence of Reservoir Characteristics on Collection of Representative and Precise Fish Samples: Implications for Determining Minimum Sampling Effort. 145th Annual Meeting of the American Fisheries Society, Portland, OR. August 16-20.</p>
+<p>Colvin, M.E. and L.E. Miranda. 2015. Summary and synthesis of standardized electrofishing efforts from 1986 to present. 41st Annual meeting of the Mississippi Chapter of the American Fisheries Society, Tara Lodge, MS. March 22-25th.</p>
+<p>Colvin, M.E., M.L. Annis, D.A. James, R.B. Jacobson, M.R. Randall, and T.L. Welker. 2015. A Framework for Integrating the Pallid Sturgeon Effects Analysis to Evaluate Management and Restoration Alternatives. Missouri River Natural Resource Conference, Nebraska City, NE. March 10-12th.</p>
+<p>Jacobson, R. M.L. Annis, M.E. Colvin, D.A. James, M.R. Randall, and T.L. Welker. 2015. Missouri River Pallid Sturgeon Effects Analysis: Progress and Prospects. Missouri River Natural Resource Conference, Nebraska City, NE. March 10-12th.</p>
+<p>James, D.A., L.L. Pierce, M.L. Annis, M.E. Colvin, R.B. Jacobson, M. Randall, and T.L. Welker. 2015. Association of Native Prey-fish Abundance to Pallid Sturgeon Condition. Missouri River Natural Resource Conference, Nebraska City, NE. March 10-12th.</p>
+<p>Colvin, M.E., J.T. Peterson, C. Sharpe, S. Benda, M. Kent and C. Schreck. 2015. Upper Willamette River spring Chinook prespawn mortality: data synthesis and prediction of optimal management actions. Southern Division of the American Fisheries Society Annual Meeting. Savanah, GA. January 28-February 1.</p>
+<p>Koch, J.D., B.C. Neely, and M.E. Colvin. 2015. Evaluation of precision and sample sizes using standardized sampling in Kansas Reservoirs. Kansas Natural Resource Conference. Wichita, KS. January 29-30.</p>
+<p>Colvin, M.E., J.T. Peterson, M.L. Kent, and C.B. Schreck. 2014. Evaluating of the influence of interspecific interactions on the structure of pathogen metacommunities in spring Chinook salmon. Joint Aquatic Sciences Meeting. Portland, OR.</p>
+<p>Herron, C., M.E. Colvin, M. Kent, C. Caudill and C. Schreck. 2014. Nanophyetus salminocola burdens in Chinook salmon (Onchorhynchus tshawystscha) in the Upper Willamette Basin. 50th Annual Meeting Oregon Chapter of the American Fisheries Society, Eugene, OR</p>
+<p>Colvin, M.E., J.T. Peterson, C. Sharpe, S. Benda, M. Kent, B. Dolan, C. Caudill and C. Schreck. 2014. Upper Willamette River spring Chinook prespawn mortality: data synthesis and prediction of optimal management actions. 50th Annual Meeting Oregon Chapter of the American Fisheries Society, Eugene, OR.</p>
+<p>Colvin, M.E., J.T. Peterson, C. Sharpe, S. Benda, M. Kent, B. Dolan, C. Caudill and C. Schreck,. 2014. Integrating science, management, and monitoring: A decision tool for optimizing annual spring Chinook outplanting strategies and prioritizing future research. Willamette River Science Review. Portland, OR.</p>
+<p>Colvin, M.E., J.T. Peterson, C. Sharpe, S. Benda, C. Schreck, M. Kent, B. Dolan, C. Caudill. 2013. Development of a tool to evaluate outplanting strategies and prespawn mortality of Upper Willamette River spring Chinook. Annual Meeting of the Western Division of the American Fisheries Society. Boise, Idaho.</p>
+<p>Kent, M.L., S.E. Benda, M.E. Colvin, J.T. Peterson, B. Dolan, C.B. Schreck. 2013. Pathogens, lesions and links to prespawning mortality in Chinook salmon from the Willamette River basin. 54th Joint Western Fish Disease Workshop and AFS Fish Health Section Meeting, Port Townsend, Washington.</p>
+<p>Colvin, M.E., J.T. Peterson, C. Sharpe, S. Benda, C. Schreck, M. Kent, B. Dolan, C. Caudill. 2013. Upper Willamette River spring Chinook prespawn mortality synthesis and modeling. 49th Annual Meeting Oregon Chapter of the American Fisheries Society, Bend, OR.</p>
+<p>Benda, S., M.L. Kent, J. Unrein, M.E. Colvin, R. Chitwood., C. Caudill, G. Naughton, C. Schreck. 2013. A closer look: stress and parasites in prespawn mortality. 49th Annual Meeting Oregon Chapter of the American Fisheries Society, Bend, OR.</p>
+<p>Colvin, M.E. 2012. Willamette River spring Chinook prespawn mortality: probing the depth of knowledge. Oregon State University Department of Fish and Wildlife Monday Morning Meeting.</p>
+<p>Colvin, M.E. 2011. Setting harvest targets for a common carp stock undergoing pulsed harvest. 72nd Midwest Fish and Wildlife Conference. Des Moines, IA. (Poster)</p>
+<p>Colvin, M.E., S. Grummer, J. Wahl, T. Stewart, and C. Pierce. 2010. Impacts of invasive species and restoration on recreational fisheries: Zebra mussels and common carp in a shallow hypereutrophic lake. 140th Annual Meeting American Fisheries Society, Pittsburgh, PA.</p>
+<p>Colvin, M.E., S. Grummer, J. Wahl, T. Stewart, and C. Pierce. 2010. Impacts of invasive species and restoration on recreational fisheries: zebra mussels and common carp in a shallow hypereutrophic lake. Joint Annual Meeting of the North American Benthological Society and ASLO, Santa Fe, NM. (Poster)</p>
+<p>Colvin, M.E., S. Grummer, J. Wahl, T. Stewart, and C. Pierce. 2010. Simulating food web interactions among nuisance common carp, invading zebra mussels, nutrient reduction and the recreational fishery of a shallow eutrophic lake. Iowa Chapter of the American Fisheries and Wildlife Society Annual Meeting. Ames, IA. (Poster)</p>
+<p>Skiff, J.J., M.E. Colvin, T. Stewart and C. Pierce. 2010. Analysis of sampling methods for Dreissena polymorpha veligers. Iowa Chapter of the American Fisheries and Wildlife Society Annual Meeting. Ames, IA. (Poster)</p>
+<p>Colvin, M.E., E. Katzenmeyer, T. Stewart and C. Pierce. 2009. Simulating food web interactions among nuisance common carp, invading zebra mussels, and the native biological community in a shallow eutrophic lake. 70th Midwest Fish and Wildlife Conference, Springfield, IL. (Poster)</p>
+<p>Colvin, M.E., J.L. Ebersole, P.J. Wigington, B. Miller, and B. Hansen. 2009. Using juvenile coho salmon demographics and movement to prioritize areas of focal restoration across a stream network. 138th Annual Meeting American Fisheries Society, Nashville, TN.</p>
+<p>Colvin, M.E., E. Katzenmeyer, T. Stewart and C. Pierce. 2009. Simulating food web interactions among nuisance common carp, invading zebra mussels, and the native biological community in a shallow eutrophic lake. 139th Annual Meeting American Fisheries Society, Nashville, TN. (Poster)</p>
+<p>Katzenmeyer, E., M.E. Colvin, C. Pierce and T. Stewart. 2009. Fish growth responses to changing conditions in Clear Lake: Effects of common carp (Cyprinus carpio) and zebra mussels (Dreissena polymorpha). 138th Annual Meeting American Fisheries Society, Nashville, TN.</p>
+<p>Katzenmeyer, E., M.E. Colvin, C. Pierce and T. Stewart. 2009. Fish growth responses to changing conditions in Clear Lake: Effects of common carp (Cyprinus carpio) and zebra mussels (Dreissena polymorpha). Iowa Chapter of the American Fisheries and Wildlife Society Annual Meeting. Ames, IA.</p>
+<p>Katzenmeyer, E., M.E. Colvin, C. Pierce and T. Stewart. 2009. Fish growth responses to changing conditions in Clear Lake: Effects of common carp (Cyprinus carpio) and zebra mussels (Dreissena polymorpha). 2nd Midwest Student Colloquium. Ames, IA.</p>
+<p>Colvin, M.E., C.L. Pierce, and T.W. Stewart. 2008. A simulation model to evaluate common carp (Cyprinus carpio) removal as a tool to improve water quality. 137th Annual Meeting American Fisheries Society, Ottawa, CA.</p>
+<p>Colvin, M.E., Ebersole, J.L., and P.J. Wigington. 2008. A demographic based strategy for prioritizing juvenile salmon habitat restoration across a stream network. 137th Annual Meeting American Fisheries Society, Ottawa, CA. (Poster)</p>
+<p>Katzenmeyer, E., C.L. Pierce and M.E. Colvin. 2008. Growth responses of fish species of multiple trophic levels to a zebra mussel (Dreissena polymorpha) invasion in a shallow, eutrophic lake. 138th Annual Meeting American Fisheries Society, Ottawa, CA.</p>
+<p>Colvin, M.E., C.L. Pierce, and T.W. Stewart. 2008. A simulation model to evaluate common carp (Cyprinus carpio) removal as a tool to improve water quality. North American Benthological Society Annual Meeting, Salt Lake City, UT.</p>
+<p>Colvin, M.E., C.L. Pierce, and T.W. 2008. Stewart. A simulation model to evaluate common carp (Cyprinus carpio) removal as a tool to improve water quality. 1st Midwest Student Colloquium. Lincoln, NE.</p>
+<p>Colvin, M.E., C.L. Pierce, and T.W. Stewart. 2008. A proposed ecosystem simulation model to predict the effects of common carp and zebra mussels in shallow lake ecosystems. 8th Annual Water Monitoring Conference, Ames, IA. (Poster)</p>
+<p>Colvin, M.E., C.L. Pierce, and T.W. Stewart. 2008. A simulation model to evaluate common carp (Cyprinus carpio) removal as a tool to improve water quality. Joint Iowa and Dakota Chapter AFS Annual Meeting, Sioux City, IA.</p>
+<p>Colvin, M.E., C.L. Pierce, and T.W. Stewart. 2008. A proposed ecosystem simulation model to predict the effects of common carp and zebra mussels in shallow lake ecosystems. Joint Iowa and Dakota Chapter AFS Annual Meeting, Sioux City, IA. (Poster)</p>
+<p>Ebersole, J.L., Colvin, M.E. Colvin, P.J. Wigington, S.G. Leibowitz, and K. Burnett. 2008. Application of restoration scenarios to basin-scale demographics of coho salmon inferred from pit-tags. Tag Conference, Auckland, NZ.</p>
+<p>Colvin, M.E., C.L. Pierce, and T.W. Stewart. 2008. A proposed ecosystem simulation model to predict the effects of common carp and zebra mussels in shallow lake ecosystems. 2nd USGS Modeling Conference, Orange Beach, AL. (Poster)</p>
+<p>Colvin, M.E., C.L. Pierce, and T.W. Stewart. 2007. Carp removal strategies: a simulation model to identify effective carp removal strategies for Clear Lake, IA. 68th Midwest Fish and Wildlife Conference, Madison, WI.</p>
+<p>Ebersole, J.L., M.E. Colvin, P.J. Wigington, J.P. Baker, M.R. Church, J. Compton, M. Cairns, and H.R. LaVigne. 2007. Variation in juvenile coho salmon end-of-summer size and abundance: Hierarchical analysis of habitat effects. American Fisheries Society Annual Meeting, San Francisco, CA.</p>
+<p>Wigington, P.J., M.E. Colvin, B. Miller, B. Hansen, H.R. LaVigne, J.P. Baker, and M.R. Church. 2007. Over-winter juvenile coho salmon growth and survival in a coastal Oregon stream network. American Fisheries Society Annual Meeting, San Francisco, CA.</p>
+<p>Ebersole, J.L., M.E. Colvin, P.J. Wigington Jr., M.R. Church, J. Compton, J.P. Baker, M.A. Cairns, S.G. Leibowitz, and D. White. 2007. Variation in juvenile coho salmon end-of-summer size: hierarchical analysis of habitat effects. 43rd Annual Meeting Oregon Chapter of the American Fisheries Society, Eugene, OR.</p>
+<p>Colvin, M.E., J. L. Ebersole, P.J. Wigington Jr., and K. Rodnick. Influence of summer temperature spatial variability on distribution and condition of juvenile coho salmon. 136th Annual Meeting American Fisheries Society, Lake Placid, NY.</p>
+<p>Colvin, M.E., J.L. Ebersole, P.J. Wigington Jr., J.P. Baker, M.A. Cairns, H.R. LaVigne, B. Hansen, and B. Miller. 2006. Factors associated with the timing of coho salmon smolts. 42nd Annual Meeting Oregon Chapter of the American Fisheries Society, Sun River, OR.</p>
+<p>Colvin, M.E., K.J. Anlauf, and C.M. Moffitt. 2005. The ecology of Myxobolus cerebralis in the Pahsimeroi River drainage, Idaho: factors affecting the distribution and intensity. Idaho State Chapter of the American Fisheries Society Annual Meeting, Boise, ID.</p>
+<p>Anlauf, K.J., C.M. Moffitt, and M.E. Colvin. 2005. The influence of landscape, stream, and microhabitat parameters on Tubificid habitat and population abundances. Idaho Chapter of the American Fisheries Society Annual Meeting, Boise, ID.</p>
+<p>Moffitt, C.M., M.E. Colvin, and B. Sun. 2005. Microbial profiles from rainbow trout intestines, New Zealand mudsnails, and hatchery inflow and outflow at Hagerman State Fish Hatchery, Idaho. American Fisheries Society Fish Health Section 46th Western Fish Disease Workshop, Boise, ID.</p>
+<p>Colvin, M.E., K.J. Anlauf, C.M. Moffitt, and K. Johnson. 2005. Addressing risks of reconnection in watersheds of the Salmon and Pahsimeroi River. 11th Annual Whirling Disease Symposium, Denver, CO. (Poster)</p>
+<p>Colvin, M.E., K.J. Anlauf, C.M. Moffitt, and K. Johnson. 2005. Ecology of Myxobolus cerebralis in the Pahsimeroi River drainage, Idaho: factors affecting the distribution. 11th Annual Whirling Disease Symposium, Denver, CO. (Poster)</p>
+<p>Anlauf, K.J., C.M. Moffitt, and M.E. Colvin. 2005. The Influence of landscape, stream, and microhabitat parameters on Tubificid habitat and population abundance. 11th Annual Whirling Disease Symposium, Denver, CO. (Poster)</p>
+<p>Colvin, M.E., and C.M. Moffitt. 2004. Piecing together the Pahsimeroi puzzle. Idaho Chapter of the American Fisheries Society Annual Meeting, Moscow, ID.</p>
+<p>Anlauf, K.J., C.M. Moffitt, M.E. Colvin, and B.E. Reiman. 2004. Understanding the ecology of whirling disease through modeling of Tubificid habitat. Idaho Chapter of the American Fisheries Society Annual Meeting, Moscow, ID.</p>
+<p>Colvin, M.E., K.J. Anlauf, K. Johnson, and C.M. Moffitt. 2004. Effects of fish distributions on whirling disease in the Pahsimeroi River drainage, Idaho. Joint Western Division of the American Fisheries Society and 10th Annual Whirling Disease Foundation Annual Meeting, Salt Lake City, UT.</p>
+<p>Colvin, M.E., K.J. Anlauf, K. Johnson, and C.M. Moffitt. 2003. Prevalence of Myxobolus cerebralis in the Pahsimeroi watershed, Idaho: associations between landscape and fine scale habitat characteristics. 9th Annual Whirling Disease Symposium, Seattle, WA.</p>
+<p>Anlauf, K.J., C.M. Moffitt, M.E. Colvin, A.H. Haukenes,and B.E. Reiman. 2003. Progress in using GIS based landscape parameters to model the likely influence of Myxobolus cerebralis in Idaho. 9th Annual Whirling Disease Symposium, Seattle, WA.</p>
+<p>Moffitt, C.M., M.K. Santora, C.J. Williams, K.J. Anlauf, M.E. Colvin, and K.A. Johnson. 2003. Using parameters from landscape and population based models to understand the dynamics of Myxobolus cerebralis infections. 9th Annual Whirling Disease Symposium, Seattle, WA.</p>
+<p>Colvin, M.E., K.J. Anlauf, K. Johnson, and C.M. Moffitt. 2003. Prevalence of Myxobolus cerebralis in the Pahsimeroi watershed, Idaho: Associations between landscape and fine scale habitat characteristics. Idaho Chapter of the American Fisheries Society Annual Meeting, Boise, ID.</p>
+<p>Colvin, M.E. and C.M. Moffitt. 2003. Modeling of Myxobolus cerebralis infections in a landscape altered by irrigation. 4th Annual USGS Conference on Science in Oregon and Washington, Troutdale, OR. (Poster)</p>
+</div>
+<div id="outreach-other-creative-work" class="section level3">
+<h3>Outreach &amp; other creative work</h3>
+<p>Colvin, M.E., 2015. The legacy of Missouri Mike Colvin. Fisheries Management Newsletter (March).</p>
+<p>Colvin, M.E., Katzenmeyer, E.K.,Stewart,T.W., and C.L. Pierce. 2009. Zebra mussels: overview, preliminary trends and implications for the future of Clear Lake. Project Clear Newsletter.</p>
+<p>Colvin, M.E., Katzenmeyer, E.K.,Stewart,T.W., and C.L. Pierce. 2010. Clear Lake project overview. Clear Lake Association Annual Picnic. Clear Lake, IA.</p>
+<p>Colvin, M.E., Katzenmeyer, E.K.,Stewart,T.W., and C.L. Pierce. 2009. Zebra mussel biology and potential impacts in Clear Lake. Clear Lake Association Annual Picnic. Clear Lake, IA (Poster).</p>
+<p>Colvin, M.E., Katzenmeyer, E.K.,Stewart,T.W., and C.L. Pierce. 2008. Clear Lake project overview. Clear Lake Association Annual Picnic. 2008. Clear Lake, IA.</p>
+<p>Colvin, M.E., C.L. Pierce, and T.W. Stewart. 2008. Impacts of nuisance species in a shallow lake: A simulation modeling approach for restoration and management. Ames Anglers, Ames, IA.</p>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+$(document).ready(function () {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+});
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

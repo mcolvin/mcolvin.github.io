@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title></title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<link rel="stylesheet"
+      href="site_libs/highlight/textmate.css"
+      type="text/css" />
+<script src="site_libs/highlight/highlight.js"></script>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs && document.readyState && document.readyState === "complete") {
+   window.setTimeout(function() {
+      hljs.initHighlighting();
+   }, 0);
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 45px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+
+.section h2 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h3 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h4 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h5 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h6 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script src="site_libs/navigation-1.0/tabsets.js"></script>
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Colvin lab</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    About the lab
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="members.html">Lab members</a>
+    </li>
+    <li>
+      <a href="cv.html">CV</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Projects
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="pms.html">Chinook Prespawning Mortality</a>
+    </li>
+    <li>
+      <a href="clesm.html">Clear Lake Ecosystem Simulation</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Teaching &amp; Workshops
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="class.html">Classes</a>
+    </li>
+    <li>
+      <a href="workshops.html">Workshops</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Publications &amp; Presentations
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="peer-reviewed.html">Peer reviewed</a>
+    </li>
+    <li>
+      <a href="reports.html">Reports</a>
+    </li>
+    <li>
+      <a href="peer-reviewed.html">Scientific presentations</a>
+    </li>
+    <li>
+      <a href="reports.html">Public outreach</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Models &amp; Apps
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="about-apps.html">About</a>
+    </li>
+    <li>
+      <a href="peer-reviewed.html">Scientific</a>
+    </li>
+    <li>
+      <a href="teaching-apps.html">Teaching</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Lab operations
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="stuff.html">Stuff</a>
+    </li>
+    <li>
+      <a href="travel.html">Travel</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Additional Resources
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="R-tutorials.html">R tutorials</a>
+    </li>
+  </ul>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<p><br> <br> <br> <img src="media/DSCF0082.JPG" width="100%" /> <!--
+rmarkdown::render_site()# build website
+rmarkdown::render_site("publications.Rmd")# build website
+q(save="no")  
+--></p>
+<div id="publications-and-reports" class="section level2">
+<h2>Publications and Reports</h2>
+<div id="peer-reviewed-publications" class="section level3">
+<h3>Peer Reviewed Publications</h3>
+<p>Miranda, L.E., M.E. Colvin, A.C. Shamaskin, L.A. Bull, T. Holman, and R. Jones. Accepted. Length-limits fail to restructure a Largemouth Bass population: A 27-year case history. Submitted to North American Journal of Fisheries Management.</p>
+<p>DeWeber, J.T., J.T. Peterson, C.S. Sharpe, M.L. Kent, M.E. Colvin, and C.B. Schreck. 2017. Prespawn mortality in outplanted Chinook Salmon is highly variable and associated with outplant date. North American Journal of Fisheries Management. 1: 162-175.</p>
+<p>Colvin, M.E. and J.T. Peterson. 2016. Preparing future fisheries professionals to make good decisions. Fisheries 41(8): 473-474.</p>
+<p>Neely, B.C., J.D. Koch, and M.E. Colvin. 2016. Utility of reservoir characteristics on collection of representative and precise fish samples: implications for determining minimum sampling effort. North American Journal of Fisheries Management. 36: 285-293.</p>
+<p>Howell, P.J., M.E. Colvin, P.M. Sankovich, D.V. Buchanan, and A.R. Hemmingsen. 2016. Life Histories, Demography, and Distribution of Bull Trout from Mill Creek, a Tributary of the Walla Walla River. Transactions of the American Fisheries Society. 145 (1), 173-194.</p>
+<p>Dolan, B.P., K.M. Fisher, M.E. Colvin, S.E. Benda, J.T. Peterson, M.L. Kent, and C.B. Schreck. 2016. Innate and adaptive immune responses in migrating spring-run adult chinook salmon, Oncorhynchus tshawytscha. Fish &amp; Shellfish Immunology 48:136-144.</p>
+<p>Dolan, B., K. Fisher, M.E. Colvin, S. Benda, C. Danley, J.T. Peterson, M. Kent, P. Zwollo, and C.B. Shreck. 2015. Diminished innate, but not adaptive, immune responses in migrating adult Chinook salmon, Oncorhynchus tshawytscha. The Journal of Immunology 194 (1 Supplement): 146.15-146.15.</p>
+<p>Colvin, M.E., T.W. Stewart, and C.L. Pierce. 2015. A food web modelling analysis of a Midwestern, USA eutrophic lake dominated by non-native Common Carp and Zebra Mussels. Ecological Modelling. 32: 26-40.</p>
+<p>Colvin, M.E., J.T. Peterson, M. Kent, C.S. Sharpe, and C.B. Schreck. 2015. Using occupancy modeling to estimate detection probabilities and prevalence from hierarchically structured pathogen detection data. PLOS ONE.</p>
+<p>Carlson, A.K., J.R. Fischer, D.J. Dembkowski, L.L. Pierce, M.E. Colvin, J.A. Kerns. 2015. Purpose, History, and Importance of the “Student Angle”. Fisheries. 40(2): 81-83.</p>
+<p>Collymore, C., V. Watral, J.R. White, M.E. Colvin, S. Rasmussen, R.J. Tolwani, M.L. Kent. 2014. Tolerance and Efficacy of Emamectin benzoate and Ivermectin for the Treatment of Pseudocapillaria tomentosa in laboratory Zebrafish (Danio rerio). Zebrafish. 11(5): 490-497.</p>
+<p>Koch, J.D., B.C. Neely, and M.E. Colvin. 2014. Evaluation of precision and sample sizes using standardized sampling in Kansas Reservoirs. North American Journal of Fisheries Management. 34(6): 1211-1220.</p>
+<p>Mayfield, M.P., L.D. Schultz, L.A. Wyss, M.E. Colvin, and C.B. Schreck. 2014. Using spatial resampling to assess survey length requirements to detect and estimate spawner abundance from redd counts: an example using Pacific lamprey. North American Journal of Fisheries Management. 34(5): 923-931.</p>
+<p>Colvin, M.E. G.D. Scholten, and P.W. Bettoli. 2013. Predicting paddlefish roe yields using an extension of the Beverton-Holt equilibrium yield model. North American Journal of Fisheries Management. 33: 940-949.</p>
+<p>Colvin, M.E., Pierce, C.L., T.W. Stewart, and S.E. Grummer. 2012. Strategies to control a common carp population by pulsed commercial harvest. North American Journal of Fisheries Management. 32(6): 1251-1264.</p>
+<p>Colvin, M.E., C.L. Pierce, and T.W. Stewart. 2012. Semi-discrete biomass dynamic modeling: an improved approach for assessing fish stock responses to pulsed harvest events. Canadian Journal of Fisheries and Aquatic Sciences. 69(10): 1710-1721.</p>
+<p>Ebersole, J.L., M.E. Colvin, P.J. Wigington, S.G. Leibowitz, J.P. Baker, M.R. Church, J.E. Compton, and M.A. Cairns. 2009. Hierarchical modeling of late-summer weight and summer abundance of juvenile coho salmon across a stream network. Transactions of the American Fisheries Society. 138: 1138-1156.</p>
+<p>Colvin, M.E. and J. Kopaska. 2009. The role of the student member in the American Fisheries Society Fisheries Information and Technology Section. Fisheries. 34(6): 305-306.</p>
+<p>Ebersole, J.L., M.E. Colvin, P.J. Wigington, S.G. Leibowitz, J.P. Baker, M.R. Church, J.E. Compton, B.A., Miller, M.A. Cairns, B.P. Hansen, and H.R. Lavigne. 2009. Modeling stream network-scale variation in coho salmon overwinter survival and smolt size. Transactions of the American Fisheries Society. 138: 564-580.</p>
+<p>Colvin, M.E., and C.M. Moffitt. 2009. Evaluation of irrigation canal networks to assess stream connectivity in a watershed. River Research and Applications. 25: 486-496.</p>
+<p>Wigington, P.J., J.E. Ebersole, M.E. Colvin, S.G. Leibowitz, B. Miller, B. Hansen, H.R. Lavigne, D. White, J.P. Baker, M.R. Church, J.R. Brooks, M.A. Cairns, and J.E. Compton. 2006. Salmon dependent on intermittent streams. Frontiers in Ecology and the Environment. 4(10): 513-518.</p>
+</div>
+</div>
+<div id="articles-and-reports-in-review" class="section level2">
+<h2>Articles and reports in review</h2>
+<p>Stutzman, L.A., J.L. Belant, D.J.R. Lafferty, D.D. Gustine, T.L. Hiller, M.E. Colvin, B.A. Mangipane, G.V. Hilderbrand. In review. Influences of landscape heterogeneity on home-range sizes of brown bears in a salmon subsidized system. Submitted to Journal of Zoology.</p>
+<p>Miranda, L.E., and M.E. Colvin. In review. Sampling for age and growth estimation. Chapter 5 in Age and Growth of Fishes. Quist, M.C., and D. Isserman editors.</p>
+<p>Colvin, M.E., J.T. Peterson, C. Sharpe, M.L. Kent, and C.B. Schreck. In Review. Identifying optimal translocation policies given factors associated with adult spring-run Chinook Salmon translocation mortality. North American Journal of Fisheries Management.</p>
+<p>Stutzman, L.A., J.L. Belant, D.J.R. Lafferty, D.D. Gustine, T.L. Hiller, M.E. Colvin, B.A. Mangipane, G.V. Hilderbrand. In review. Dietary plasticity in a nutrient-rich system does not influence brown bear body condition or denning. Submitted to Polar Biology.</p>
+<p>Randall, M., M.E. Colvin, K. Steffensen, T. Welker, L. Pierce, and R. Jacobson. In review. Assessment of Adult Pallid Sturgeon Fish Condition, Lower Missouri River: Application of New Information to the Missouri River Recovery Program. U.S. Geological Survey Open-file Report 2017-xxxx.</p>
+</div>
+<div id="technical-reports" class="section level2">
+<h2>Technical reports</h2>
+<div id="peer-reviewed" class="section level3">
+<h3>Peer-reviewed</h3>
+<p>Jacobson, R. B., M. L. Annis, M. E. Colvin, D. A. James, T. L. Welker, and M. J. Parsley. 2016. Missouri River Scaphirhynchus albus (pallid sturgeon) effects analysisâ€”Integrative report 2016. Report 2016-5064, Reston, VA.</p>
+<p>Jacobson, R.B., M.J. Parsley, M.L. Annis, M.E. Colvin, T.L. Welker, and D.A. James. 2016. Development of working hypotheses linking management of the Missouri River to population dynamics of Scaphirhynchus albus (pallid sturgeon): U.S. Geological Survey, Open-file Report 2015-1236, 36 p. 10.3133/ofr20151236.</p>
+<p>Jacobson, R.B., M.J. Parsley, M.A. Annis, M.E. Colvin, T.L. Welker, and D.A. James, D. 2015. Development of conceptual ecological models linking management of the Missouri River to pallid sturgeon population dynamics: U.S. Geological Survey, Open-File Report 2015-1038, 47 p. 10.3133/ofr20151038.</p>
+<p>Jacobson, R.B., M.L. Annis, M.J. Parsley, D.A. James, M.E. Colvin, and T.L. Welker. 2015. Scientific information to support the Missouri River pallid sturgeon effects analysis: U.S. Geological Survey, Open-file Report 2015-1226, 78 p. 10.3133/ofr20151226.</p>
+</div>
+<div id="non-peer-reviewed" class="section level3">
+<h3>Non peer-reviewed</h3>
+<p>Gilliland, C.R., M.E. Colvin, P.J. Allen, and J.W. Neal. 2016. Paddlefish Polyodon spathula spawning and migratory habitat use in the Noxubee River System with focus on the Noxubee National Wildlife Refuge Management. Interim report to the U.S. Fish and Wildlife Service. 27 pages.</p>
+<p>Miranda, L.E., M.E. Colvin, and A.C. Shamaskin. 2016. Review, revision and development of new monitoring protocols to facilitate the meeting of goals and objectives of freshwater fisheries management in Mississippi. Progress report to Mississippi Department of Wildlife, Fisheries, and Parks. 9 pages.</p>
+<p>Peterson, J.T., K. McDonnell, and M.E. Colvin. 2014. Coarse Resolution Planning Tools for Prioritizing Central Valley Project Improvement Act Fisheries Activities. Final Report to Central Valley Project Improvement Act Fisheries Program, Sacramento, CA.</p>
+<p>Colvin, M.E. 2013. Mill Creek Bull Trout Survival Analysis. Completion report to the U.S. Forest Service.</p>
+<p>Schreck, C.B., M.L. Kent, M.E. Colvin, S. Benda, C. Sharpe, J.T. Peterson, and B. Dolan. 2013. Potential causes and management of prespawn mortality in adult upper Willamette River spring Chinook salmon. Annual report to the U.S. Army Corps of Engineers.</p>
+<p>Colvin, M.E. 2012. Impacts of nuisance species in a shallow lake: A systems modeling approach for evaluating restoration and management policies. Final Report to the Iowa Department of Natural Resources.</p>
+<p>Colvin, M.E., C.L. Pierce, and L. Beck. 2012. Age structure and growth of invasive common carp populations in the Malheur National Wildlife Refuge. Final Report to the U.S. Fish and Wildlife Service Malheur National Wildlife Refuge.</p>
+<p>Colvin, M.E., E.D. Katzenmeyer, T.W. Stewart, and C.L. Pierce. 2010. The Clear Lake ecosystem simulation model (CLESM) project. Annual Progress Report to the Iowa Department of Natural Resources.</p>
+<p>Colvin, M.E., E.D. Katzenmeyer, T.W. Stewart, and C.L. Pierce. 2009. The Clear Lake ecosystem simulation model (CLESM) project. Annual Progress Report to the Iowa Department of Natural Resources.</p>
+<p>Colvin, M.E., E.D. Katzenmeyer, T.W. Stewart, and C.L. Pierce. 2008. The Clear Lake ecosystem simulation model (CLESM) Project. Annual Progress Report to the Iowa Department of Natural Resources.</p>
+<p>Munson, A.D., M.E. Colvin, and K.A. Johnson. 2005. Ceratomyxa shasta exposure trials at Oxbow fish hatchery. Idaho Department of Fish and Game Fishery Research Report 04-48. Boise, ID.</p>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+$(document).ready(function () {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+});
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
