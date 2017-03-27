@@ -1,8 +1,8 @@
 ---
 title: ""
 ---
-```{r echo=FALSE, out.width="95%"}
-include_graphics("media/DSCF0082.JPG")
+```{r echo=FALSE, out.height="15%"}
+include_graphics("media/20170321_180723.jpg")
 ```
 <!--
 library(knitr)
@@ -13,12 +13,7 @@ rmarkdown::render_site()# build website
 -->
 
 
-<iframe src="https://goo.gl/forms/fl1adqneekSiiNup2"></iframe>
-
-<!--
-
-About the lab
+# About the lab
 
 * How do we use science to make smart natural resource decisions?
 * How can we formally incorporate monitoring into decision making
--->
