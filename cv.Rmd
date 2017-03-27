@@ -1,4 +1,4 @@
----
+Ôªø---
 title: ""
 ---
 ```{r echo=FALSE, out.width="95%"}
@@ -87,7 +87,7 @@ Thesis: Inventory of pathogenic bacteria of Maine baitfish
 
 ###Peer-reviewed
 
-1. Jacobson, R. B., M. L. Annis, M. E. Colvin, D. A. James, T. L. Welker, and M. J. Parsley. 2016. Missouri River Scaphirhynchus albus (pallid sturgeon) effects analysisóIntegrative report 2016. Report 2016-5064, Reston, VA.
+1. Jacobson, R. B., M. L. Annis, M. E. Colvin, D. A. James, T. L. Welker, and M. J. Parsley. 2016. Missouri River Scaphirhynchus albus (pallid sturgeon) effects analysis‚ÄîIntegrative report 2016. Report 2016-5064, Reston, VA.
 1. Jacobson,   R.B., M.J. Parsley, M.L. Annis, M.E. Colvin, T.L. Welker, and D.A. James. 2016. Development of working hypotheses linking management of the Missouri River to population dynamics of Scaphirhynchus albus (pallid sturgeon): U.S. Geological Survey,  Open-file Report 2015-1236, 36 p. 10.3133/ofr20151236.
 1. Jacobson, R.B., M.J. Parsley, M.A. Annis, M.E. Colvin, T.L. Welker, and D.A. James, D. 2015. Development of conceptual ecological models linking management of the Missouri River to pallid sturgeon population dynamics: U.S. Geological Survey, Open-File Report 2015-1038, 47 p. 10.3133/ofr20151038.
 1. Jacobson, R.B., M.L. Annis, M.J. Parsley, D.A. James, M.E. Colvin, and T.L. Welker. 2015. Scientific information to support the Missouri River pallid sturgeon effects analysis: U.S. Geological Survey, Open-file Report 2015-1226, 78 p. 10.3133/ofr20151226.
@@ -154,45 +154,45 @@ Thesis: Inventory of pathogenic bacteria of Maine baitfish
 
 2013
 
-* FW599: Introduction to R and data management for Fisheries and Wildlife applications ñ Oregon State University  (Instructor and co-developer with J.T. Peterson)
-* FW537:  Structured Decision Making in Natural Resources ñ Oregon State University  (Ecampus Instructor)
-* FW538:  Structured Decision Making in Natural Resources Laboratory ñ Oregon State University  (Ecampus Instructor)
-* Making scientific graphics with R ñ Workshop at Research Advances in Fisheries and Wildlife Ecology Symposium (Instructor)
+* FW599: Introduction to R and data management for Fisheries and Wildlife applications ‚Äì Oregon State University  (Instructor and co-developer with J.T. Peterson)
+* FW537:  Structured Decision Making in Natural Resources ‚Äì Oregon State University  (Ecampus Instructor)
+* FW538:  Structured Decision Making in Natural Resources Laboratory ‚Äì Oregon State University  (Ecampus Instructor)
+* Making scientific graphics with R ‚Äì Workshop at Research Advances in Fisheries and Wildlife Ecology Symposium (Instructor)
 
 2012
 
-* FW537:  Structured Decision Making in Natural Resources ñ Oregon State University  (Ecampus Instructor)
-* FW538:  Structured Decision Making in Natural Resources Laboratory ñ Oregon State University  (Ecampus Instructor)
+* FW537:  Structured Decision Making in Natural Resources ‚Äì Oregon State University  (Ecampus Instructor)
+* FW538:  Structured Decision Making in Natural Resources Laboratory ‚Äì Oregon State University  (Ecampus Instructor)
 
 2011
 
-* Clear Lake Ecosystem Model Technology Transfer ñ Iowa State University  (Instructor for a 1 day workshop)
-* AEcl 420/520:  Fisheries science ñ Iowa State University (Guest Lecturer on fisheries models)
+* Clear Lake Ecosystem Model Technology Transfer ‚Äì Iowa State University  (Instructor for a 1 day workshop)
+* AEcl 420/520:  Fisheries science ‚Äì Iowa State University (Guest Lecturer on fisheries models)
 * Iowa Chapter AFS Continuing Education Course Age and Growth (Workshop Assistant)
 
 2010
 
-* Science with Practice:  Benthic invertebrate assemblages in Clear Lake, Iowa: Spatiotemporal variation due to habitat and the zebra mussel invasion ñ Iowa State University (Mentor for undergraduate student)
+* Science with Practice:  Benthic invertebrate assemblages in Clear Lake, Iowa: Spatiotemporal variation due to habitat and the zebra mussel invasion ‚Äì Iowa State University (Mentor for undergraduate student)
 
 2009
 
 * AFS Continuing education course:  R for routine fisheries analysis (Workshop Instructor for a 1.5 day workshop)
-* AEcl 420/520:  Fisheries science ñ Iowa State University (Guest Lecturer on fisheries models)
-* AEcl 490:  Independent study:  Analysis of Sampling Methods for Dreissena polymorpha  veligers ñ Iowa State University (Mentor for undergraduate student)
-* Ent 525:  Aquatic Insects ñ Iowa State University (Guest Lecturer)
+* AEcl 420/520:  Fisheries science ‚Äì Iowa State University (Guest Lecturer on fisheries models)
+* AEcl 490:  Independent study:  Analysis of Sampling Methods for Dreissena polymorpha  veligers ‚Äì Iowa State University (Mentor for undergraduate student)
+* Ent 525:  Aquatic Insects ‚Äì Iowa State University (Guest Lecturer)
 
 2008
 
-* AEcl 575x:  Quantitative methods in field ecology ñ Iowa State University (Teaching Assistant, developed laboratory component of class)
+* AEcl 575x:  Quantitative methods in field ecology ‚Äì Iowa State University (Teaching Assistant, developed laboratory component of class)
 
 2004
 
-* Fish 424:  Fish diseases ñ University of Idaho (Teaching Assistant)
+* Fish 424:  Fish diseases ‚Äì University of Idaho (Teaching Assistant)
 
 ## Invited presentations
 1. Colvin, M.E., R. Jacobson, D. James, L. Pierce, M. Randall, and T. Welker.  2017. Missouri River Pallid Sturgeon Effects Analysis. Lower Basin Pallid Sturgeon Workgroup Meeting. January 10th.
 1. Gilliland, C.R. and M.E. Colvin. 2016.  Paddlefish Polyodon spathula spawning and migratory habitat use in the Noxubee River System with focus on the Noxubee National Wildlife Refuge.  Presentation to the Audubon Society. Mississippi State, September 8th.
-1. M.E. Colvin.  2016. Challenges and potential solutions to integrating fisheries research, management, and monitoringóemerging patterns from a national perspective.  42nd  annual meeting of the Mississippi Chapter of the American Fisheries Society, Tara Lodge, MS. March 9-11th.
+1. M.E. Colvin.  2016. Challenges and potential solutions to integrating fisheries research, management, and monitoring‚Äîemerging patterns from a national perspective.  42nd  annual meeting of the Mississippi Chapter of the American Fisheries Society, Tara Lodge, MS. March 9-11th.
 1. Colvin, M.E., R. Jacobson, D. James, L. Pierce, M. Randall, and T. Welker.  2016.  Pallid Sturgeon population modeling update.  Middle Basin Pallid Sturgeon Recovery Meeting.  Kansas City.  February 18th -19th.
 1. Jacobson, R., M.E. Colvin, M. Randall, D. James, and T. Welker. 2016.  Effects Analysis.  Lower Basin Pallid Sturgeon Recovery Meeting.  Middle Basin Pallid Sturgeon Recovery Meeting.  Kansas City.  February 18th -19th.
 1. Colvin, M.E., R. Jacobson, D. James, L. Pierce, M. Randall, and T. Welker.  2016.  Pallid Sturgeon population modeling update.  Lower Basin Pallid Sturgeon Recovery Meeting.  Cape Girardeau.  January 11th-13th.
@@ -229,11 +229,11 @@ Thesis: Inventory of pathogenic bacteria of Maine baitfish
 1. Jacobson, R., M.E. Colvin, D. James, L. Pierce, M. Randall, and T. Welker. 147th Annual Meeting of the American Fisheries Society, Kansas City, MO.  August 21-25th.  
 1. Miranda, L.E., A. Shamanskin, and M.E. Colvin.  2016. Long-term population changes in relation to harvest regulations at Ross Barnett Reservoir, Mississippi. 147th Annual Meeting of the American Fisheries Society, Kansas City, MO.  August 21-25th.  
 1. Kramer, N.W., Q.E. Phelps, C.L. Pierce, and M.E. Colvin 2016. Using Food Web Modeling To Determine Effects of Increased Exploitation on Invasive Carps In The Middle Mississippi River. 76th annual Midwest Fish and Wildlife Conference.  Grand Rapids, MI. January 27th.
-1. Shirley, C., N. Aycock, and M.E. Colvin.  2016. Effects of proposed length limit changes and ë5 under ruleí on Lake Washington crappie yield.  Mississippi State University undergraduate Research Symposium.  Mississippi State, MS.  April 15th.  (Poster)
+1. Shirley, C., N. Aycock, and M.E. Colvin.  2016. Effects of proposed length limit changes and ‚Äò5 under rule‚Äô on Lake Washington crappie yield.  Mississippi State University undergraduate Research Symposium.  Mississippi State, MS.  April 15th.  (Poster)
 1. Kramer, N.W., Q.E. Phelps, C.L. Pierce, and M.E. Colvin 2016. Using Food Web Modeling To Determine Effects of Increased Exploitation on Invasive Carps In The Middle Mississippi River. 76th annual Midwest Fish and Wildlife Conference.  Grand Rapids, MI. January 27th.
-1. Jacobson, R., M.E. Colvin, D. James, L. Pierce, M. Randall, and T. Welker.  2016.  Missouri River Pallid Sturgeon Effects Analysis: Progress and Whatís Next. Missouri River Natural Resources Conference.  March 22nd-25th.  Great Falls, MT.
+1. Jacobson, R., M.E. Colvin, D. James, L. Pierce, M. Randall, and T. Welker.  2016.  Missouri River Pallid Sturgeon Effects Analysis: Progress and What‚Äôs Next. Missouri River Natural Resources Conference.  March 22nd-25th.  Great Falls, MT.
 1. Colvin, M.E., R. Jacobson, D. James, L. Pierce, M. Randall, and T. Welker.  2016.  Model development to support Pallid Sturgeon effects analysis and adaptive management.  Missouri River Natural Resources Conference.  March 22nd-25th.  Great Falls, MT. 
-1. Shirley, C., N. Aycock, and M.E. Colvin.  2016. Effects of proposed length limit changes and ë5 under ruleí on Lake Washington crappie yield.  42nd annual meeting of the Mississippi Chapter of the American Fisheries Society, Tara Lodge, MS. March 9-11th.
+1. Shirley, C., N. Aycock, and M.E. Colvin.  2016. Effects of proposed length limit changes and ‚Äò5 under rule‚Äô on Lake Washington crappie yield.  42nd annual meeting of the Mississippi Chapter of the American Fisheries Society, Tara Lodge, MS. March 9-11th.
 1. Shamaskin, A., M.E. Colvin, L.E. Miranda, L. Bull, and T. Holman.  2016. Long-term population changes in relation to harvest regulations at Ross Barnett Reservoir, Mississippi.  42nd annual meeting of the Mississippi Chapter of the American Fisheries Society, Tara Lodge, MS. March 9-11th.
 1. Veum, S. S.A. Rush, M.E. Colvin, and S.R. Reagan.  2016. Habitat use and niche partitioning of bats in the central gulf coastal plains of Mississippi.  21st Annual Meeting of the Southeastern Bat Diversity Network & 26th Annual Colloquium on the Conservation of Mammals in the Southeastern U.S. February 18th -19th.
 1. Kneece, M.R., J.C. Shipes, J.B. Davis, E.P. Wiggers, R.M. Kaminski, and M.E. Colvin. 2016. Nesting Ecology of Mottled Ducks in Coastal South Carolina. North American Duck Symposium and Workshop. Annapolis, February 1-5.
@@ -316,7 +316,7 @@ Thesis: Inventory of pathogenic bacteria of Maine baitfish
     mention for innovative research quantifying the effects of multi-level
     factors on fish populations across entire watersheds) (2011)
 * American Fisheries Society Skinner Award (2010)
-* Iowa Natural Heritage Foundation J.N. ìDingî Darling Scholarship Sherry 
+* Iowa Natural Heritage Foundation J.N. ‚ÄúDing‚Äù Darling Scholarship Sherry 
     Fisher Award  (2010)
 * Fenske Award Finalist  (2009)
 * Kenneth Carlander Award (2009)
@@ -354,13 +354,13 @@ Thesis: Inventory of pathogenic bacteria of Maine baitfish
 
 ### Departmental committees and service
 
-* 2016-2017	Faculty Search Committee ñ Coastal Fisheries Extension, Mississippi State University
-* 2016-pres.	DAFVM Awards Committee ñ WFA representative
+* 2016-2017	Faculty Search Committee ‚Äì Coastal Fisheries Extension, Mississippi State University
+* 2016-pres.	DAFVM Awards Committee ‚Äì WFA representative
 * 2015-pres.	WFA Communications Committee
-* 2015	Faculty Search Committee ñ DRAC Aquaculture Economist, Mississippi State University
+* 2015	Faculty Search Committee ‚Äì DRAC Aquaculture Economist, Mississippi State University
 * 2014-Pres.	Wildlife, Fisheries and Aquaculture Library Representative
-* 2012	Faculty Research Assistant Search Committee ñ Department of Fish and Wildlife, Oregon State University
-* 2011-2012	Faculty Search Committee ñ Graduate Student Representative Department of Natural Resource Ecology and Management, Iowa State University
+* 2012	Faculty Research Assistant Search Committee ‚Äì Department of Fish and Wildlife, Oregon State University
+* 2011-2012	Faculty Search Committee ‚Äì Graduate Student Representative Department of Natural Resource Ecology and Management, Iowa State University
 
 ## Professional service
 
@@ -368,7 +368,7 @@ Thesis: Inventory of pathogenic bacteria of Maine baitfish
 * 2015-pres.	Education Section of the American Fisheries Society:  Southeastern Division Representative
 * 2014- pres.	Fisheries Management Section of the American Fisheries Society:  Western Division Representative
 * 2012-pres.	Education Section of the American Fisheries Society: New initiatives committee chair
-* 2011	Symposium chair ìControl Strategies Nonnative and Native Nuisance Aquatic Speciesî 72nd Midwest Fish and Wildlife Conference
+* 2011	Symposium chair ‚ÄúControl Strategies Nonnative and Native Nuisance Aquatic Species‚Äù 72nd Midwest Fish and Wildlife Conference
 * 2010-2012	Malheur National Wildlife Refuge: Carp Suppression Research and Assessment Working Group
 * 2009-2010	American Fisheries Society Student Subsection: President
 * 2008-2012	Iowa Chapter of the American Fisheries Society: Webmaster
