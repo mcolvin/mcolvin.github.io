@@ -11,30 +11,49 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Postdoctoral Scholar, 2012-2014	
+    Oregon State University
+    Research focus:  Causes and management of prespawn mortality in spring Chinook salmon, structured decision making of natural resources
+* Ph.D. Iowa State University, 2012
+    Major: Fisheries Biology
+    Dissertation: Impacts of non-native species in a shallow lake: A simulation modeling approach for restoration and management
+    Research focus:  Causes and management of prespawn mortality in spring Chinook salmon, structured decision making of natural resources
+* M.S. University of Idaho, 2005
+    Major: Fisheries Resources
+    Thesis: Ecology of Myxobolus cerebralis in the Pahsimeroi drainage, Idaho
+* B.S. Unity College, 2000
+    Major: Aquaculture
+    Thesis: Inventory of pathogenic bacteria of Maine baitfish
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2014-pres. Mississippi State University, Department of Wildlife, Fisheries, and Aquaculture
+    * Assistant Professor
+    * Starkville, Mississippi, USA
+* 2012-2014	Oregon State University, Department of Fisheries and Wildlife 
+    * Postdoctoral Scholar
+    * Corvallis, Oregon, USA
+* 2007- 2012 Iowa State University, Natural Resource Ecology and Management Department
+    * Research Assistant 
+    * Ames, Iowa, USA
+* 2005- 2007 United States Environmental Protection Agency, Western Ecology Division
+    * Student Contractor
+    * Corvallis, Oregon, USA
+* 2002- 2005 University of Idaho, Department of Fish and Wildlife
+    * Research Assistant 
+    * Moscow, Idaho, USA
+* 2002	Idaho Department of Fish and Game
+    * Fisheries Technician 
+    * Nampa, Idaho, USA
+* 2002	Utah Division of Wildlife Resources
+    * Wildlife Technician 
+    * Logan, Utah, USA
+* 2001- 2002	Idaho Department of Fish and Game 
+    * Fisheries Technician 
+    * Nampa, Idaho, USA
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+ 
 
 Publications
 ======
