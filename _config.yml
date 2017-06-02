@@ -223,7 +223,7 @@ defaults:
   # _code
   - scope:
       path: ""
-      type: portfolio
+      type: code
     values:
       layout: single
       author_profile: true
