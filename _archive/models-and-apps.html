@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title></title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<link rel="stylesheet"
+      href="site_libs/highlight/textmate.css"
+      type="text/css" />
+<script src="site_libs/highlight/highlight.js"></script>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs && document.readyState && document.readyState === "complete") {
+   window.setTimeout(function() {
+      hljs.initHighlighting();
+   }, 0);
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 45px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+
+.section h2 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h3 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h4 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h5 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h6 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script src="site_libs/navigation-1.0/tabsets.js"></script>
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Colvin lab</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    About the lab
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="members.html">Lab members</a>
+    </li>
+    <li>
+      <a href="cv.html">CV</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Projects
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="pms.html">Chinook Prespawning Mortality</a>
+    </li>
+    <li>
+      <a href="clesm.html">Clear Lake Ecosystem Simulation</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Some stuff
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="class.html">Classes</a>
+    </li>
+    <li>
+      <a href="workshops.html">Workshops</a>
+    </li>
+    <li>
+      <a href="publications.html">Publications</a>
+    </li>
+    <li>
+      <a href="peer-reviewed.html">Scientific</a>
+    </li>
+    <li>
+      <a href="teaching-apps.html">Teaching</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Lab operations &amp; resources
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="stuff.html">Stuff</a>
+    </li>
+    <li>
+      <a href="travel.html">Travel</a>
+    </li>
+    <li>
+      <a href="R-tutorials.html">R tutorials</a>
+    </li>
+  </ul>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<p><img src="media/DSCF0082.JPG" width="100%" /> <!--
+rmarkdown::render_site("models-and-apps.Rmd")# build webpage
+rmarkdown::render_site()# build website
+q(save="no")  
+
+
+Screen shot of a user interface developed for CarpBioDyn
+--></p>
+<div id="models-and-apps" class="section level2">
+<h2>Models and Apps</h2>
+<p>Models have facilitated both research and management of aquatic systems. Various models have been developed that can be used by stakeholders to evaluate management or used in a formal structured decision making or adaptive resource management framework. Models developed can be read and simulated using ISEE Player which is freely available at: <a href="http://www.iseesystems.com/softwares/player/iseeplayer.aspx" class="uri">http://www.iseesystems.com/softwares/player/iseeplayer.aspx</a>.</p>
+<div id="malheur-nwr-carp-management" class="section level3">
+<h3>Malheur NWR carp management</h3>
+<p>This model was developed to support decisions of carp population control for Malheur National Wildlife Refuge (NWR) in Burns, Oregon. Malheur NWR is a complex system of aquatic resources that has seen declines in waterfowl production due to water quality declines. Common carp have been identified to limit water quality in this system; however management difficult of these interconnected populations is difficult. This model develops 6 main interconnected common carp populations that are subject to harvest. Robustness of management strategies (i.e., carp removal) to varying degrees of population connectedness can be evaluated.</p>
+<p><a href="http://mec685.cfr.msstate.edu/models/malheurcarpmodel.zip">Download here (Zip file)</a> This model requires ISEE Player</p>
+</div>
+<div id="carpbiodyn" class="section level3">
+<h3>CarpBioDyn</h3>
+<p>CarpBioDyn is a tool to evaluate common carp biomass suppression by commercial harvest. This is production model for a research model that fitted a semi-discrete biomass dynamics model to a time series of common carp biomass estimates and indices (i.e., CPUE) via maximum likelihood in R. The parameterized model was then constructed in STELLA with a user interface so that managers could evaluate management strategies and the effect of unintentional underharvest on biomass dynamics. More details regarding the development of this model can be found here.</p>
+<p><a href="http://mec685.cfr.msstate.edu/models/CarpBioDyn.zip">Download here (Zip file)</a> This model requires ISEE Player</p>
+</div>
+<div id="clesm" class="section level3">
+<h3>CLESM</h3>
+<p>CLESM is a tool to evaluate the effects varying non-native species dynamics and restoration on water quality, recreational fishery yield, and primary production in an ecosystem context for a shallow eutrophic lake in Iowa. Specifically, the model was developed to assess the impacts of common carp and a recent invasion of zebra mussels on an economically and recreationally important lake, Clear Lake located in north central Iowa.</p>
+<p><a href="http://mec685.cfr.msstate.edu/models/CLESM.zip">Download here (Zip file)</a> This model requires ISEE Player</p>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+$(document).ready(function () {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+});
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

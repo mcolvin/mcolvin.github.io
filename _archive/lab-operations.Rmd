@@ -1,0 +1,21 @@
+---
+title: ""
+---
+<br>
+<br>
+<br>
+```{r echo=FALSE, out.width="95%"}
+include_graphics("media/DSCF0082.JPG")
+```
+<!--z
+
+library(knitr)
+rmarkdown::render_site()# build website
+# rmarkdown::render_site("index.Rmd")# build webpage
+  q(save="no")  
+-->
+## Lab operations
+
+https://dynamicecology.wordpress.com/2017/05/03/summer-conference-season-advice/#more-42767
+
+Training

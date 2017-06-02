@@ -1,0 +1,46 @@
+name: "Colvin lab"
+navbar:
+  title: "Colvin lab"
+  left:
+    - text: "About the lab"
+      menu:
+        - text: "Lab members"
+          href: "members.html"     
+        - text: "CV"
+          href: "cv.html"
+    - text: "Projects"
+      menu: 
+        - text: "Chinook Prespawning Mortality"
+          href: "pms.html"      
+        - text: "Clear Lake Ecosystem Simulation"
+          href: "clesm.html" 
+    - text: "Some stuff"
+      menu: 
+        - text: "Classes"
+          href: "class.html"      
+        - text: "Workshops"
+          href: "workshops.html" 
+        - text: "Publications"
+          href: "publications.html"
+        - text: "Scientific"
+          href: "peer-reviewed.html"           
+        - text: "Teaching"
+          href: "teaching-apps.html"
+    - text: "Lab operations & resources"
+      menu: 
+        - text: "Stuff"
+          href: "stuff.html"      
+        - text: "Travel"
+          href: "travel.html"            
+        - text: "R tutorials"
+          href: "R-tutorials.html"          
+output_dir: "."
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
+    
+    
+    
+
+    
