@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Cirriculum Vita"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * Postdoctoral Scholar, 2012-2014	
     Oregon State University
     Research focus:  Causes and management of prespawn mortality in spring Chinook salmon, structured decision making of natural resources
