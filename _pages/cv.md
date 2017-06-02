@@ -1,13 +1,25 @@
 ---
 layout: archive
-title: "Cirriculum Vita"
+title: "Curriculum Vita"
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
+
+Michael E. Colvin
+Assistant Professor
+Wildlife, Fisheries and Aquaculture Department
+Mississippi State University
+Mississippi State, MS, 39762 USA
+(662) 325-3592 (O)
+(515) 520-0564 (C)
+michael.colvin@msstate.edu
+http://mec685.cfr.msstate.edu
+
+
 
 ## Education
 * Postdoctoral Scholar, 2012-2014	
