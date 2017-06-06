@@ -5,9 +5,6 @@ permalink: /labstuff/
 author_profile: true
 ---
 
-## New stuff
-
-
 {% include base_path %}
 
 
