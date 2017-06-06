@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Colvin lab"
 title_separator          : "-"
 name                     : &name "Michael E. Colvin"
 description              : &description "personal description"
