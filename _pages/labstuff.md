@@ -12,5 +12,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+## Code
+
+
+{% for post in site.code %}
+  {% include archive-single.html %}
+{% endfor %}
+
 
 
