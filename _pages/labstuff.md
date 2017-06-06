@@ -12,7 +12,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-* [neat try?](/code/code-1/)
+* [neat try?](/code/code-1/) it works.... links to code folder and file name
 
 ## Code
 
