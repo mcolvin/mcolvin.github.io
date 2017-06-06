@@ -37,30 +37,29 @@ http://mec685.cfr.msstate.edu
 
 ## Work experience
 
-
-* 2014-pres. Mississippi State University, Department of Wildlife, Fisheries, and Aquaculture|
+* Mississippi State University, Department of Wildlife, Fisheries, and Aquaculture 2014-pres.|
 Assistant Professor| 
 Starkville, Mississippi, USA
-* 2012-2014	Oregon State University, Department of Fisheries and Wildlife|
+* Oregon State University, Department of Fisheries and Wildlife 2012-2014|
 Postdoctoral Scholar| 
 Corvallis, Oregon, USA
-* 2007- 2012 Iowa State University, Natural Resource Ecology and Management Department|
+* Iowa State University, Natural Resource Ecology and Management Department 2007-2012 |
 Research Assistant| 
 Ames, Iowa, USA
-* 2005- 2007 United States Environmental Protection Agency| 
+* United States Environmental Protection Agency 2005-2007| 
 Western Ecology Division|
 Student Contractor|
 Corvallis, Oregon, USA
-* 2002- 2005 University of Idaho Department of Fish and Wildlife|
+* University of Idaho Department of Fish and Wildlife 2002-2005|
 Research Assistant|
 Moscow, Idaho, USA
-* 2002	Idaho Department of Fish and Game| 
+* Idaho Department of Fish and Game 2002| 
 Fisheries Technician|
 Nampa, Idaho, USA
-* 2002	Utah Division of Wildlife Resources|
+* Utah Division of Wildlife Resources 2002|
 Wildlife Technician|
 Logan, Utah, USA
-* 2001- 2002 Idaho Department of Fish and Game| 
+* Idaho Department of Fish and Game 2001-2002| 
 Fisheries Technician|  
 Nampa, Idaho, USA
 
