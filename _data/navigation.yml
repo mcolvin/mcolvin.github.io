@@ -9,9 +9,6 @@ main:
   - title: "Teaching"
     url: /teaching/  
     
-  - title: "Code"
-    url: /code/
-
   - title: "Lab resources"
     url: /labstuff/
     
