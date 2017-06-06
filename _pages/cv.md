@@ -57,12 +57,12 @@ Work experience
 * 2002	Idaho Department of Fish and Game
     * Fisheries Technician 
     * Nampa, Idaho, USA
-* 2002	Utah Division of Wildlife Resources
-    * Wildlife Technician 
-    * Logan, Utah, USA
-* 2001- 2002	Idaho Department of Fish and Game 
-    * Fisheries Technician 
-    * Nampa, Idaho, USA
+* 2002	Utah Division of Wildlife Resources;
+Wildlife Technician;
+Logan, Utah, USA
+* 2001- 2002	Idaho Department of Fish and Game; 
+Fisheries Technician; 
+Nampa, Idaho, USA
 
  
 
@@ -98,13 +98,13 @@ Fish & Shellfish Immunology 48:136-144.
 * Dolan, B., K. Fisher, M.E. Colvin, S. Benda, C. Danley, J.T. Peterson, 
 M. Kent, P. Zwollo, and C.B. Shreck. 2015. Diminished innate, but not 
 adaptive, immune responses in migrating adult Chinook salmon, 
-Oncorhynchus tshawytscha. The Journal of Immunology 194 (1 Supplement): 
+_Oncorhynchus tshawytscha_. The Journal of Immunology 194 (1 Supplement): 
 146.15-146.15. 
 * Colvin, M.E., T.W. Stewart, and C.L. Pierce. 2015. A food web 
 modelling analysis of a Midwestern, USA eutrophic lake dominated by 
 non-native Common Carp and Zebra Mussels. Ecological Modelling. 32: 
 26-40. 
-* Colvin, M.E., J.T. Peterson, M. Kent, C.S. Sharpe, and C.B. Schreck. 
+* Colvin, M.E., J.T. Peterson, M. Kent, C.S. Sharpe, and C.B. Schreck.
 2015. Using occupancy modeling to estimate detection probabilities and 
 prevalence from hierarchically structured pathogen detection data. PLOS 
 ONE. 
