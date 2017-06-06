@@ -12,6 +12,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+* [neat try?](/code/code-1/)
+
 ## Code
 
 
