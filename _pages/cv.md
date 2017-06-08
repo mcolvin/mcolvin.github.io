@@ -285,24 +285,24 @@ Report 2015-1226, 78 p. 10.3133/ofr20151226.
 
 ## Honors and awards
 
-* 2016|  College of Forest Resources Early Career Achievement Award
-* 2011|  Certificate of Appreciation:  Education Section of the American Fisheries     Society
-* 2011|  Kenneth Carlander Award
-* 2011|  USEPA Scientific and Technological Achievement Award (Honorable     mention for innovative research quantifying the effects of multi-level     factors on fish populations across entire watersheds)
-* 2010| American Fisheries Society Skinner Award
-* 2010| Iowa Natural Heritage Foundation J.N. “Ding” Darling Scholarship Sherry     Fisher Award
-* 2009| Fenske Award Finalist
-* 2009| Kenneth Carlander Award
-* 2007| Level II EPA Scientific and Technology Achievement Award
-* 2005| University of Idaho Fisheries Graduate Student of the Year
-* 2005| Idaho Chapter of the American Fisheries Society Graduate Student of     the Year
-* 2005| University of Idaho Alumni Award for Excellence
-* 2004| Adams Scholarship for Academic Achievement
-* 2003| Idaho Chapter American Fisheries Scholarship Recipient
-* 2000| Certificate of Merit from Unity College for Outstanding Undergraduate     Research in Aquaculture
-* 2000| NSCAA Academic All American
-* 1999| NSCAA Academic All American
-* 1997-2000| Phi Theta Kappa
+* 2016 College of Forest Resources Early Career Achievement Award
+* 2011 Certificate of Appreciation:  Education Section of the American Fisheries     Society
+* 2011 Kenneth Carlander Award
+* 2011 USEPA Scientific and Technological Achievement Award (Honorable     mention for innovative research quantifying the effects of multi-level     factors on fish populations across entire watersheds)
+* 2010 American Fisheries Society Skinner Award
+* 2010 Iowa Natural Heritage Foundation J.N. “Ding” Darling Scholarship Sherry     Fisher Award
+* 2009 Fenske Award Finalist
+* 2009 Kenneth Carlander Award
+* 2007 Level II EPA Scientific and Technology Achievement Award
+* 2005 University of Idaho Fisheries Graduate Student of the Year
+* 2005 Idaho Chapter of the American Fisheries Society Graduate Student of     the Year
+* 2005 University of Idaho Alumni Award for Excellence
+* 2004 Adams Scholarship for Academic Achievement
+* 2003 Idaho Chapter American Fisheries Scholarship Recipient
+* 2000 Certificate of Merit from Unity College for Outstanding Undergraduate     Research in Aquaculture
+* 2000 NSCAA Academic All American
+* 1999 NSCAA Academic All American
+* 1997-2000 Phi Theta Kappa
 
 ## University service
 
@@ -319,11 +319,11 @@ Report 2015-1226, 78 p. 10.3133/ofr20151226.
 * 2015-pres. Masters advisor: Chelsea Gilliland
 * 2015-pres. Masters co-advisor: Andrew Shamaskin
 * 2015-2017	Masters committee member: Scott Veum
-* 2015-pres. Ph.D. committee member:  Brian Ott
+* 2015-pres. Ph.D. committee member: Brian Ott
 * 2015-2017 Masters committee member: Lindsey Stutzman
 * 2015-pres. Masters committee member: Kevin Keretz
 * 2015-2017	Masters committee member: Clayton Raines
-* 2014- pres. Ph.D. committee member:  Cynthia Fox
+* 2014- pres. Ph.D. committee member: Cynthia Fox
 
 ### Departmental committees and service
 
