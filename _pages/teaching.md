@@ -10,7 +10,7 @@ author_profile: true
 
 ### 4000/6000 level classes (undergraduate & graduate student)
 
-* WFA4313 Fisheries Management  [<click here>](https://mcolvin.github.io/WFA4133-Fisheries-Science/)
+* WFA4313 Fisheries Management [<click here>](mcolvin.github.io/WFA4133-Fisheries-Science/)
 * WFA4313 Fisheries Management [<click here>](https://mcolvin.github.io/WFA4313-Fisheries-Management/)
 
 
