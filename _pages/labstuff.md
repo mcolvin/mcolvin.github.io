@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Code
-* Semester reports [<here>](/code/Semester-reports/) 
+* Semester reports [here](/code/Semester-reports/) 
 
 
 
