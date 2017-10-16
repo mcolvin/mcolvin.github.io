@@ -1,0 +1,71 @@
+---
+title: "WFA48000 Research Credits"
+output: 
+  html_document:
+    includes:
+      after_body: _includes/include_footer-no-disqus.html
+      in_header: _includes/header_banner.html 
+---
+
+<!--
+library(knitr)
+rmarkdown::render_site("about.Rmd")# build website
+rmarkdown::render_site()# build website
+-->
+
+Current and ongoing projects
+
+1. Paddlefish movement, origin, and management in Oktoc Creek,
+Noxubee National Wildlife Refuge, Mississippi.
+2. Pallid Sturgeon recovery planning and adaptive management in the
+Missouri River
+
+## Postdoctoral associates
+
+<div style="float: left; width: 33%;"> 
+### Sara Reynolds
+```{r echo=FALSE, out.width='90%',fig.align='center'}
+knitr::include_graphics('images/amy-m.png')
+```
+dsfgsdfgsdfg
+</div> 
+
+<div style="float: left; width: 33%;"> 
+### David Schumann
+```{r echo=FALSE, out.width='90%',fig.align='center'}
+knitr::include_graphics('images/amy-m.png')
+```
+dsfgsdfgsdfg
+</div> 
+
+<div style="float: right; width: 33%;"> 
+<!--open slot--> 
+</div>
+
+
+<div style="float: left; width: 100%;"> 
+## Graduate students
+</div>
+
+
+<div style="float: left; width: 100%;"> 
+## Undergraduate students
+</div>
+
+
+
+<div style="float: left; width: 33%;"> 
+### Amy May
+```{r echo=FALSE, out.width='90%',fig.align='center'}
+knitr::include_graphics('images/amy-m.png')
+```
+dsfgsdfgsdfg
+</div> 
+
+<div style="float: left; width: 33%;"> 
+**3** three  
+**4** four  
+**5** five  
+**6** six 
+</div> 
+<div style="float: right; width: 33%;"> **7** seven **8** eight **9** nine </div>

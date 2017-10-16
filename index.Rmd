@@ -1,0 +1,15 @@
+---
+title: "Stufff"
+---
+
+<!--
+rmarkdown::render_site("index.Rmd")# build website
+
+rmarkdown::render_site()# build website
+-->
+
+## Other stuff
+
+asdklfja;lskjdfa
+sdfal;ksdjf
+asdlkfja;sldj

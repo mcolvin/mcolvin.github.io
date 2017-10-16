@@ -1,0 +1,25 @@
+---
+title: "Projects"
+---
+<!--
+rmarkdown::render_site("index.Rmd")# build website
+
+rmarkdown::render_site()# build website
+-->
+## Current
+Paddlefish spawning and use of Noxubee River
+
+## Past
+Standardized Sampling and Analysis of MDWFP Monitoring Data
+Evaluating standardized sampling in Kansas Reservoirs
+Bull Trout demographic rate estimation
+Chinook Prespawn Mortality
+Modeling caviar yield
+Clear Lake Ecosystem Simulation Project
+Modeling pulsed harvest systems
+Controlling carp populations by pulsed commercial harvest
+Consequences of non-native species invasions for lake restoration and recreational fisheries
+Periodic matrix modeling giant foxtail populations
+Malheur National Wildlife Refuge Aquatic Health
+Coho salmon and freshwater habitat
+Whirling disease in the Pahsimeroi River, ID
