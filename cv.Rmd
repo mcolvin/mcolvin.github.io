@@ -1,8 +1,17 @@
 ---
 title: "Curriculum Vita"
+output: 
+  html_document:
+    includes:
+      after_body: _includes/include_footer-no-disqus.html
+      in_header: _includes/header_banner.html 
 ---
 
+<!--
+rmarkdown::render_site("cv.Rmd")# build website
 
+rmarkdown::render_site()# build website
+-->
 Michael E. Colvin  
 Assistant Professor  
 Wildlife, Fisheries and Aquaculture Department  

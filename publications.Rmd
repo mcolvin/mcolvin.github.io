@@ -1,11 +1,14 @@
 ---
 title: "Publications"
 output: 
-  html_document
+  html_document:
+    includes:
+      after_body: _includes/include_footer-no-disqus.html
+      in_header: _includes/header_banner.html 
 ---
 
 <!--
-rmarkdown::render_site("index.Rmd")# build website
+rmarkdown::render_site("publications.Rmd")# build website
 
 rmarkdown::render_site()# build website
 -->

@@ -1,5 +1,10 @@
 ---
-title: "Stufff"
+title: "Michael E. Colvin"
+output: 
+  html_document:
+    includes:
+      after_body: _includes/include_footer-no-disqus.html
+      in_header: _includes/header_banner.html 
 ---
 
 <!--
@@ -8,8 +13,10 @@ rmarkdown::render_site("index.Rmd")# build website
 rmarkdown::render_site()# build website
 -->
 
-## Other stuff
+## Interests
 
-asdklfja;lskjdfa
-sdfal;ksdjf
-asdlkfja;sldj
+* modelling to support decision making
+* harvest management
+* structured decision making
+* adaptive management
+* ecosystem ecology 
