@@ -41,7 +41,7 @@ Isserman editors.
   
 * Jacobson, R. B., M. L. Annis, M. E. Colvin, D. A. James, T. L. Welker, 
 and M. J. Parsley. 2016. Missouri River _Scaphirhynchus albus_ (pallid 
-sturgeon) effects analysis—Integrative report 2016. Report 2016-5064, 
+sturgeon) effects analysisâ€”Integrative report 2016. Report 2016-5064, 
 Reston, VA. 
 * Jacobson, R.B., M.J. Parsley, M.L. Annis, M.E. Colvin, T.L. Welker, 
 and D.A. James. 2016. Development of working hypotheses linking 
