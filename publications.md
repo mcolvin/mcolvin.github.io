@@ -6,11 +6,12 @@ title: Publications
 ### Peer reviewed
 
 #### Manuscripts
-1. Colvin, M.E., J.T. Peterson, C. Sharpe, M.L. Kent. and C.B. Schreck. In press.  Identifying 	optimal hauling densities for adult Chinook Salmon trap and haul operations. River 	Research and Applications. 
-1. Miranda, L.E., L. Bull, M.E. Colvin, W.D. Hubbard, and L.L. Pugh. In press. Segmentation of 	Mississippi Lakes. Lake and Reservoir Management.
-1. Gilliland†, C.R., M.E. Colvin, S.A. Rush, and S. Reagan. 2018. American Alligators are 	predators of Paddlefish creating new nutrient flows between aquatic and terrestrial 	ecosystems. Submitted to Foodwebs.
-1. Keretz, K.R.†, C.P. Dinken†, P.J. Allen, M.E. Colvin, and H.L. Schramm Jr. 2018.  The 	effect of water temperature, angling time, and dissolved oxygen on the survival of angled 	and tournament-handled Largemouth Bass. Submitted to North American Journal of 	Fisheries Management.  * Mangipane, L.A.†, J.L. Belant, D.J.R. Lafferty, D.D. Gustine, T.L. Hiller, M.E. Colvin, B.A. 	Mangipane, and G.V. Hilderbrand. 2018. Dietary plasticity in a nutrient-rich system 	does not influence brown bear body condition or denning. Polar Biology. 88: 1-7.
-1. Mangipane, L.A.†, J.L. Belant, T.L. Hiller, M.E. Colvin, D.D. Gustine, B.A. Mangipane, and 	G.V. Hilderbrand. 2017. Influences of landscape heterogeneity on home-range sizes of 	brown bears in a salmon subsidized system. Mammalian Biology. 88: 1-7.
+1. Colvin, M.E., J.T. Peterson, C. Sharpe, M.L. Kent. and C.B. Schreck. In press. Identifying optimal hauling densities for adult Chinook Salmon trap and haul operations. River Research and Applications. 
+1. Miranda, L.E., L. Bull, M.E. Colvin, W.D. Hubbard, and L.L. Pugh. In press. Segmentation of Mississippi Lakes. Lake and Reservoir Management.
+1. Gilliland†, C.R., M.E. Colvin, S.A. Rush, and S. Reagan. 2018. American Alligators are predators of Paddlefish creating new nutrient flows between aquatic and terrestrial ecosystems. Submitted to Foodwebs.  
+1. Keretz, K.R.†, C.P. Dinken†, P.J. Allen, M.E. Colvin, and H.L. Schramm Jr. 2018. The effect of water temperature, angling time, and dissolved oxygen on the survival of angled and tournament-handled Largemouth Bass. Submitted to North American Journal of 	Fisheries Management.  
+1. Mangipane, L.A.†, J.L. Belant, D.J.R. Lafferty, D.D. Gustine, T.L. Hiller, M.E. Colvin, B.A. Mangipane, and G.V. Hilderbrand. 2018. Dietary plasticity in a nutrient-rich system does not influence brown bear body condition or denning. Polar Biology. 88: 1-7.
+1. Mangipane, L.A.†, J.L. Belant, T.L. Hiller, M.E. Colvin, D.D. Gustine, B.A. Mangipane, and 	G.V. Hilderbrand. 2017. Influences of landscape heterogeneity on home-range sizes of brown bears in a salmon subsidized system. Mammalian Biology. 88: 1-7.
 1. Miranda, L.E., M.E. Colvin, A.C. Shamaskin, L.A. Bull, T. Holman, and R. Jones. In press. Length-limits fail to restructure a Largemouth Bass population: A 27-year case history. Submitted to North American Journal of Fisheries Management. 
 1. DeWeber, J.T., J.T. Peterson, C.S. Sharpe, M.L. Kent, M.E. Colvin, and C.B. Schreck. 2017. Prespawn mortality in outplanted Chinook Salmon is highly variable and associated with outplant date. North American Journal of Fisheries Management. 1: 162-175. 
 1. Colvin, M.E. and J.T. Peterson. 2016. Preparing future fisheries professionals to make good decisions. Fisheries 41(8): 473-474. 
