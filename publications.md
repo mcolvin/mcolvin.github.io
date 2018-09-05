@@ -3,12 +3,6 @@ layout: page
 title: Publications
 ---
 
-<!--
-rmarkdown::render_site("publications.Rmd")# build website
-
-rmarkdown::render_site()# build website
--->
-
 ### Peer reviewed
 
 #### Manuscripts
