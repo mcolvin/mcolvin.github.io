@@ -6,6 +6,8 @@ bigimg: /img/DSCF1198.JPG
 
 ### Peer reviewed
 
+---------------------------------------
+
 #### Manuscripts
 1. Colvin, M.E., J.T. Peterson, C. Sharpe, M.L. Kent. and C.B. Schreck. In press. Identifying optimal hauling densities for adult Chinook Salmon trap and haul operations. River Research and Applications. 
 1. Miranda, L.E., L. Bull, M.E. Colvin, W.D. Hubbard, and L.L. Pugh. In press. Segmentation of Mississippi Lakes. Lake and Reservoir Management.
@@ -36,11 +38,14 @@ bigimg: /img/DSCF1198.JPG
 1. Wigington, P.J., J.E. Ebersole, M.E. Colvin, S.G. Leibowitz, B. Miller, B. Hansen, H.R. Lavigne, D. White, J.P. Baker, M.R. Church, J.R. Brooks, M.A. Cairns, and J.E. Compton. 2006. Salmon dependent on intermittent streams. Frontiers in Ecology and the Environment. 4(10): 513-518. 
 
 
+---------------------------------------
+
 #### Book chapters
 
 1. Miranda, L.E., and M.E. Colvin.  2017. Sampling for age and growth estimation.  Chapter 5 in Age and Growth of Fishes.  Quist, M.C., and D. Isserman editors. American Fisheries 	Society. Bethesda, MD.  
 
 
+---------------------------------------
 
 #### Technical reports
 
@@ -51,6 +56,9 @@ bigimg: /img/DSCF1198.JPG
 1. Jacobson, R.B., M.J. Parsley, M.L. Annis, M.E. Colvin, T.L. Welker, and D.A. James. 2016. Development of working hypotheses linking management of the Missouri River to population dynamics of _Scaphirhynchus albus_ (pallid sturgeon): U.S. Geological Survey, Open-file Report 2015-1236, 36 p. 10.3133/ofr20151236. 
 1. Jacobson, R.B., M.J. Parsley, M.A. Annis, M.E. Colvin, T.L. Welker, and D.A. James, D. 2015. Development of conceptual ecological models linking management of the Missouri River to pallid sturgeon population dynamics: U.S. Geological Survey, Open-File Report 2015-1038, 47 p. 10.3133/ofr20151038. 
 1. Jacobson, R.B., M.L. Annis, M.J. Parsley, D.A. James, M.E. Colvin, and T.L. Welker. 2015. Scientific information to support the Missouri River pallid sturgeon effects analysis: U.S. Geological Survey, Open-file Report 2015-1226, 78 p. 10.3133/ofr20151226. 
+
+
+---------------------------------------
 
 ### Non peer reviewed
 
