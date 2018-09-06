@@ -1,17 +1,7 @@
 ---
-title: ""
+layout: page
+title: Postdoc expectations
 ---
-```{r echo=FALSE, out.width="95%"}
-include_graphics("media/DSCF0082.JPG")
-```
-<!--
-library(knitr)
-rmarkdown::render_site()# build website
- 
-# rmarkdown::render_site("index.Rmd")# build webpage
-  q(save="no")  
--->
-
 
 # Postdoc expectations
 

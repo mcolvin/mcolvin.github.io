@@ -54,17 +54,18 @@ title: Publications
 ### Non peer reviewed
 
 #### Technical reports
-1. Gilliland, C.R. †, M.E. Colvin, P.J. Allen, and J.W. Neal. 2017. Paddlefish Polyodon spathula spawning and migratory habitat use in the Noxubee River System with focus on the Noxubee National Wildlife Refuge Management.  Interim report to the U.S. Fish and Wildlife Service.  47 pages.
-1. Gilliland, C.R., M.E. Colvin, P.J. Allen, and J.W. Neal. 2016. Paddlefish Polyodon spathula spawning and migratory habitat use in the Noxubee River System with focus on the Noxubee National Wildlife Refuge Management.  Interim report to the U.S. Fish and Wildlife Service.  27 pages.
-1. Miranda, L.E., M.E. Colvin, and A.C. Shamaskin.  2016.  Review, revision and development of new monitoring protocols to facilitate the meeting of goals and objectives of freshwater fisheries management in Mississippi.  Progress report to Mississippi Department of Wildlife, Fisheries, and Parks.  9 pages.
-1. Peterson, J.T., K. McDonnell, and M.E. Colvin. 2014. Coarse Resolution Planning Tools for Prioritizing Central Valley Project Improvement Act Fisheries Activities. Final Report to Central Valley Project Improvement Act Fisheries Program, Sacramento, CA.
-1. Colvin, M.E. 2013. Mill Creek Bull Trout Survival Analysis.  Completion report to the U.S. Forest Service.
-1. Schreck, C.B., M.L. Kent, M.E. Colvin, S. Benda, C. Sharpe, J.T. Peterson, and B. Dolan.  2013. Potential causes and management of prespawn mortality in adult upper Willamette River spring Chinook salmon.  Annual report to the U.S. Army Corps of Engineers.  
-1. Colvin, M.E. 2012.  Impacts of nuisance species in a shallow lake: A systems modeling approach for evaluating restoration and management policies. Final Report to the Iowa Department of Natural Resources. 
-1. Colvin, M.E., C.L. Pierce, and L. Beck. 2012.  Age structure and growth of invasive common carp populations in the Malheur National Wildlife Refuge. Final Report to the U.S. Fish and Wildlife Service Malheur National Wildlife Refuge.
-1. Colvin, M.E., E.D. Katzenmeyer, T.W. Stewart, and C.L. Pierce. 2010.  The Clear Lake ecosystem simulation model (CLESM) project. Annual Progress Report to the Iowa Department of Natural Resources. 
-1. Colvin, M.E., E.D. Katzenmeyer, T.W. Stewart, and C.L. Pierce. 2009.  The Clear Lake ecosystem simulation model (CLESM) project. Annual Progress Report to the Iowa Department of Natural Resources. 
-1. Colvin, M.E., E.D. Katzenmeyer, T.W. Stewart, and C.L. Pierce. 2008.  The Clear Lake ecosystem simulation model (CLESM) Project. Annual Progress Report to the Iowa Department of Natural Resources. 
-1. Munson, A.D., M.E. Colvin, and K.A. Johnson. 2005.  Ceratomyxa shasta exposure trials at Oxbow fish hatchery. Idaho Department of Fish and Game Fishery Research Report 04-48. Boise, ID.
+1. Gilliland, C.R. †, M.E. Colvin, P.J. Allen, and J.W. Neal. 2017. Paddlefish Polyodon spathula spawning and migratory habitat use in the Noxubee River System with focus on the Noxubee National Wildlife Refuge Management. Interim report to the U.S. Fish and Wildlife Service. 47 pages. 
+1. Gilliland, C.R., M.E. Colvin, P.J. Allen, and J.W. Neal. 2016. Paddlefish Polyodon spathula spawning and migratory habitat use in the Noxubee River System with focus on the Noxubee National Wildlife Refuge Management. Interim report to the U.S. Fish and Wildlife Service. 27 pages. 
+1. Miranda, L.E., M.E. Colvin, and A.C. Shamaskin. 2016. Review, revision and development of new monitoring protocols to facilitate the meeting of goals and objectives of freshwater fisheries management in Mississippi. Progress report to Mississippi Department of Wildlife, Fisheries, and Parks. 9 pages. 
+1. Peterson, J.T., K. McDonnell, and M.E. Colvin. 2014. Coarse Resolution Planning Tools for Prioritizing Central Valley Project Improvement Act Fisheries Activities. Final Report to Central Valley Project Improvement Act Fisheries Program, Sacramento, CA. 
+1. Colvin, M.E. 2013. Mill Creek Bull Trout Survival Analysis. Completion report to the U.S. Forest Service. 
+1. Schreck, C.B., M.L. Kent, M.E. Colvin, S. Benda, C. Sharpe, J.T. Peterson, and B. Dolan. 2013. Potential causes and management of prespawn mortality in adult upper Willamette River spring Chinook salmon. Annual report to the U.S. Army Corps of Engineers. 
+1. Colvin, M.E. 2012. Impacts of nuisance species in a shallow lake: A systems modeling approach for evaluating restoration and management policies. Final Report to the Iowa Department of Natural Resources. 
+1. Colvin, M.E., C.L. Pierce, and L. Beck. 2012. Age structure and growth of invasive common carp populations in the Malheur National Wildlife Refuge. Final Report to the U.S. Fish and Wildlife Service Malheur National Wildlife Refuge. 
+1. Colvin, M.E., E.D. Katzenmeyer, T.W. Stewart, and C.L. Pierce. 2010. The Clear Lake ecosystem simulation model (CLESM) project. Annual Progress Report to the Iowa Department of Natural Resources. 
+1. Colvin, M.E., E.D. Katzenmeyer, T.W. Stewart, and C.L. Pierce. 2009. The Clear Lake ecosystem simulation model (CLESM) project. Annual Progress Report to the Iowa Department of Natural Resources. 
+1. Colvin, M.E., E.D. Katzenmeyer, T.W. Stewart, and C.L. Pierce. 2008. The Clear Lake ecosystem simulation model (CLESM) Project. Annual Progress Report to the Iowa Department of Natural Resources. 
+1. Munson, A.D., M.E. Colvin, and K.A. Johnson. 2005. Ceratomyxa shasta exposure trials at Oxbow fish hatchery. Idaho Department of Fish and Game Fishery Research Report 04-48. Boise, ID. 
+
 
 

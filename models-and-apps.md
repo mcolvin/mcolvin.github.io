@@ -1,15 +1,7 @@
-
-```{r echo=FALSE, out.width="100%"}
-knitr::include_graphics("media/DSCF0082.JPG")
-```
-<!--
-rmarkdown::render_site("models-and-apps.Rmd")# build webpage
-rmarkdown::render_site()# build website
-q(save="no")  
-
-
-Screen shot of a user interface developed for CarpBioDyn
--->
+---
+layout: page
+title: Models and Apps
+---
 
 ## Models and Apps
 

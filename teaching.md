@@ -1,26 +1,23 @@
 ---
-title: ""
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
 ---
-<br>
-<br>
-<br>
-```{r echo=FALSE, out.width="95%"}
-include_graphics("media/eqs.png")
-```
-<!--z
 
-library(knitr)
-rmarkdown::render_site()# build website
 
-# rmarkdown::render_site("index.Rmd")# build webpage
-  q(save="no")  
--->
+## Current classes taught
 
-## TEACHING, MENTORING, AND WORKSHOPS
+### 4000/6000 level classes (undergraduate & graduate student)
 
-### Teaching
+* WFA4313 Fisheries Management [click here](https://mcolvin.github.io/WFA4133-Fisheries-Science/)
+* WFA4313 Fisheries Management [click here](https://mcolvin.github.io/WFA4313-Fisheries-Management/)
 
-### Workshops
+
+### 8000 level classes (graduate student)
+
+* WFA8433 Natural Resource and Conservation Decision Making [click here](https://mcolvin.github.io/WFA8433-Natural-Resource-Decision-Making/)
+* WFA8000/9000 Research Credits [Click here](https://mcolvin.github.io/WFA8000-Research-Credits/)
 
 #### R Courses taught
 
