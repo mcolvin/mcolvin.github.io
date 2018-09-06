@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+bigimg: /img/DSCF1198.JPG
 ---
 
 ### Peer reviewed
