@@ -58,10 +58,10 @@ bigimg: /img/DSCF1198.JPG
 1. Jacobson, R.B., M.L. Annis, M.J. Parsley, D.A. James, M.E. Colvin, and T.L. Welker. 2015. Scientific information to support the Missouri River pallid sturgeon effects analysis: U.S. Geological Survey, Open-file Report 2015-1226, 78 p. 10.3133/ofr20151226. 
 
 
----------------------------------------
+
 
 ### Non peer reviewed
-
+---------------------------------------
 #### Technical reports
 1. Gilliland, C.R. †, M.E. Colvin, P.J. Allen, and J.W. Neal. 2017. Paddlefish Polyodon spathula spawning and migratory habitat use in the Noxubee River System with focus on the Noxubee National Wildlife Refuge Management. Interim report to the U.S. Fish and Wildlife Service. 47 pages. 
 1. Gilliland, C.R., M.E. Colvin, P.J. Allen, and J.W. Neal. 2016. Paddlefish Polyodon spathula spawning and migratory habitat use in the Noxubee River System with focus on the Noxubee National Wildlife Refuge Management. Interim report to the U.S. Fish and Wildlife Service. 27 pages. 
