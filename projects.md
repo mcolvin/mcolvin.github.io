@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Projects
+title: Publications
+bigimg: /img/DSCF1198.JPG
 ---
-Under construction...
 
 ## Current
 
+1. [Establishing Ground Cover in Reservoir Mudflats to Foster Fish Assemblages](projects-Mudflats.html)
 1. Paddlefish spawning and use of Noxubee River
 
 ## Past
