@@ -6,7 +6,7 @@ bigimg: /img/DSCF1198.JPG
 
 ## Current
 
-1. [Establishing Ground Cover in Reservoir Mudflats to Foster Fish Assemblages](projects-Mudflats.html)
+1. [Establishing Ground Cover in Reservoir Mudflats to Foster Fish Assemblages](projects-Mudflats)
 1. Paddlefish spawning and use of Noxubee River
 
 ## Past
