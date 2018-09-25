@@ -76,5 +76,3 @@ bigimg: /img/DSCF1198.JPG
 1. Colvin, M.E., E.D. Katzenmeyer, T.W. Stewart, and C.L. Pierce. 2008. The Clear Lake ecosystem simulation model (CLESM) Project. Annual Progress Report to the Iowa Department of Natural Resources. 
 1. Munson, A.D., M.E. Colvin, and K.A. Johnson. 2005. Ceratomyxa shasta exposure trials at Oxbow fish hatchery. Idaho Department of Fish and Game Fishery Research Report 04-48. Boise, ID. 
 
-
-e1415867@nwytg.net
