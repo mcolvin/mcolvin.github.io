@@ -1,12 +1,11 @@
 ---
 layout: post
-title: First post!
-image: /img/bluff.jpg
+title: Bluff Lake Project is going live!
+bigimg: /img/bluff.jpg
 ---
 
-## New project has come on line!
 
-### Evaluating the fish assemblage and fishery of Bluff Lake and integrating fishery objectives with Paddlefish and bird management objectives to evaluate water level management decisions
+# Evaluating the fish assemblage and fishery of Bluff Lake and integrating fishery objectives with Paddlefish and bird management objectives to evaluate water level management decisions
 
 Bluff lake is an important impounded lake located in the Noxubee 
 National Wildlife Refuge (NNWR). The lake is primarily managed to 
@@ -30,7 +29,7 @@ angler interest and limit other recreational uses. Water management
 decisions compete for a dynamic yet finite amount of water annually, but 
 little is known about the tradeoffs among these decision alternatives. 
 
-### Specific research questions for this project are:
+# Specific research questions for this project are:
 
 1. How does the current Bluff Lake fish assemblage compare to the past fish assemblage?
 2. Does summer drawdown of Bluff Lake result in hypoxic or anoxic areas?
