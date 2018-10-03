@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About the lab
-bigimg: clear-sunset.jpg
+bigimg: clear-sunset.JPG
 ---
 
 
