@@ -11,16 +11,16 @@ Michael E. Colvin, Ph.D.
 
 ## Postdoctoral Research Associates
 
-* David Schumann
-* Sara Reynolds
+* Dr. David Schumann
+* Dr. Sara Reynolds
 
 ## Graduate Student Researchers
 
-* Giancarlo Coppola
-* David Norris
-* Caleb Aldridge
-* Brad Richardson
-* Victoria Starnes
+* Giancarlo Coppola (MS; Co-advised with Drs. Steve Miranda and Marcus Lashley)
+* David Norris (MS; Co-advised with Drs. Steve Miranda and Marcus Lashley)
+* Caleb Aldridge (PhD; Co-advised with Dr. Steve Miranda)
+* Brad Richardson (PhD; Co-advised with Dr. David Wise)
+* Victoria Starnes (MS)
 
 
 ## Undergraduate Student Researchers
