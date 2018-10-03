@@ -27,6 +27,8 @@ navbar-links:
   Projects: projects
   Teaching:
     - WFA8433: "https://mcolvin.github.io/WFA8433-Natural-Resource-Decision-Making"
+    - WFA4133: "https://mcolvin.github.io/WFA4133-Fisheries-Science"
+    - WFA4313: "https://mcolvin.github.io/WFA4313-Fisheries-Management"
   Publications: publications
   Lab resources: 
     - Stuff: stuff
