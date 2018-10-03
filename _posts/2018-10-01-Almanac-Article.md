@@ -5,6 +5,8 @@ bigimg: /img/almanacs.png
 ---
 
 
+##  Study Finds Holes in Fishing Forecast Methods
+
 Undergraduate research scholar Ashley Shannon's work was
 hightighted in Mississippi State University's Landmark
 magazine. This research lead to several awards for Ashley,
@@ -13,4 +15,4 @@ Chapter of the American Fisheries Society Meeting held in
 February 2018 in Oxford, MS. 
 
 
-Check out the article [here](http://www.dafvm.msstate.edu/landmarks/18/Landmark14v2_web.pdf#16)
+Check out the article [here](http://www.dafvm.msstate.edu/landmarks/18/Landmark14v2_web.pdf#page=16)
