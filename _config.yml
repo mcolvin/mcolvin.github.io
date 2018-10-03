@@ -24,10 +24,7 @@ description: Colvin lab website
 # List of links in the navigation bar
 navbar-links:
   About the lab: about
-  Projects:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+  Projects: projects
   Teaching:
     - WFA8433: "https://mcolvin.github.io/WFA8433-Natural-Resource-Decision-Making"
   Publications: publications
