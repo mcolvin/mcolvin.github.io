@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bluff Lake Project is going live!
+title: PIT Tagging Madtoms
 bigimg: /img/madtom-bucket.JPG
 ---
 
