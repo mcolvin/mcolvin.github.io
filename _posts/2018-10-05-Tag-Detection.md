@@ -8,7 +8,7 @@ bigimg: /img/scanning.JPG
 
 Sometimes tagged fish aren't detected because they aren't there. 
 Sometimes they're just really good at hiding, even from low-frequency 
-radio signals. The Southern Brook Lamprey (Ichthyomyzon gagei) burrows 
+radio signals. The Southern Brook Lamprey (_Ichthyomyzon gagei_) burrows 
 in sand and soft sediment, presumably to avoid predation and unfavorable 
 environmental conditions. But from our recent experiment, the depth of 
 the PIT tag within the substrate plays a role in it's detection 
