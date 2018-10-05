@@ -1,10 +1,10 @@
 ---
 layout: post
-title: The effects of sediment on PIT tag detection-The setup
+title: Lamprey abstract for Southeastern Fishes Council meeting. 
 bigimg: /img/adult-lamprey.JPG
 ---
 
-# IDENTIFYING BARRIERS TO THE DETECTION OF PASSIVE INTEGRATED TRANSPONDER (PIT) TAGS IN SOUTHERN BROOK LAMPREY AMMOCOETES (ICHTHYOMYZON GAGEI, HUBBS & TRAUTMAN, 1937) 
+# Identifying barriers to the detection of passive integrated transponder (PIT) tags in southern brook lamprey ammocoetes (_Ichthyomyzon gagei_, Hubbs & Trautman, 1937) 
 
 Caleb A. Aldridge, Bradley M. Richardson, David A. Schumann, and Michael E. Colvin 
 
