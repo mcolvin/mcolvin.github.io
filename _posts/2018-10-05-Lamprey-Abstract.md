@@ -45,5 +45,6 @@ improve expected detection probabilities and sampling approaches. This
 experiment provides a small but needed piece of information when using 
 PIT tags in studying and conserving this unique species. 
 
-
-->![alt text](/img/lamprey-logo.png)<-
+<center>
+![alt text](/img/lamprey-logo.png)
+</center>
