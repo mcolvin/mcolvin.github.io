@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the lab
+title: Colvin CV
 bigimg: /img/clear-sunset.JPG
 ---
 
