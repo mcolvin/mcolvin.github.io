@@ -5,32 +5,35 @@ bigimg: /img/clear-sunset.JPG
 ---
 
 
-## The Principle Investigator
+## Principle Investigator
 
 Michael E. Colvin, Ph.D. [cv](/cv)
 
-## Postdoctoral Research Associates
+
+## Research Associates
+
+### Postdoctoral 
 
 * Dr. David Schumann [website](https://daschumann.github.io/)
 * Dr. Sara Reynolds
 
-## Graduate Student Researchers
+### Graduate 
 
-* Carolingian Coppola (MS; Co-advised with Drs. Steve Miranda and Marcus Lashley)
+* Giancarlo Coppola (MS; Co-advised with Drs. Steve Miranda and Marcus Lashley)
 * David Norris (MS; Co-advised with Drs. Steve Miranda and Marcus Lashley)
 * Caleb Aldridge (PhD; Co-advised with Dr. Steve Miranda) [website](https://aldridgecaleb.github.io/)
 * Brad Richardson (PhD; Co-advised with Dr. David Wise) [website](http://www.bradley-richardson.com/)
 * Victoria Starnes (MS)
 
 
-## Undergraduate Student Researchers
+### Undergraduate
 
 * Bayley Wilmoth
 * Rick Campbell
 
 ## Lab Alumni
 
-* Chelsea Gillilland (MS 2018)
+* Chelsea Gilliland (MS 2018)
 * Hunter Hatcher (MS 2018)
 * Andrew Shamaskin (MS 2018)
 * Ashley Shannon (Undergraduate Researcher & Technician-Paddlefish Project)
