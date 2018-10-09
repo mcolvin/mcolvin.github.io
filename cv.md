@@ -5,14 +5,14 @@ bigimg: /img/clear-sunset.JPG
 ---
 
 
-Michael E. Colvin
-Assistant Professor
-Wildlife, Fisheries and Aquaculture Department
-Mississippi State University
-Mississippi State, MS, 39762 USA
-(662) 325-3592 (O)
-(515) 520-0564 (C)
-michael.colvin@msstate.edu
+Michael E. Colvin  
+Assistant Professor  
+Wildlife, Fisheries and Aquaculture Department  
+Mississippi State University  
+Mississippi State, MS, 39762 USA  
+(662) 325-3592 (O)  
+(515) 520-0564 (C)  
+michael.colvin@msstate.edu  
 
 ## Education
 
