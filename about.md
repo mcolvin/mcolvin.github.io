@@ -7,7 +7,7 @@ bigimg: /img/clear-sunset.JPG
 
 ## The Principle Investigator
 
-Michael E. Colvin, Ph.D. [cv](cv)
+Michael E. Colvin, Ph.D. [cv](/cv)
 
 ## Postdoctoral Research Associates
 
