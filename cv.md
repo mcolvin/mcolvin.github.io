@@ -16,10 +16,10 @@ michael.colvin@msstate.edu
 
 ## Education
 
-2012-2014 Postdoctoral Scholar Oregon State University Research focus:  Causes and management of prespawn mortality in spring Chinook salmon, structured decision making of natural resources 
-2012 Ph.D. Iowa State University Major: Fisheries Biology Dissertation: Impacts of non-native species in a shallow lake: A simulation modeling approach for restoration and management 
-2005 M.S. University of Idaho Major: Fisheries Resources Thesis: Ecology of _Myxobolus cerebralis_ in the Pahsimeroi drainage, Idaho
-2000 B.S. Unity College Major: Aquaculture Thesis: Inventory of pathogenic bacteria of Maine baitfish
+* 2012-2014 Postdoctoral Scholar Oregon State University Research focus:  Causes and management of prespawn mortality in spring Chinook salmon, structured decision making of natural resources 
+* 2012 Ph.D. Iowa State University Major: Fisheries Biology Dissertation: Impacts of non-native species in a shallow lake: A simulation modeling approach for restoration and management 
+* 2005 M.S. University of Idaho Major: Fisheries Resources Thesis: Ecology of _Myxobolus cerebralis_ in the Pahsimeroi drainage, Idaho
+* 2000 B.S. Unity College Major: Aquaculture Thesis: Inventory of pathogenic bacteria of Maine baitfish
 
 ## Employment
 
