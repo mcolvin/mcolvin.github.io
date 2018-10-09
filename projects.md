@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Projects
 bigimg: /img/DSCF1198.JPG
 ---
 
