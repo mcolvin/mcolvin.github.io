@@ -4,7 +4,6 @@ title: Chasing Southern Brook Lamprey
 bigimg: /img/lamprey-catch.png
 ---
 
-## Chasing Southern Brook Lamprey
 
 Yesterday the WFA4313 Fisheries Management class went out
 to a local stream to try to find some Southern Brook Lamprey
