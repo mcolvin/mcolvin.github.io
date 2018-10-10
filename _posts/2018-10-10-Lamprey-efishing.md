@@ -1,6 +1,6 @@
 ---
 layout: post
-title: hasing Southern Brook Lamprey
+title: Chasing Southern Brook Lamprey
 bigimg: /img/lamprey-catch.png
 ---
 
