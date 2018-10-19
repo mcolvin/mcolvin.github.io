@@ -10,16 +10,16 @@ Every fisherman has a &quot;honey hole,&quot; where they can get a good catch on
 
 Enter random sampling. We can get estimates of how represented particle size classes are by randomly choosing locations along the creek. There have been a few ways developed to do this. Below is a code snippet that uses &#39;sp&#39; the default packages of R to randomly select sampling locations along a creek (or any &quot;line&quot; in coordinate space).
 
-`library(sp)`
-`x <- c(-89.00899, -89.00882, -89.00845, -89.00775)`
-`y <- c(33.25582, 33.25565, 33.25548, 33.25551)`
-`xy <- cbind(x, y)`
-`creek <- sp::Line(xy)`  
-`n <- 5`
-`pnts <- spsample(creek, n = n, 'random')`
-`plot(xy, type = 'l')`
-`points(pnts)`
-`coordinates(pnts)`
+`library(sp)`  
+`x <- c(-89.00899, -89.00882, -89.00845, -89.00775)`  
+`y <- c(33.25582, 33.25565, 33.25548, 33.25551)`  
+`xy <- cbind(x, y)`  
+`creek <- sp::Line(xy)`    
+`n <- 5`  
+`pnts <- spsample(creek, n = n, 'random')`  
+`plot(xy, type = 'l')`  
+`points(pnts)`  
+`coordinates(pnts)`  
 
 
 This snippet produces figures, like the one in the banner and the one below, and reports the random coordinates back to you.
