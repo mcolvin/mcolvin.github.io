@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: You so random
 subtitle: Selecting random stream sampling locations using R
 bigimg: /img/adult-lamprey.JPG
