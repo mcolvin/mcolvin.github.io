@@ -2,6 +2,7 @@
 layout: post
 title: Chasing Southern Brook Lamprey
 bigimg: /img/lamprey-catch.png
+tags: [SBL, Southern Brook Lamprey, Ichthyomyzon gagei, SBLRP, Southern Brook Lamprey Research Group, random sampling, R]
 ---
 
 
