@@ -2,6 +2,7 @@
 layout: post
 title: Lamprey abstract for Southeastern Fishes Council meeting. 
 bigimg: /img/adult-lamprey.JPG
+tags: [SBL, Southern Brook Lamprey, Ichthyomyzon gagei, SBLRP, Southern Brook Lamprey Research Group]
 ---
 
 # Identifying barriers to the detection of passive integrated transponder (PIT) tags in southern brook lamprey ammocoetes (_Ichthyomyzon gagei_, Hubbs & Trautman, 1937) 
