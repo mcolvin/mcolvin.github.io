@@ -2,6 +2,7 @@
 layout: post
 title: Fishing forecasts research highlighted in Landmarks Magazine!
 bigimg: /img/almanacs.png
+tags: [Fishing forecast, creel survey, angling]
 ---
 
 
