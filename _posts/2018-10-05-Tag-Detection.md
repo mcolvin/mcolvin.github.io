@@ -2,6 +2,7 @@
 layout: post
 title: The effects of sediment on PIT tag detection-The setup
 bigimg: /img/scanning.JPG
+tags: [SBL, Southern Brook Lamprey, Ichthyomyzon gagei, SBLRP, Southern Brook Lamprey Research Group, PIT tags]
 ---
 
 # The effects of sediment on PIT tag detection-The setup
