@@ -2,6 +2,7 @@
 layout: post
 title: PIT Tagging Madtoms
 bigimg: /img/madtom-bucket.JPG
+tags: [Frecklebelly Madtom, PIT tags, madtom hotels, madtoms]
 ---
 
 # Madtom Tagging!
