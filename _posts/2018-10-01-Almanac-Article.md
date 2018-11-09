@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Fishing forecasts research highlighted in Landmarks Magazine!
+subtitle: Study Finds Holes in Fishing Forecast Methods
 bigimg: /img/almanacs.png
 tags: [Fishing forecast, creel survey, angling]
 ---
 
 
-##  Study Finds Holes in Fishing Forecast Methods
 
 Undergraduate research scholar Ashley Shannon's work was
 highlighted in Mississippi State University's Landmark
