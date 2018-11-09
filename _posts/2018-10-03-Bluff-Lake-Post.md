@@ -2,6 +2,7 @@
 layout: post
 title: Bluff Lake Project is going live!
 bigimg: /img/bluff.jpg
+tags: [Bluff Lake]
 ---
 
 
