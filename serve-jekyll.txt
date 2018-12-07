@@ -1,0 +1,4 @@
+
+
+cd "C:\Users\mcolvin\Documents\Operations\mcolvin.github.io"
+bundle exec jekyll serve
