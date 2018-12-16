@@ -4,13 +4,12 @@ title: Spatial polygons
 subtitle: How to make and sample a polygon
 bigimg: /img/big-img/enid.png
 tags: [sampling, R, bluff lake]
-output:
-  html_document:
-    keep_md: TRUE
 ---
 
 <!--
-rmarkdown::render("2018-12-15-making-a-spatial-polygon.Rmd")
+rmarkdown::render("_2018-12-15-making-a-spatial-polygon.Rmd",
+    output_format="md_document",output_options=list(preserve_yaml=TRUE),
+    output_file='2018-12-15-making-a-spatial-polygon.md')
 -->
 
 
