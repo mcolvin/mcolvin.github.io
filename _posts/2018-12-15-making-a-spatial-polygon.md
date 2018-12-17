@@ -7,10 +7,20 @@ tags: [sampling, R, bluff lake]
 ---
 
 <!--
-rmarkdown::render("_2018-12-15-making-a-spatial-polygon.Rmd",
-    output_format="md_document",output_options=list(preserve_yaml=TRUE),
+
+rmarkdown::render("./_posts/_2018-12-15-making-a-spatial-polygon.Rmd",
+    output_format="md_document",
+    output_options=list(preserve_yaml=TRUE),
     output_file='2018-12-15-making-a-spatial-polygon.md')
+
 -->
+    setwd("..")
+    base.dir <- getwd()
+    base.url <- "/"
+    fig.path <- "img/2018-12-15-making-a-spatial-polygon/"
+    knitr::opts_knit$set(base.dir = base.dir, base.url = base.url)
+    knitr::opts_chunk$set(fig.path = fig.path)
+
 Generating sampling points in a polygon, like a lake can be done in R.
 Alternatively it can be done in a GIS like ARCgis, but I find that I use
 GIS so infrequently that I often forget how to do all the mouse clicks
@@ -32,8 +42,8 @@ First we are going to need the `sp` package.
 Now we need some coordinates that represent the polygon. In some cases
 these can be mapped by a person from an existing shapefile or in many
 cases I make a polygon in Google Earth and then extract the coordinates
-from the KML or KMZ file. The inputs needed are the lattitude and
-longitude in decimal degress in a 2 column matrix.
+from the KML or KMZ file. The inputs needed are the latitude and
+longitude in decimal degrees in a 2 column matrix.
 
     xy<-matrix(c(   
         -89.77289828816011,34.12873397365311,
@@ -102,7 +112,7 @@ Now you can do nice things like plot the polygon.
 
     plot(xy,axes=TRUE)
 
-![](2018-12-15-making-a-spatial-polygon_files/figure-markdown_strict/unnamed-chunk-8-1.png)
+![](/img/2018-12-15-making-a-spatial-polygon/unnamed-chunk-9-1.png)
 
 You can even work among different projection systems. The code below
 projects the polygon to UTM zone 16.
@@ -120,7 +130,7 @@ You can look at the sites on the lake.
     plot(xy_utm,axes=TRUE)
     points(xy.points.reg)
 
-![](2018-12-15-making-a-spatial-polygon_files/figure-markdown_strict/unnamed-chunk-11-1.png)
+![](/img/2018-12-15-making-a-spatial-polygon/unnamed-chunk-12-1.png)
 
 You can also look at the xy coordinates and upload them to your GPS!
 
@@ -128,28 +138,29 @@ You can also look at the xy coordinates and upload them to your GPS!
 
     ## SpatialPoints:
     ##              x1      x2
-    ##  [1,] -309666.8 3811170
-    ##  [2,] -309323.5 3811170
-    ##  [3,] -308980.3 3811170
-    ##  [4,] -310010.0 3811514
-    ##  [5,] -309666.8 3811514
-    ##  [6,] -309323.5 3811514
-    ##  [7,] -308980.3 3811514
-    ##  [8,] -310010.0 3811857
-    ##  [9,] -309666.8 3811857
-    ## [10,] -309323.5 3811857
-    ## [11,] -308980.3 3811857
-    ## [12,] -310353.2 3812200
-    ## [13,] -310010.0 3812200
-    ## [14,] -309666.8 3812200
-    ## [15,] -309323.5 3812200
-    ## [16,] -308980.3 3812200
-    ## [17,] -310353.2 3812543
-    ## [18,] -310010.0 3812543
-    ## [19,] -309666.8 3812543
-    ## [20,] -309323.5 3812543
-    ## [21,] -310010.0 3812886
-    ## [22,] -309666.8 3812886
-    ## [23,] -310010.0 3813230
+    ##  [1,] -309270.7 3811092
+    ##  [2,] -308927.5 3811092
+    ##  [3,] -309957.1 3811435
+    ##  [4,] -309613.9 3811435
+    ##  [5,] -309270.7 3811435
+    ##  [6,] -308927.5 3811435
+    ##  [7,] -309957.1 3811778
+    ##  [8,] -309613.9 3811778
+    ##  [9,] -309270.7 3811778
+    ## [10,] -308927.5 3811778
+    ## [11,] -310300.3 3812121
+    ## [12,] -309957.1 3812121
+    ## [13,] -309613.9 3812121
+    ## [14,] -309270.7 3812121
+    ## [15,] -308927.5 3812121
+    ## [16,] -310300.3 3812465
+    ## [17,] -309957.1 3812465
+    ## [18,] -309613.9 3812465
+    ## [19,] -309270.7 3812465
+    ## [20,] -310300.3 3812808
+    ## [21,] -309957.1 3812808
+    ## [22,] -309613.9 3812808
+    ## [23,] -309957.1 3813151
+    ## [24,] -309613.9 3813151
     ## Coordinate Reference System (CRS) arguments: +proj=utm +zone=17
     ## +datum=NAD83 +ellps=GRS80 +towgs84=0,0,0

@@ -7,10 +7,22 @@ tags: [sampling, R, bluff lake]
 ---
 
 <!--
-rmarkdown::render("_2018-12-15-making-a-spatial-polygon.Rmd",
-    output_format="md_document",output_options=list(preserve_yaml=TRUE),
+
+rmarkdown::render("./_posts/_2018-12-15-making-a-spatial-polygon.Rmd",
+    output_format="md_document",
+    output_options=list(preserve_yaml=TRUE),
     output_file='2018-12-15-making-a-spatial-polygon.md')
+
 -->
+
+```{r}
+setwd("..")
+base.dir <- getwd()
+base.url <- "/"
+fig.path <- "img/2018-12-15-making-a-spatial-polygon/"
+knitr::opts_knit$set(base.dir = base.dir, base.url = base.url)
+knitr::opts_chunk$set(fig.path = fig.path)
+```
 
 
 Generating sampling points in a polygon, like a lake can be done in 
@@ -36,8 +48,8 @@ library(sp)
 Now we need some coordinates that represent the polygon. In some cases these 
 can be mapped by a person from an existing shapefile 
 or in many cases I make a polygon in Google Earth and then extract the coordinates
-from the KML or KMZ file. The inputs needed are the lattitude and longitude in 
-decimal degress in a 2 column matrix. 
+from the KML or KMZ file. The inputs needed are the latitude and longitude in 
+decimal degrees in a 2 column matrix. 
 
 
 
