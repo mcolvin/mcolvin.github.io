@@ -15,7 +15,7 @@ rmarkdown::render("./_posts/_2018-12-15-making-a-spatial-polygon.Rmd",
 
 -->
 
-```{r}
+```{r,echo=FALSE}
 setwd("..")
 base.dir <- getwd()
 base.url <- "/"
