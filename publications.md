@@ -52,7 +52,7 @@ bigimg: /img/DSCF1198.JPG
 
 #### Technical reports
 
-1. Colvin, M.E., S. Reynolds, R.B. Jacobson, LL. Pierce, K.D. Steffensen, and T.L. Welker. In review. PSPAP v.2.0 redesign process: Overview of Pallid Sturgeon Assessment Framework Redesign Process. Open-file Report 2018-XXXX.
+1. Colvin, M.E., S. Reynolds, R.B. Jacobson, LL. Pierce, K.D. Steffensen, and T.L. Welker. In review. PSPAP v.2.0 redesign process: Overview of Pallid Sturgeon Assessment Framework Redesign Process. Open-file Report 2018-1166, 87 p., https://doi.org/10.3133/ofr20181166.
 1. Jacobson, R.B., Colvin, M., Bulliner, E.A., Pickard, D., and Elliott, C.M., 2018, Bend-scale geomorphic classification and assessment of the Lower Missouri River from Sioux City, Iowa, to the Mississippi River for application to pallid sturgeon management: U.S.  
 1. Randall, M., M.E. Colvin, K. Steffensen, T. Welker, L. Pierce, and R. Jacobson. 2017. Assessment of Adult Pallid Sturgeon Fish Condition, Lower Missouri River: Application of New Information to the Missouri River Recovery Program. U.S. Geological Survey Open-file Report 2017- 1121.
 1. Jacobson, R. B., M. L. Annis, M. E. Colvin, D. A. James, T. L. Welker, and M. J. Parsley. 2016. Missouri River _Scaphirhynchus albus_ (pallid sturgeon) effects analysis—Integrative report 2016. Report 2016-5064, Reston, VA. 
