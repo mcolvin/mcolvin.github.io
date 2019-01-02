@@ -12,7 +12,9 @@ at the Moody Gardens Hotel and Conference Center on Galveston Island,
 Texas from January 24-27, 2019. 
 
 /img/big-img/gar.png
+   addd quotations 
     
+   
 ## Occupancy of four gar species in river-floodplain habitats: is there evidence for competitive exclusion and habitat mediated co-existence?
 
 ### Authors: D. A. Schumann, M. E. Colvin, L. E. Miranda, D. T. Farrand
