@@ -6,14 +6,8 @@ bigimg: /img/big-img/enid.png
 tags: [sampling, R, bluff lake]
 ---
 
-<!--
 
-rmarkdown::render("./_posts/_2018-12-15-making-a-spatial-polygon.Rmd",
-    output_format="md_document",
-    output_options=list(preserve_yaml=TRUE),
-    output_file='2018-12-15-making-a-spatial-polygon.md')
 
--->
 Generating sampling points in a polygon, like a lake can be done in R.
 Alternatively it can be done in a GIS like ARCgis, but I find that I use
 GIS so infrequently that I often forget how to do all the mouse clicks
