@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gar co-occurrence
-subtitle: Occupancy of four gar species in river-floodplain habitats: is there evidence for competitive exclusion and habitat mediated co-existence?
+subtitle: "Occupancy of four gar species in river-floodplain habitats: is there evidence for competitive exclusion and habitat mediated co-existence?"
 bigimg: /img/big-img/gar.png
 tags: [gar, abstracts, species co-occurrence]
 ---
