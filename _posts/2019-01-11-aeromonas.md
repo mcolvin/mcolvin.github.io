@@ -6,8 +6,7 @@ bigimg: /img/big-img/aero.jpg
 tags: [catfish, aeromonas, aquaculture]
 ---
 
-Guest post by [Brad Richardson](https://www.bradley-richardson.com/)
-
+Guest post by [Brad Richardson](https://www.bradley-richardson.com/).
 _Aeromonas hydrophila_ is a bacterium that causes illness in a wide 
 range of organisms. However, in 2009, a new strain of this bacteria 
 (ML09-119) was isolated from a series of disease outbreaks in channel 
