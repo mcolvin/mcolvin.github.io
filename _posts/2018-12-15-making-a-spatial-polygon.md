@@ -99,7 +99,7 @@ Now you can do nice things like plot the polygon.
 
     plot(xy,axes=TRUE)
 
-![](/img/2018-12-15-making-a-spatial-polygon/unnamed-chunk-9-1.png)
+![Base 64 graphics may not be rendered in IE-use chrome or firefox](/img/2018-12-15-making-a-spatial-polygon/unnamed-chunk-9-1.png)
 
 You can even work among different projection systems. The code below
 projects the polygon to UTM zone 16.
@@ -117,7 +117,7 @@ You can look at the sites on the lake.
     plot(xy_utm,axes=TRUE)
     points(xy.points.reg)
 
-![](/img/2018-12-15-making-a-spatial-polygon/unnamed-chunk-12-1.png)
+![Base 64 graphics may not be rendered in IE-use chrome or firefox](/img/2018-12-15-making-a-spatial-polygon/unnamed-chunk-12-1.png)
 
 You can also look at the xy coordinates and upload them to your GPS!
 
