@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: You Aren't the Same as Before?!
 subtitle: Rapid Supplanting of New Virulent Aeromonas Strain in Catfish
 bigimg: /img/big-img/aero.jpg
