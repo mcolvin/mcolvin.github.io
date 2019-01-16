@@ -11,7 +11,7 @@ bigimg: /img/DSCF1198.JPG
 #### Manuscripts
 
 1. Katzenmeyer, E., M.E. Colvin, T.W. Stewart, C.L. Pierce, and S. Grummer. _In press_. Fish growth changes over time in a Midwestern USA lake. Submitted to Transactions of the American Fisheries Society.
-1. Gallardo, J.C., F.J. Vilella, and M.E. Colvin. _In press_. A periodic population matrix model of the Caribbean Red-tailed Hawk _Buteo jamaicensis jamaicensis_ in eastern Puerto Rico. Ibis.
+1. Gallardo, J.C., F.J. Vilella, and M.E. Colvin. 2019. A periodic population matrix model of the Caribbean Red-tailed Hawk _Buteo jamaicensis jamaicensis_ in eastern Puerto Rico. Ibis.
 1. Colvin, M.E., J.T. Peterson, C. Sharpe, M.L. Kent. and C.B. Schreck. 2018. Identifying optimal hauling densities for adult Chinook Salmon trap and haul operations. River Research and Applications. 
 1. Miranda, L.E., L. Bull, M.E. Colvin, W.D. Hubbard, and L.L. Pugh. 2018. Segmentation of Mississippi Lakes. Lake and Reservoir Management.
 1. Gilliland†, C.R., M.E. Colvin, S.A. Rush, and S. Reagan. 2018. American Alligators are predators of Paddlefish creating new nutrient flows between aquatic and terrestrial ecosystems. Submitted to Foodwebs.  
