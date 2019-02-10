@@ -10,14 +10,14 @@ Post by Victoria Starnes.---
 Hi, I'm Victoria, Dr. Colvin's newest graduate student. My project will be focusing on Bluff 
 Lake, a 12,000-acre shallow lake located on the Sam D. Hamilton National 
 Wildlife Refuge. that Thise lake undergoes seasonal drawdowns. Through 
-these drawdowns, the refuge whichhelp providesforage food resources for 
+these drawdowns, the refuge  provides forage food resources for 
 a diverse array of birds including migrating ducks, egrets, herons, and 
 wood storks (To see some of these birds in action at the refuge, check 
 out this video: https://www.youtube.com/watch?v=5owCg7mB6Mg). Although 
 these drawdowns are beneficial to wildlife, what I&#39;m really 
 interested in finding out is very little is known about how these 
 seasonal drawdowns the impact of the drawdowns on the hydrology of the 
-lake, the water quality, habitat availability, the sportfish community, 
+lake, the water quality, habitat availability, the sportfish assemblage, 
 or and even the effect on fishing.! 
 
 
@@ -26,7 +26,7 @@ hydrology, or the blah blah definition, is impacted with by these
 seasonal drawdowns change the hydrology of the lake itself. A simple way 
 to do this is though bathymetric mapping, which is creating a map of the 
 bottom of the lake similar to a topographic mapping. the bottom of the 
-bathymetric mapping of Bluff Lake. By Bathometric mapping is done To 
+bathymetric mapping of Bluff Lake. Bathymetric mapping is done To 
 create this map, I am using a Humminbird 1198c, which is basically a 
 really fancy fish-finder that uses sonar to produce images of the lake 
 bottom. By mapping mapping the bottom of the lake now while the lake it 
