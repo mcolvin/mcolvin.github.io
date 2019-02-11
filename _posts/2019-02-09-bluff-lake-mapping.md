@@ -8,7 +8,7 @@ tags: [Noxubee, Bluff Lake, Bathymetry]
 
 Post by Victoria Starnes.---
 Hi, I'm Victoria, Dr. Colvin's newest graduate student. My project will be focusing on Bluff 
-Lake, a 12,000-acre shallow lake located on the Sam D. Hamilton National 
+Lake, 1,200-acre shallow lake, when full, located on the Sam D. Hamilton National 
 Wildlife Refuge. that Thise lake undergoes seasonal drawdowns. Through 
 these drawdowns, the refuge  provides forage food resources for 
 a diverse array of birds including migrating ducks, egrets, herons, and 
