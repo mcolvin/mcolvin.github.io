@@ -7,7 +7,8 @@ tags: [Noxubee, Bluff Lake, Bathymetry]
 ---
 
 
- Hi, I'm Victoria, the newest graduate student in the [Fisheries 
+Post by [Victoria Starnes](https://victoriastarnes.github.io/).---
+Hi, I'm Victoria, the newest graduate student in the [Fisheries 
 Management and Aquatic Conservation lab at Mississippi State 
 University](https://mcolvin.github.io). My project will focus on Bluff 
 Lake, a 1,200-acre shallow lake located on the Sam D. Hamilton National 
