@@ -2,7 +2,7 @@
 layout: post
 title: Design and Decisions, Part II
 subtitle: Using crunched numbers in decision support
-bigimg: /img/big-img/aldridge-2019-03-22-blog-post-banner.png
+# bigimg: /img/big-img/aldridge-2019-03-22-blog-post-banner.png
 tags: [experimental design, decision trees, structured decision making]
 ---
 
