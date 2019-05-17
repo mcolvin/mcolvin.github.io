@@ -9,7 +9,18 @@ bigimg: /img/DSCF1198.JPG
 ---------------------------------------
 
 #### Manuscripts
-
+1. Shaw, S.B., J.O. Beslity, and M.E. Colvin. _In press_. Working Toward a More 
+Holistic Set of Hydrologic Principles to Teach Non-Hydrologists: Five 
+Simple Concepts Within Catchment Hydrology. Hydrological 
+Processes. 
+1. Ivey, M.R., M.A. Lashley, B.K. Strickland, and M.E. Colvin. _Accepted 
+pending revisions_. The effects of vertebrate biological invasions on 
+species-area relationships are not scale-dependent. Ecology and 
+Evolution. 
+1. Hatcher, H.R., L.E. Miranda, M.E. Colvin, G. Coppola†, and M.A. 
+Lashley. _Accepted pending revisions_. Fish assemblages in reservoir 
+mudflats with low structural complexity. Submitted to Hydrobiologia 
+(HYDR-D-19-00070; 1 February 2019). 
 1. Guy, E.L., C.C. Mischke, M.E. Colvin, and P.J. Allen. _In press_. 
 Zooplankton selectivity and commercial feed consumption of Black Buffalo 
 _Ictiobus niger_. North American Journal of Aquaculture. 
