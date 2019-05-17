@@ -46,7 +46,7 @@ michael.colvin@msstate.edu
 * Undergraduate Research Scholar Program: Do fishing forecasts work? (Mentor to undergraduate researcher)
 
 ### 2016
-* * WFA 4133:  Fisheries Science 3 Credits (Instructor)
+* WFA 4133:  Fisheries Science 3 Credits (Instructor)
 * WFA 4313:  Fisheries Management 3 Credits (Instructor)
 
 ### 2015
@@ -100,52 +100,45 @@ michael.colvin@msstate.edu
 
 ## Peer reviewed articles († denotes graduate student, †† denotes undergraduate student)
 
-* Shaw, S.B., J.O. Beslity, and M.E. Colvin. _In press_. Working Toward a More Holistic Set of Hydrologic Principles to Teach Non-Hydrologists: Five Simple Concepts Within Catchment Hydrology. Hydrological Processes. 
-* Ivey, M.R.†, M.A. Lashley, B.K. Strickland, and M.E. Colvin. _Accepted pending revisions_. The effects of vertebrate biological invasions on species-area relationships are not scale-dependent. Ecology and Evolution. 
-* Hatcher, H.R.†, L.E. Miranda, M.E. Colvin, G. Coppola†, and M.A. Lashley. _Accepted pending revisions_. Fish assemblages in reservoir mudflats with low structural complexity. Submitted to Hydrobiologia (HYDR-D-19-00070; 1 February 2019). 
-* Guy, E.L.†, C.C. Mischke, M.E. Colvin, and P.J. Allen. _In press_. Zooplankton selectivity and commercial feed consumption of Black Buffalo _Ictiobus niger_. North American Journal of Aquaculture. 
-* Katzenmeyer, E., M.E. Colvin, T.W. Stewart, C.L. Pierce, and S. Grummer. 2019. Fish growth changes over time in a Midwestern USA lake. Submitted to Transactions of the American Fisheries Society. 148: 493-506.
-* Gallardo, J.C.†, F.J. Vilella, and M.E. Colvin. 2019. A periodic population matrix model of the Caribbean Red-tailed Hawk _Buteo jamaicensis jamaicensis_ in eastern Puerto Rico. Ibis. 161: 459-466. 
-* Colvin, M.E., J.T. Peterson, C. Sharpe, M.L. Kent. and C.B. Schreck. 2018. Identifying optimal hauling densities for adult Chinook Salmon trap and haul operations. River Research and Applications. 
-* Miranda, L.E., L. Bull, M.E. Colvin, W.D. Hubbard, and L.L. Pugh. 2018. Segmentation of Mississippi Lakes. Lake and Reservoir Management.
-* Gilliland†, C.R., M.E. Colvin, S.A. Rush, and S. Reagan. 2018. American Alligators are predators of Paddlefish creating new nutrient flows between aquatic and terrestrial ecosystems. Submitted to Foodwebs.
-* Keretz, K.R.†, C.P. Dinken†, P.J. Allen, M.E. Colvin, and H.L. Schramm Jr. 2018.  The effect of water temperature, angling time, and dissolved oxygen on the survival of angled and tournament-handled Largemouth Bass. Submitted to North American Journal of Fisheries Management.  
-* Mangipane, L.A.†, J.L. Belant, D.J.R. Lafferty, D.D. Gustine, T.L. Hiller, M.E. Colvin, B.A. Mangipane, and G.V. Hilderbrand. 2018. Dietary plasticity in a nutrient-rich system does not influence brown bear body condition or denning. Polar Biology. 88: 1-7.
-* Mangipane, L.A.†, J.L. Belant, T.L. Hiller, M.E. Colvin, D.D. Gustine, B.A. Mangipane, and G.V. Hilderbrand. 2017. Influences of landscape heterogeneity on home-range sizes of brown bears in a salmon subsidized system. Mammalian Biology. 88: 1-7.
-* Miranda, L.E., and M.E. Colvin.  2017. Sampling for age and growth estimation.  Chapter 5 in Age and Growth of Fishes.  Quist, M.C., and D. Isserman editors. American Fisheries Society. Bethesda, MD.  
-* Miranda, L.E., M.E. Colvin, A.C. Shamaskin, L.A. Bull, T. Holman, and R. Jones.  2017.  Length-limits fail to restructure a Largemouth Bass population:  A 27-year case history.  Submitted to North American Journal of Fisheries Management.
-* DeWeber, J.T., J.T. Peterson, C.S. Sharpe, M.L. Kent, M.E. Colvin, and C.B. Schreck.  2017.  Prespawn mortality in outplanted Chinook Salmon is highly variable and associated with outplant date.  North American Journal of Fisheries Management. 1: 162-175.
-* Colvin, M.E. and J.T. Peterson.  2017.  Preparing future fisheries professionals to make good decisions.  Fisheries 41(8): 473-474.  
-* Neely, B.C., J.D. Koch, and M.E. Colvin.  2016.  Utility of reservoir characteristics on collection of representative and precise fish samples: implications for determining 	minimum sampling effort.  North American Journal of Fisheries Management. 36: 285-293.
-* Howell, P.J., M.E. Colvin, P.M. Sankovich, D.V. Buchanan, and A.R. Hemmingsen.  2016.  Life Histories, Demography, and Distribution of Bull Trout from Mill Creek, a 	Tributary of the Walla Walla River.  Transactions of the American Fisheries Society. 145 (1), 173-194.
-* Dolan, B.P., K.M. Fisher, M.E. Colvin, S.E. Benda, J.T. Peterson, M.L. Kent, and C.B. Schreck. 2016. Innate and adaptive immune responses in migrating spring-run adult chinook salmon, Oncorhynchus tshawytscha. Fish & Shellfish Immunology 48:136-144.
-* Dolan, B., K. Fisher, M.E. Colvin, S. Benda, C. Danley, J.T. Peterson, M. Kent, P. Zwollo, and C.B. Schreck.  2015. Diminished innate, but not adaptive, immune responses in migrating adult Chinook salmon, Oncorhynchus tshawytscha.  The Journal of Immunology 194 (1 Supplement): 146.15-146.15.
-* Colvin, M.E., T.W. Stewart, and C.L. Pierce.  2015.  A food web modelling analysis of a Midwestern, USA eutrophic lake dominated by non-native Common Carp and Zebra Mussels.  Ecological Modelling. 32: 26-40. 
-* Colvin, M.E., J.T. Peterson, M. Kent, C.S. Sharpe, and C.B. Schreck.  2015. Using occupancy modeling to estimate detection probabilities and prevalence from hierarchically structured pathogen detection data.  PLOS ONE.
-* Carlson, A.K., J.R. Fischer, D.J. Dembkowski, L.L. Pierce, M.E. Colvin, J.A. Kerns. 2015. Purpose, History, and Importance of the "Student Angle".  Fisheries.  40(2): 81-83.
-* Collymore, C., V. Watral, J.R. White, M.E. Colvin, S. Rasmussen, R.J. Tolwani, M.L. Kent.  2014. Tolerance and Efficacy of Emamectin benzoate and Ivermectin for the Treatment of Pseudocapillaria tomentosa in laboratory Zebrafish (Danio rerio).  Zebrafish.  11(5):  490-497.
-* Koch, J.D., B.C. Neely, and M.E. Colvin.  2014.  Evaluation of precision and sample sizes using standardized sampling in Kansas Reservoirs.  North American Journal of Fisheries Management.  34(6): 1211-1220.   
-* Mayfield, M.P., L.D. Schultz, L.A. Wyss, M.E. Colvin, and C.B. Schreck.  2014. Using spatial resampling to assess survey length requirements to detect and estimate spawner abundance from redd counts:  an example using Pacific lamprey.  North American Journal of Fisheries Management.  34(5): 923-931.  
-* Colvin, M.E. G.D. Scholten, and P.W. Bettoli. 2013. Predicting paddlefish roe yields using an extension of the Beverton-Holt equilibrium yield model. North American Journal of Fisheries Management. 33: 940-949.
-* Colvin, M.E., Pierce, C.L., T.W. Stewart, and S.E. Grummer. 2012. Strategies to control a common carp population by pulsed commercial harvest.  North American Journal of Fisheries Management. 32(6): 1251-1264.
-* Colvin, M.E., C.L. Pierce, and T.W. Stewart. 2012. Semi-discrete biomass dynamic modeling: an improved approach for assessing fish stock responses to pulsed harvest events. Canadian Journal of Fisheries and Aquatic Sciences. 69(10): 1710-1721.
-* Ebersole, J.L., M.E. Colvin, P.J. Wigington, S.G. Leibowitz, J.P. Baker, M.R. Church, J.E. Compton, and M.A. Cairns. 2009. Hierarchical modeling of late-summer weight and summer abundance of juvenile coho salmon across a stream network. Transactions of the American Fisheries Society. 138: 1138-1156. 
-* Colvin, M.E. and J. Kopaska. 2009. The role of the student member in the American Fisheries Society Fisheries Information and Technology Section. Fisheries. 34(6): 305-306. 
-* Ebersole, J.L., M.E. Colvin, P.J. Wigington, S.G. Leibowitz, J.P. Baker, M.R. Church, J.E. Compton, B.A., Miller, M.A. Cairns, B.P. Hansen, and H.R. Lavigne. 2009. Modeling stream network-scale variation in coho salmon overwinter survival and smolt size. Transactions of the American Fisheries Society. 138: 564-580. 
-* Colvin, M.E., and C.M. Moffitt. 2009. Evaluation of irrigation canal networks to assess stream connectivity in a watershed. River Research and Applications. 25: 486-496.
-* Wigington, P.J., J.E. Ebersole, M.E. Colvin, S.G. Leibowitz, B. Miller, B. Hansen, H.R. Lavigne, D. White, J.P. Baker, M.R. Church, J.R. Brooks, M.A. Cairns, and J.E. Compton. 2006. Salmon dependent on intermittent streams.  Frontiers in Ecology and the Environment. 4(10): 513-518.
+1. Shaw, S.B., J.O. Beslity, and M.E. Colvin. _In press_. Working Toward a More Holistic Set of Hydrologic Principles to Teach Non-Hydrologists: Five Simple Concepts Within Catchment Hydrology. Hydrological Processes. 
+1. Ivey, M.R.†, M.A. Lashley, B.K. Strickland, and M.E. Colvin. _Accepted pending revisions_. The effects of vertebrate biological invasions on species-area relationships are not scale-dependent. Ecology and Evolution. 
+1. Hatcher, H.R.†, L.E. Miranda, M.E. Colvin, G. Coppola†, and M.A. Lashley. _Accepted pending revisions_. Fish assemblages in reservoir mudflats with low structural complexity. Submitted to Hydrobiologia (HYDR-D-19-00070; 1 February 2019). 
+1. Guy, E.L.†, C.C. Mischke, M.E. Colvin, and P.J. Allen. _In press_. Zooplankton selectivity and commercial feed consumption of Black Buffalo _Ictiobus niger_. North American Journal of Aquaculture. 
+1. Katzenmeyer, E., M.E. Colvin, T.W. Stewart, C.L. Pierce, and S. Grummer. 2019. Fish growth changes over time in a Midwestern USA lake. Submitted to Transactions of the American Fisheries Society. 148: 493-506.
+1. Gallardo, J.C.†, F.J. Vilella, and M.E. Colvin. 2019. A periodic population matrix model of the Caribbean Red-tailed Hawk _Buteo jamaicensis jamaicensis_ in eastern Puerto Rico. Ibis. 161: 459-466. 
+1. Colvin, M.E., J.T. Peterson, C. Sharpe, M.L. Kent. and C.B. Schreck. 2018. Identifying optimal hauling densities for adult Chinook Salmon trap and haul operations. River Research and Applications. 
+1. Miranda, L.E., L. Bull, M.E. Colvin, W.D. Hubbard, and L.L. Pugh. 2018. Segmentation of Mississippi Lakes. Lake and Reservoir Management.
+1. Gilliland†, C.R., M.E. Colvin, S.A. Rush, and S. Reagan. 2018. American Alligators are predators of Paddlefish creating new nutrient flows between aquatic and terrestrial ecosystems. Submitted to Foodwebs.
+1. Keretz, K.R.†, C.P. Dinken†, P.J. Allen, M.E. Colvin, and H.L. Schramm Jr. 2018.  The effect of water temperature, angling time, and dissolved oxygen on the survival of angled and tournament-handled Largemouth Bass. Submitted to North American Journal of Fisheries Management.  
+1. Mangipane, L.A.†, J.L. Belant, D.J.R. Lafferty, D.D. Gustine, T.L. Hiller, M.E. Colvin, B.A. Mangipane, and G.V. Hilderbrand. 2018. Dietary plasticity in a nutrient-rich system does not influence brown bear body condition or denning. Polar Biology. 88: 1-7.
+1. Mangipane, L.A.†, J.L. Belant, T.L. Hiller, M.E. Colvin, D.D. Gustine, B.A. Mangipane, and G.V. Hilderbrand. 2017. Influences of landscape heterogeneity on home-range sizes of brown bears in a salmon subsidized system. Mammalian Biology. 88: 1-7.
+1. Miranda, L.E., and M.E. Colvin.  2017. Sampling for age and growth estimation.  Chapter 5 in Age and Growth of Fishes.  Quist, M.C., and D. Isserman editors. American Fisheries Society. Bethesda, MD.  
+1. Miranda, L.E., M.E. Colvin, A.C. Shamaskin, L.A. Bull, T. Holman, and R. Jones.  2017.  Length-limits fail to restructure a Largemouth Bass population:  A 27-year case history.  Submitted to North American Journal of Fisheries Management.
+1. DeWeber, J.T., J.T. Peterson, C.S. Sharpe, M.L. Kent, M.E. Colvin, and C.B. Schreck.  2017.  Prespawn mortality in outplanted Chinook Salmon is highly variable and associated with outplant date.  North American Journal of Fisheries Management. 1: 162-175.
+1. Colvin, M.E. and J.T. Peterson.  2017.  Preparing future fisheries professionals to make good decisions.  Fisheries 41(8): 473-474.  
+1. Neely, B.C., J.D. Koch, and M.E. Colvin.  2016.  Utility of reservoir characteristics on collection of representative and precise fish samples: implications for determining 	minimum sampling effort.  North American Journal of Fisheries Management. 36: 285-293.
+1. Howell, P.J., M.E. Colvin, P.M. Sankovich, D.V. Buchanan, and A.R. Hemmingsen.  2016.  Life Histories, Demography, and Distribution of Bull Trout from Mill Creek, a 	Tributary of the Walla Walla River.  Transactions of the American Fisheries Society. 145 (1), 173-194.
+1. Dolan, B.P., K.M. Fisher, M.E. Colvin, S.E. Benda, J.T. Peterson, M.L. Kent, and C.B. Schreck. 2016. Innate and adaptive immune responses in migrating spring-run adult chinook salmon, Oncorhynchus tshawytscha. Fish & Shellfish Immunology 48:136-144.
+1. Dolan, B., K. Fisher, M.E. Colvin, S. Benda, C. Danley, J.T. Peterson, M. Kent, P. Zwollo, and C.B. Schreck.  2015. Diminished innate, but not adaptive, immune responses in migrating adult Chinook salmon, Oncorhynchus tshawytscha.  The Journal of Immunology 194 (1 Supplement): 146.15-146.15.
+1. Colvin, M.E., T.W. Stewart, and C.L. Pierce.  2015.  A food web modelling analysis of a Midwestern, USA eutrophic lake dominated by non-native Common Carp and Zebra Mussels.  Ecological Modelling. 32: 26-40. 
+1. Colvin, M.E., J.T. Peterson, M. Kent, C.S. Sharpe, and C.B. Schreck.  2015. Using occupancy modeling to estimate detection probabilities and prevalence from hierarchically structured pathogen detection data.  PLOS ONE.
+1. Carlson, A.K., J.R. Fischer, D.J. Dembkowski, L.L. Pierce, M.E. Colvin, J.A. Kerns. 2015. Purpose, History, and Importance of the "Student Angle".  Fisheries.  40(2): 81-83.
+1. Collymore, C., V. Watral, J.R. White, M.E. Colvin, S. Rasmussen, R.J. Tolwani, M.L. Kent.  2014. Tolerance and Efficacy of Emamectin benzoate and Ivermectin for the Treatment of Pseudocapillaria tomentosa in laboratory Zebrafish (Danio rerio).  Zebrafish.  11(5):  490-497.
+1. Koch, J.D., B.C. Neely, and M.E. Colvin.  2014.  Evaluation of precision and sample sizes using standardized sampling in Kansas Reservoirs.  North American Journal of Fisheries Management.  34(6): 1211-1220.   
+1. Mayfield, M.P., L.D. Schultz, L.A. Wyss, M.E. Colvin, and C.B. Schreck.  2014. Using spatial resampling to assess survey length requirements to detect and estimate spawner abundance from redd counts:  an example using Pacific lamprey.  North American Journal of Fisheries Management.  34(5): 923-931.  
+1. Colvin, M.E. G.D. Scholten, and P.W. Bettoli. 2013. Predicting paddlefish roe yields using an extension of the Beverton-Holt equilibrium yield model. North American Journal of Fisheries Management. 33: 940-949.
+1. Colvin, M.E., Pierce, C.L., T.W. Stewart, and S.E. Grummer. 2012. Strategies to control a common carp population by pulsed commercial harvest.  North American Journal of Fisheries Management. 32(6): 1251-1264.
+1. Colvin, M.E., C.L. Pierce, and T.W. Stewart. 2012. Semi-discrete biomass dynamic modeling: an improved approach for assessing fish stock responses to pulsed harvest events. Canadian Journal of Fisheries and Aquatic Sciences. 69(10): 1710-1721.
+1. Ebersole, J.L., M.E. Colvin, P.J. Wigington, S.G. Leibowitz, J.P. Baker, M.R. Church, J.E. Compton, and M.A. Cairns. 2009. Hierarchical modeling of late-summer weight and summer abundance of juvenile coho salmon across a stream network. Transactions of the American Fisheries Society. 138: 1138-1156. 
+1. Colvin, M.E. and J. Kopaska. 2009. The role of the student member in the American Fisheries Society Fisheries Information and Technology Section. Fisheries. 34(6): 305-306. 
+1. Ebersole, J.L., M.E. Colvin, P.J. Wigington, S.G. Leibowitz, J.P. Baker, M.R. Church, J.E. Compton, B.A., Miller, M.A. Cairns, B.P. Hansen, and H.R. Lavigne. 2009. Modeling stream network-scale variation in coho salmon overwinter survival and smolt size. Transactions of the American Fisheries Society. 138: 564-580. 
+1. Colvin, M.E., and C.M. Moffitt. 2009. Evaluation of irrigation canal networks to assess stream connectivity in a watershed. River Research and Applications. 25: 486-496.
+1. Wigington, P.J., J.E. Ebersole, M.E. Colvin, S.G. Leibowitz, B. Miller, B. Hansen, H.R. Lavigne, D. White, J.P. Baker, M.R. Church, J.R. Brooks, M.A. Cairns, and J.E. Compton. 2006. Salmon dependent on intermittent streams.  Frontiers in Ecology and the Environment. 4(10): 513-518.
 
 ## Articles and reports in review († denotes graduate student, †† denotes undergraduate student)
 
-* Hatcher†, H.R., G. Coppola†, L.E. Miranda, M.E. Colvin, and M.A. Lashley. In revision to resubmit. Fish 	Assemblages in Reservoir Mudflats. 
-* Gallardo†, J.C., F.J. Vilella, and M.E. Colvin. In revision. A periodic population matrix model of the Caribbean Red-tailed Hawk Buteo jamaicensis jamaicensis in eastern Puerto Rico. Submitted to Ibis. 
-* Ivey†, M.R., M.A. Lashley, B.K. Strickland, and M.E. Colvin. In revision to resubmit. The effects of vertebrate biological invasions on species-area relationships are not scale-dependent. 	
-* Katzenmeyer†, E., M.E. Colvin, T.W. Stewart, C.L. Pierce, and S. Grummer. In review. Fish growth changes over time in a Midwestern USA lake. Submitted to Transactions of the 
-* American Fisheries Society.
-* Guy†, E.L., C.C. Mischke, M.E. Colvin, and P.J. Allen. In review. Zooplankton selectivity and commercial feed consumption of Black Buffalo Ictiobus niger. Submitted to North American Journal of Aquaculture. UNAJ-2018-0099
 * Kramer, N., Q.E. Phelps, C.L. Pierce, and M.E. Colvin. In review. A Food Web Modelling Assessment of Asian Carp Impacts in the Middle and Upper Mississippi River.Submitted to Ecological Modelling
-* Ivey†, M.R., M.E. Colvin, M.A. Lashley, and B.K. Strickland. In preparation. Modified double observer technique to estimate animal abundance with camera traps. Submitted to the Journal of Remote Sensing.
-* Kroboth, P., D. Hann, M.E. Colvin, P. Hartfield, and H. Schramm. In preparation. Pallid Sturgeon Scaphirhynchus albus seasonal habitat selection in a large river free-flowing river, the lower Mississippi River
+* Kroboth, P., D. Hann, M.E. Colvin, P. Hartfield, and H. Schramm. _In Federal Review_. Pallid Sturgeon Scaphirhynchus albus seasonal habitat selection in a large river free-flowing river, the lower Mississippi River
 
 ## Technical reports († denotes graduate student, †† denotes undergraduate student)
 
