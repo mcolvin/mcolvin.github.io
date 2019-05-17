@@ -139,6 +139,8 @@ michael.colvin@msstate.edu
 
 * Kramer, N., Q.E. Phelps, C.L. Pierce, and M.E. Colvin. In review. A Food Web Modelling Assessment of Asian Carp Impacts in the Middle and Upper Mississippi River.Submitted to Ecological Modelling
 * Kroboth, P., D. Hann, M.E. Colvin, P. Hartfield, and H. Schramm. _In Federal Review_. Pallid Sturgeon Scaphirhynchus albus seasonal habitat selection in a large river free-flowing river, the lower Mississippi River
+* Schumann, D.A., M.E. Colvin, L.E. Miranda, and D.T. Jones-Farrand. In review. Occurrence and co-occurrence patterns of gar in river-floodplain habitats: leveraging species interactions to benefit distributional models. Submitted to North American Journal of Fisheries Management. 
+
 
 ## Technical reports († denotes graduate student, †† denotes undergraduate student)
 
