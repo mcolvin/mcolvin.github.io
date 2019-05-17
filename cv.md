@@ -100,11 +100,16 @@ michael.colvin@msstate.edu
 
 ## Peer reviewed articles († denotes graduate student, †† denotes undergraduate student)
 
-* Colvin, M.E., J.T. Peterson, C. Sharpe, M.L. Kent. and C.B. Schreck. In press.  Identifying optimal hauling densities for adult Chinook Salmon trap and haul operations. River Research and Applications. 
+* Shaw, S.B., J.O. Beslity, and M.E. Colvin. _In press_. Working Toward a More Holistic Set of Hydrologic Principles to Teach Non-Hydrologists: Five Simple Concepts Within Catchment Hydrology. Hydrological Processes. 
+* Ivey, M.R.†, M.A. Lashley, B.K. Strickland, and M.E. Colvin. _Accepted pending revisions_. The effects of vertebrate biological invasions on species-area relationships are not scale-dependent. Ecology and Evolution. 
+* Hatcher, H.R.†, L.E. Miranda, M.E. Colvin, G. Coppola†, and M.A. Lashley. _Accepted pending revisions_. Fish assemblages in reservoir mudflats with low structural complexity. Submitted to Hydrobiologia (HYDR-D-19-00070; 1 February 2019). 
+* Guy, E.L.†, C.C. Mischke, M.E. Colvin, and P.J. Allen. _In press_. Zooplankton selectivity and commercial feed consumption of Black Buffalo _Ictiobus niger_. North American Journal of Aquaculture. 
+* Katzenmeyer, E., M.E. Colvin, T.W. Stewart, C.L. Pierce, and S. Grummer. 2019. Fish growth changes over time in a Midwestern USA lake. Submitted to Transactions of the American Fisheries Society. 148: 493-506.
+* Gallardo, J.C.†, F.J. Vilella, and M.E. Colvin. 2019. A periodic population matrix model of the Caribbean Red-tailed Hawk _Buteo jamaicensis jamaicensis_ in eastern Puerto Rico. Ibis. 161: 459-466. 
+* Colvin, M.E., J.T. Peterson, C. Sharpe, M.L. Kent. and C.B. Schreck. 2018. Identifying optimal hauling densities for adult Chinook Salmon trap and haul operations. River Research and Applications. 
 * Miranda, L.E., L. Bull, M.E. Colvin, W.D. Hubbard, and L.L. Pugh. 2018. Segmentation of Mississippi Lakes. Lake and Reservoir Management.
 * Gilliland†, C.R., M.E. Colvin, S.A. Rush, and S. Reagan. 2018. American Alligators are predators of Paddlefish creating new nutrient flows between aquatic and terrestrial ecosystems. Submitted to Foodwebs.
-* Keretz, K.R.†, C.P. Dinken†, P.J. Allen, M.E. Colvin, and H.L. Schramm Jr. 2018.  The
-* effect of water temperature, angling time, and dissolved oxygen on the survival of angled and tournament-handled Largemouth Bass. Submitted to North American Journal of Fisheries Management.  
+* Keretz, K.R.†, C.P. Dinken†, P.J. Allen, M.E. Colvin, and H.L. Schramm Jr. 2018.  The effect of water temperature, angling time, and dissolved oxygen on the survival of angled and tournament-handled Largemouth Bass. Submitted to North American Journal of Fisheries Management.  
 * Mangipane, L.A.†, J.L. Belant, D.J.R. Lafferty, D.D. Gustine, T.L. Hiller, M.E. Colvin, B.A. Mangipane, and G.V. Hilderbrand. 2018. Dietary plasticity in a nutrient-rich system does not influence brown bear body condition or denning. Polar Biology. 88: 1-7.
 * Mangipane, L.A.†, J.L. Belant, T.L. Hiller, M.E. Colvin, D.D. Gustine, B.A. Mangipane, and G.V. Hilderbrand. 2017. Influences of landscape heterogeneity on home-range sizes of brown bears in a salmon subsidized system. Mammalian Biology. 88: 1-7.
 * Miranda, L.E., and M.E. Colvin.  2017. Sampling for age and growth estimation.  Chapter 5 in Age and Growth of Fishes.  Quist, M.C., and D. Isserman editors. American Fisheries Society. Bethesda, MD.  
