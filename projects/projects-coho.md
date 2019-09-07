@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Juvenile coho salmon and freshwater habitat
-bigimg: /img/exposures.JPG
+bigimg: /img/coho.jpg
 ---
 
 
