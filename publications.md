@@ -9,10 +9,14 @@ bigimg: /img/DSCF1198.JPG
 ---------------------------------------
 
 #### Manuscripts
-1. Shaw, S.B., J.O. Beslity, and M.E. Colvin. _In press_. Working Toward a More Holistic Set of Hydrologic Principles to Teach Non-Hydrologists: Five Simple Concepts Within Catchment Hydrology. Hydrological Processes. 
-1. Ivey, M.R., M.A. Lashley, B.K. Strickland, and M.E. Colvin. _Accepted pending revisions_. The effects of vertebrate biological invasions on species-area relationships are not scale-dependent. Ecology and Evolution. 
-1. Hatcher, H.R., L.E. Miranda, M.E. Colvin, G. Coppola†, and M.A. Lashley. _Accepted pending revisions_. Fish assemblages in reservoir mudflats with low structural complexity. Submitted to Hydrobiologia (HYDR-D-19-00070; 1 February 2019). 
-1. Guy, E.L., C.C. Mischke, M.E. Colvin, and P.J. Allen. _In press_. Zooplankton selectivity and commercial feed consumption of Black Buffalo _Ictiobus niger_. North American Journal of Aquaculture. 
+
+1. Schumann, D.A., M.E. Colvin, L.E. Miranda, and D.T. Jones-Farrand. 2019. Occurrence and co-occurrence patterns of gar in river-floodplain habitats: leveraging species interactions to benefit distributional models. Submitted to North American Journal of Fisheries Management. (Submitted 4/30/19 UJFM-2019-0089; Revision submitted 8/7/2019)
+1. Coppola, G. H. Hatcher, S. Miranda, M.E. Colvin, and M.A. Lashley. _In press_. Submergence responses of cool-season annual plants and potential for fish habitat. Submitted to the North American Journal of Fisheries Management. 
+1. Kramer, N., Q.E. Phelps, C.L. Pierce, and M.E. Colvin. _In press_. A Food Web Modelling Assessment of Asian Carp Impacts in the Middle and Upper Mississippi River. Food Webs. (Submitted 7/16/2019; FOOWEB_2019_29; Revision requested 7/24/2019;  Accepted 8/22/2019).
+1. Shaw, S.B., J.O. Beslity, and M.E. Colvin. 2019. Working Toward a More Holistic Set of Hydrologic Principles to Teach Non-Hydrologists: Five Simple Concepts Within Catchment Hydrology. Hydrological Processes. 
+1. Ivey, M.R., M.A. Lashley, B.K. Strickland, and M.E. Colvin. 2019. The effects of vertebrate biological invasions on species-area relationships are not scale-dependent. Ecology and Evolution. 
+1. Hatcher, H.R., L.E. Miranda, M.E. Colvin, G. Coppola†, and M.A. Lashley. 2019. Fish assemblages in reservoir mudflats with low structural complexity. Submitted to Hydrobiologia (HYDR-D-19-00070; 1 February 2019). 
+1. Guy, E.L., C.C. Mischke, M.E. Colvin, and P.J. Allen. 2019. Zooplankton selectivity and commercial feed consumption of Black Buffalo _Ictiobus niger_. North American Journal of Aquaculture. 
 1. Katzenmeyer, E., M.E. Colvin, T.W. Stewart, C.L. Pierce, and S. Grummer. 2019. Fish growth changes over time in a Midwestern USA lake. Submitted to Transactions of the American Fisheries Society. 148: 493-506.
 1. Gallardo, J.C., F.J. Vilella, and M.E. Colvin. 2019. A periodic population matrix model of the Caribbean Red-tailed Hawk _Buteo jamaicensis jamaicensis_ in eastern Puerto Rico. Ibis. 161: 459-466. 
 1. Colvin, M.E., J.T. Peterson, C. Sharpe, M.L. Kent. and C.B. Schreck. 2018. Identifying optimal hauling densities for adult Chinook Salmon trap and haul operations. River Research and Applications. 
@@ -21,7 +25,7 @@ bigimg: /img/DSCF1198.JPG
 1. Keretz, K.R., C.P. Dinken, P.J. Allen, M.E. Colvin, and H.L. Schramm Jr. 2018. The effect of water temperature, angling time, and dissolved oxygen on the survival of angled and tournament-handled Largemouth Bass. Submitted to North American Journal of Fisheries Management. 
 1. Mangipane, L.A., J.L. Belant, D.J.R. Lafferty, D.D. Gustine, T.L. Hiller, M.E. Colvin, B.A. Mangipane, and G.V. Hilderbrand. 2018. Dietary plasticity in a nutrient-rich system does not influence brown bear body condition or denning. Polar Biology. 88: 1-7. 
 1. Mangipane, L.A., J.L. Belant, T.L. Hiller, M.E. Colvin, D.D. Gustine, B.A. Mangipane, and G.V. Hilderbrand. 2017. Influences of landscape heterogeneity on home-range sizes of brown bears in a salmon subsidized system. Mammalian Biology. 88: 1-7. 
-1. Miranda, L.E., M.E. Colvin, A.C. Shamaskin, L.A. Bull, T. Holman, and R. Jones. In press. Length-limits fail to restructure a Largemouth Bass population: A 27-year case history. Submitted to North American Journal of Fisheries Management. 
+1. Miranda, L.E., M.E. Colvin, A.C. Shamaskin, L.A. Bull, T. Holman, and R. Jones. 2018. Length-limits fail to restructure a Largemouth Bass population: A 27-year case history. Submitted to North American Journal of Fisheries Management. 
 1. DeWeber, J.T., J.T. Peterson, C.S. Sharpe, M.L. Kent, M.E. Colvin, and C.B. Schreck. 2017. Prespawn mortality in outplanted Chinook Salmon is highly variable and associated with outplant date. North American Journal of Fisheries Management. 1: 162-175. 
 1. Colvin, M.E. and J.T. Peterson. 2016. Preparing future fisheries professionals to make good decisions. Fisheries 41(8): 473-474. 
 1. Neely, B.C., J.D. Koch, and M.E. Colvin. 2016. Utility of reservoir characteristics on collection of representative and precise fish samples: implications for determining minimum sampling effort. North American Journal of Fisheries Management. 36: 285-293. 

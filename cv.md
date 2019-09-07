@@ -34,9 +34,19 @@ michael.colvin@msstate.edu
 
 ## Teaching, mentoring, and workshops
 
+### 2019
+
+* WFA 4133:  Fisheries Science 3 Credits (Instructor)
+* WFA 8433:  Natural Resource and Conservation Decision Making 3 Credits (Instructor)
+* WFA 4313:  Fisheries Management 3 Credits (Instructor)
+* Undergraduate Research Scholar Program: PIT tagging applications for monitoring stocking (Mentor to undergraduate researcher)
+
+
 ### 2018
 * WFA 4133:  Fisheries Science 3 Credits (Instructor)
 * WFA 4313:  Fisheries Management 3 Credits (Instructor)
+* Undergraduate Research Scholar Program: Assessing the viability of passive integrated transponder (PIT) tags for ecological studies of lamprey ammocoetes (Mentor to undergraduate researcher)
+
 
 ### 2017
 
@@ -86,7 +96,7 @@ michael.colvin@msstate.edu
 
 * AFS Continuing education course:  R for routine fisheries analysis (Workshop Instructor for a 1.5 day workshop)
 * AEcl 420/520:  Fisheries science – Iowa State University (Guest Lecturer on fisheries models)
-* AEcl 490:  Independent study:  Analysis of Sampling Methods for Dreissena polymorpha  veligers – Iowa State University (Mentor for undergraduate student)
+* AEcl 490:  Independent study:  Analysis of Sampling Methods for _Dreissena polymorpha_  veligers – Iowa State University (Mentor for undergraduate student)
 * Ent 525:  Aquatic Insects – Iowa State University (Guest Lecturer)
 
 ### 2008
@@ -100,6 +110,8 @@ michael.colvin@msstate.edu
 
 ## Peer reviewed articles († denotes graduate student, †† denotes undergraduate student)
 
+1. Schumann, D.A., M.E. Colvin, L.E. Miranda, and D.T. Jones-Farrand. 2019. Occurrence and co-occurrence patterns of gar in river-floodplain habitats: leveraging species interactions to benefit distributional models. Submitted to North American Journal of Fisheries Management. (Submitted 4/30/19 UJFM-2019-0089; Revision submitted 8/7/2019)
+1. Kramer, N., Q.E. Phelps, C.L. Pierce, and M.E. Colvin. 2019. A Food Web Modelling Assessment of Asian Carp Impacts in the Middle and Upper Mississippi River. Food Webs. (Submitted 7/16/2019; FOOWEB_2019_29; Revision requested 7/24/2019;  Accepted 8/22/2019).
 1. Shaw, S.B., J.O. Beslity, and M.E. Colvin. _In press_. Working Toward a More Holistic Set of Hydrologic Principles to Teach Non-Hydrologists: Five Simple Concepts Within Catchment Hydrology. Hydrological Processes. 
 1. Ivey, M.R.†, M.A. Lashley, B.K. Strickland, and M.E. Colvin. _Accepted pending revisions_. The effects of vertebrate biological invasions on species-area relationships are not scale-dependent. Ecology and Evolution. 
 1. Hatcher, H.R.†, L.E. Miranda, M.E. Colvin, G. Coppola†, and M.A. Lashley. _Accepted pending revisions_. Fish assemblages in reservoir mudflats with low structural complexity. Submitted to Hydrobiologia (HYDR-D-19-00070; 1 February 2019). 
