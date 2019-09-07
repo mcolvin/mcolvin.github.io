@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Establishing Ground Cover in Reservoir Mudflats to Foster Fish Assemblages
-bigimg: /img/exposures.JPG
+title: Whirling disease in the Pahsimieroi River
+bigimg: /img/exposures.jpg
 ---
 
 
-Whirling disease in the Pahsimieroi River
+
 Location: May, Idaho
 
 The parasite _Myxobolus cerebralis_ has been implicated in the declines 
