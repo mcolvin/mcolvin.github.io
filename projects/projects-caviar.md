@@ -8,7 +8,7 @@ bigimg: /img/caviar.jpg
 
 
 Location: Kentucky Lake, TN
- Colvin, M.E. G.D. Scholten, and P.W. Bettoli. 2013. Predicting 
+Colvin, M.E. G.D. Scholten, and P.W. Bettoli. 2013. Predicting 
 paddlefish roe yields using an extension of the Beverton-Holt 
 equilibrium yield model. Submitted to North American Journal of 
 Fisheries Management. North American Journal of Fisheries Management. 
