@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Establishing Ground Cover in Reservoir Mudflats to Foster Fish Assemblages
+title: Establishing Ground Cover in Reservoir Mudflats
 bigimg: /img/DSCF1198.JPG
 ---
 
