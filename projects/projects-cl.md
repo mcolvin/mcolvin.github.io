@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Clear Lake Ecosystem Simulation Project
-bigimg: /img/cl.jpg
+bigimg: /img/cl.JPG
 ---
 
 
