@@ -23,6 +23,7 @@ description: Colvin lab website
 
 # List of links in the navigation bar
 navbar-links:
+  Blog: https://mcolvin.github.io/
   About the lab: about
   Projects: projects
   Teaching & Workshops:
