@@ -26,10 +26,10 @@ navbar-links:
   About the lab: about
   Projects: projects
   Teaching & Workshops:
-    - WFA8433: "https://mcolvin.github.io/WFA8433/syllabus.html"
-    - WFA4133: "https://mcolvin.github.io/WFA4133/syllabus.html"
-    - WFA8000: "https://mcolvin.github.io/WFA8000-Research-Credits/syllabus.html"
-    - WFA4313: "https://mcolvin.github.io/WFA4313/syllabus.html"
+    - WFA4313 Fisheries Management: "https://mcolvin.github.io/WFA4313/syllabus.html"  
+    - WFA4133 Fisheries Science: "https://mcolvin.github.io/WFA4133/syllabus.html"    
+    - WFA8433 Nat. Res. Dec. Making: "https://mcolvin.github.io/WFA8433/syllabus.html"
+    - WFA8000 Research credits: "https://mcolvin.github.io/WFA8000-Research-Credits/syllabus.html"
     - NASPS Population Modeling workshop: "https://mcolvin.github.io/NASPS-Population-Modeling-Workshop/"
     - AGFC Adaptive Management workshop: "https://mcolvin.github.io/AGFC-ARM/"
     - MDWFP Length Limit Workshop: "https://mcolvin.github.io/MDWFP-Workshop"
