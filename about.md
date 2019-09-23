@@ -22,12 +22,14 @@ Michael E. Colvin, Ph.D. [cv](/cv)
 * David Norris (MS; Co-advised with Drs. Steve Miranda and Marcus Lashley)
 * Caleb Aldridge (PhD; Co-advised with Dr. Steve Miranda) [website](https://aldridgecaleb.github.io/)
 * Brad Richardson (PhD; Co-advised with Dr. David Wise) [website](http://www.bradley-richardson.com/)
-* Victoria Starnes (MS; Co-advised with Dr. Brian Davis)
+* Victoria Starnes (MS; Co-advised with Dr. Brian Davis) [website](https://victoriastarnes.github.io/)
+
 
 
 ### Undergraduate
 
 * Bayley Wilmoth
+* Kacy Chapman
 * Rick Campbell
 * Brandon Sorrell
 

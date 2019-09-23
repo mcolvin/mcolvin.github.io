@@ -37,15 +37,15 @@ michael.colvin@msstate.edu
 ### 2019
 
 * WFA 4133:  Fisheries Science 3 Credits (Instructor)
-* WFA 8433:  Natural Resource and Conservation Decision Making 3 Credits (Instructor)
+* WFA 8433:  Natural Resource and Conservation Decision Making 3 Credits (Instructor; main and distance campus)
 * WFA 4313:  Fisheries Management 3 Credits (Instructor)
-* Undergraduate Research Scholar Program: PIT tagging applications for monitoring stocking (Mentor to undergraduate researcher)
+* Undergraduate Research Scholar Program: Application of a boat mounted PIT tag antenna for monitoring efficacy of sport fish and conservation stocking.  (Mentor to undergraduate researcher)
 
 
 ### 2018
 * WFA 4133:  Fisheries Science 3 Credits (Instructor)
 * WFA 4313:  Fisheries Management 3 Credits (Instructor)
-* Undergraduate Research Scholar Program: Assessing the viability of passive integrated transponder (PIT) tags for ecological studies of lamprey ammocoetes (Mentor to undergraduate researcher)
+* Undergraduate Research Scholar Program: Evaluating Southern Brook Lamprey Movement and Biology (Mentor to undergraduate researcher)
 
 
 ### 2017
@@ -108,16 +108,19 @@ michael.colvin@msstate.edu
 * Fish 424:  Fish diseases – University of Idaho (Teaching Assistant)
 
 
-## Peer reviewed articles († denotes graduate student, †† denotes undergraduate student)
+## Peer reviewed articles († denotes graduate student, †† denotes undergraduate student, ††† denotes postdoc))
 
-1. Schumann, D.A., M.E. Colvin, L.E. Miranda, and D.T. Jones-Farrand. 2019. Occurrence and co-occurrence patterns of gar in river-floodplain habitats: leveraging species interactions to benefit distributional models. Submitted to North American Journal of Fisheries Management. (Submitted 4/30/19 UJFM-2019-0089; Revision submitted 8/7/2019)
-1. Kramer, N., Q.E. Phelps, C.L. Pierce, and M.E. Colvin. 2019. A Food Web Modelling Assessment of Asian Carp Impacts in the Middle and Upper Mississippi River. Food Webs. (Submitted 7/16/2019; FOOWEB_2019_29; Revision requested 7/24/2019;  Accepted 8/22/2019).
-1. Shaw, S.B., J.O. Beslity, and M.E. Colvin. _In press_. Working Toward a More Holistic Set of Hydrologic Principles to Teach Non-Hydrologists: Five Simple Concepts Within Catchment Hydrology. Hydrological Processes. 
-1. Ivey, M.R.†, M.A. Lashley, B.K. Strickland, and M.E. Colvin. _Accepted pending revisions_. The effects of vertebrate biological invasions on species-area relationships are not scale-dependent. Ecology and Evolution. 
-1. Hatcher, H.R.†, L.E. Miranda, M.E. Colvin, G. Coppola†, and M.A. Lashley. _Accepted pending revisions_. Fish assemblages in reservoir mudflats with low structural complexity. Submitted to Hydrobiologia (HYDR-D-19-00070; 1 February 2019). 
-1. Guy, E.L.†, C.C. Mischke, M.E. Colvin, and P.J. Allen. _In press_. Zooplankton selectivity and commercial feed consumption of Black Buffalo _Ictiobus niger_. North American Journal of Aquaculture. 
-1. Katzenmeyer, E., M.E. Colvin, T.W. Stewart, C.L. Pierce, and S. Grummer. 2019. Fish growth changes over time in a Midwestern USA lake. Submitted to Transactions of the American Fisheries Society. 148: 493-506.
-1. Gallardo, J.C.†, F.J. Vilella, and M.E. Colvin. 2019. A periodic population matrix model of the Caribbean Red-tailed Hawk _Buteo jamaicensis jamaicensis_ in eastern Puerto Rico. Ibis. 161: 459-466. 
+1. Kroboth, P., D. Hann, M.E. Colvin, P. Hartfield, and H. Schramm. Accepted. Pallid Sturgeon Scaphirhynchus albus seasonal habitat selection in a large river free-flowing river, the lower Mississippi River.  Journal of Applied Ichthyology. 
+1. Schumann, D.A.†††, M.E. Colvin, L.E. Miranda, and D.T. Jones-Farrand. Accepted. Occurrence and co-occurrence patterns of gar in river-floodplain habitats: leveraging species interactions to benefit distributional models. North American Journal of Fisheries Management.  
+1. Coppola†, G. H. Hatcher†, S. Miranda, M.E. Colvin, and M.A. Lashley. In press. Submergence responses of cool-season annual plants and potential for fish habitat. North American Journal of Fisheries Management. DOI:10.1002/nafm.10359.
+1. Kramer, N., Q.E. Phelps, C.L. Pierce, and M.E. Colvin. 2019. A Food Web Modelling Assessment of Asian Carp Impacts in the Middle and Upper Mississippi River. Food Webs. https://doi.org/10.1016/j.fooweb.2019.e00120
+1. Shaw, S.B., J.O. Beslity, and M.E. Colvin. 2019. Working Toward a More Holistic Set of Hydrologic Principles to Teach Non-Hydrologists: Five Simple Concepts Within Catchment Hydrology. Hydrological Processes. 16: 2258-2262. 
+1. Ivey, M.R., M.E. Colvin, B.K. Strickland, and M.A. Lashley. 2019. The effects of vertebrate biological invasions on species-area relationships are not scale-dependent. Ecology and Evolution. 13: 7761-7767. 
+1. Hatcher†, H.R., L.E. Miranda, M.E. Colvin, G. Coppola†, and M.A. Lashley. 2019. Fish assemblages in reservoir mudflats with low structural complexity. Hydrobiologia. 841: 163-175.
+1. Guy, E.L., C.C. Mischke, M.E. Colvin, and P.J. Allen. 2019. Zooplankton selectivity and commercial feed consumption of Black Buffalo Ictiobus niger. North American Journal of Aquaculture. 81: 215-221.
+1. Katzenmeyer, E., M.E. Colvin, T.W. Stewart, C.L. Pierce, and S. Grummer. 2019. Fish growth changes over time in a Midwestern USA lake. Transactions of the 
+1. American Fisheries Society. 148: 493-506.
+1. Gallardo, J.C., F.J. Vilella, and M.E. Colvin. 2019. A periodic population matrix model of the Caribbean Red-tailed Hawk Buteo jamaicensis jamaicensis in eastern Puerto Rico. Ibis. 161: 459-466. 
 1. Colvin, M.E., J.T. Peterson, C. Sharpe, M.L. Kent. and C.B. Schreck. 2018. Identifying optimal hauling densities for adult Chinook Salmon trap and haul operations. River Research and Applications. 
 1. Miranda, L.E., L. Bull, M.E. Colvin, W.D. Hubbard, and L.L. Pugh. 2018. Segmentation of Mississippi Lakes. Lake and Reservoir Management.
 1. Gilliland†, C.R., M.E. Colvin, S.A. Rush, and S. Reagan. 2018. American Alligators are predators of Paddlefish creating new nutrient flows between aquatic and terrestrial ecosystems. Submitted to Foodwebs.
@@ -127,14 +130,12 @@ michael.colvin@msstate.edu
 1. Miranda, L.E., and M.E. Colvin.  2017. Sampling for age and growth estimation.  Chapter 5 in Age and Growth of Fishes.  Quist, M.C., and D. Isserman editors. American Fisheries Society. Bethesda, MD.  
 1. Miranda, L.E., M.E. Colvin, A.C. Shamaskin, L.A. Bull, T. Holman, and R. Jones.  2017.  Length-limits fail to restructure a Largemouth Bass population:  A 27-year case history.  Submitted to North American Journal of Fisheries Management.
 1. DeWeber, J.T., J.T. Peterson, C.S. Sharpe, M.L. Kent, M.E. Colvin, and C.B. Schreck.  2017.  Prespawn mortality in outplanted Chinook Salmon is highly variable and associated with outplant date.  North American Journal of Fisheries Management. 1: 162-175.
-1. Colvin, M.E. and J.T. Peterson.  2017.  Preparing future fisheries professionals to make good decisions.  Fisheries 41(8): 473-474.  
 1. Neely, B.C., J.D. Koch, and M.E. Colvin.  2016.  Utility of reservoir characteristics on collection of representative and precise fish samples: implications for determining 	minimum sampling effort.  North American Journal of Fisheries Management. 36: 285-293.
 1. Howell, P.J., M.E. Colvin, P.M. Sankovich, D.V. Buchanan, and A.R. Hemmingsen.  2016.  Life Histories, Demography, and Distribution of Bull Trout from Mill Creek, a 	Tributary of the Walla Walla River.  Transactions of the American Fisheries Society. 145 (1), 173-194.
 1. Dolan, B.P., K.M. Fisher, M.E. Colvin, S.E. Benda, J.T. Peterson, M.L. Kent, and C.B. Schreck. 2016. Innate and adaptive immune responses in migrating spring-run adult chinook salmon, Oncorhynchus tshawytscha. Fish & Shellfish Immunology 48:136-144.
 1. Dolan, B., K. Fisher, M.E. Colvin, S. Benda, C. Danley, J.T. Peterson, M. Kent, P. Zwollo, and C.B. Schreck.  2015. Diminished innate, but not adaptive, immune responses in migrating adult Chinook salmon, Oncorhynchus tshawytscha.  The Journal of Immunology 194 (1 Supplement): 146.15-146.15.
 1. Colvin, M.E., T.W. Stewart, and C.L. Pierce.  2015.  A food web modelling analysis of a Midwestern, USA eutrophic lake dominated by non-native Common Carp and Zebra Mussels.  Ecological Modelling. 32: 26-40. 
 1. Colvin, M.E., J.T. Peterson, M. Kent, C.S. Sharpe, and C.B. Schreck.  2015. Using occupancy modeling to estimate detection probabilities and prevalence from hierarchically structured pathogen detection data.  PLOS ONE.
-1. Carlson, A.K., J.R. Fischer, D.J. Dembkowski, L.L. Pierce, M.E. Colvin, J.A. Kerns. 2015. Purpose, History, and Importance of the "Student Angle".  Fisheries.  40(2): 81-83.
 1. Collymore, C., V. Watral, J.R. White, M.E. Colvin, S. Rasmussen, R.J. Tolwani, M.L. Kent.  2014. Tolerance and Efficacy of Emamectin benzoate and Ivermectin for the Treatment of Pseudocapillaria tomentosa in laboratory Zebrafish (Danio rerio).  Zebrafish.  11(5):  490-497.
 1. Koch, J.D., B.C. Neely, and M.E. Colvin.  2014.  Evaluation of precision and sample sizes using standardized sampling in Kansas Reservoirs.  North American Journal of Fisheries Management.  34(6): 1211-1220.   
 1. Mayfield, M.P., L.D. Schultz, L.A. Wyss, M.E. Colvin, and C.B. Schreck.  2014. Using spatial resampling to assess survey length requirements to detect and estimate spawner abundance from redd counts:  an example using Pacific lamprey.  North American Journal of Fisheries Management.  34(5): 923-931.  
@@ -142,19 +143,15 @@ michael.colvin@msstate.edu
 1. Colvin, M.E., Pierce, C.L., T.W. Stewart, and S.E. Grummer. 2012. Strategies to control a common carp population by pulsed commercial harvest.  North American Journal of Fisheries Management. 32(6): 1251-1264.
 1. Colvin, M.E., C.L. Pierce, and T.W. Stewart. 2012. Semi-discrete biomass dynamic modeling: an improved approach for assessing fish stock responses to pulsed harvest events. Canadian Journal of Fisheries and Aquatic Sciences. 69(10): 1710-1721.
 1. Ebersole, J.L., M.E. Colvin, P.J. Wigington, S.G. Leibowitz, J.P. Baker, M.R. Church, J.E. Compton, and M.A. Cairns. 2009. Hierarchical modeling of late-summer weight and summer abundance of juvenile coho salmon across a stream network. Transactions of the American Fisheries Society. 138: 1138-1156. 
-1. Colvin, M.E. and J. Kopaska. 2009. The role of the student member in the American Fisheries Society Fisheries Information and Technology Section. Fisheries. 34(6): 305-306. 
 1. Ebersole, J.L., M.E. Colvin, P.J. Wigington, S.G. Leibowitz, J.P. Baker, M.R. Church, J.E. Compton, B.A., Miller, M.A. Cairns, B.P. Hansen, and H.R. Lavigne. 2009. Modeling stream network-scale variation in coho salmon overwinter survival and smolt size. Transactions of the American Fisheries Society. 138: 564-580. 
 1. Colvin, M.E., and C.M. Moffitt. 2009. Evaluation of irrigation canal networks to assess stream connectivity in a watershed. River Research and Applications. 25: 486-496.
 1. Wigington, P.J., J.E. Ebersole, M.E. Colvin, S.G. Leibowitz, B. Miller, B. Hansen, H.R. Lavigne, D. White, J.P. Baker, M.R. Church, J.R. Brooks, M.A. Cairns, and J.E. Compton. 2006. Salmon dependent on intermittent streams.  Frontiers in Ecology and the Environment. 4(10): 513-518.
 
-## Articles and reports in review († denotes graduate student, †† denotes undergraduate student)
-
-* Kramer, N., Q.E. Phelps, C.L. Pierce, and M.E. Colvin. In review. A Food Web Modelling Assessment of Asian Carp Impacts in the Middle and Upper Mississippi River.Submitted to Ecological Modelling
-* Kroboth, P., D. Hann, M.E. Colvin, P. Hartfield, and H. Schramm. _In Federal Review_. Pallid Sturgeon Scaphirhynchus albus seasonal habitat selection in a large river free-flowing river, the lower Mississippi River
-* Schumann, D.A., M.E. Colvin, L.E. Miranda, and D.T. Jones-Farrand. In review. Occurrence and co-occurrence patterns of gar in river-floodplain habitats: leveraging species interactions to benefit distributional models. Submitted to North American Journal of Fisheries Management. 
 
 
-## Technical reports († denotes graduate student, †† denotes undergraduate student)
+
+
+## Technical reports († denotes graduate student, †† denotes undergraduate student, ††† denotes postdoc)
 
 ### Peer-reviewed
 
@@ -168,6 +165,9 @@ michael.colvin@msstate.edu
 
 ### Non peer-reviewed 
 
+* Reynolds, S.††† and M.E. Colvin. 2019. Potential Pallid Sturgeon population responses to alternative flows out of Fort Peck Dam. Report to the U.S. Army Corps of Engineers to support the Draft Environmental Impact Statement.
+* Norris, D. †, G. Coppola, H. Hatcher, M. Lashley, M. Colvin, L.E. Miranda. 2019. Establishing Ground Cover in Reservoir Mudflats to Foster Fish Assemblages. Progress Report to Mississippi Department of Wildlife Fisheries and Parks. 
+* Schumann, D.A.†††, and M.E. Colvin. 2018. Multi-objective conservation planning: prototyping a strategic decision framework for aquatic species conservation (Phase 1). Gulf Coastal Plains and Ozarks Landscape Conservation Cooperative, Annual Report, Columbia, Missouri.
 * Gilliland, C.R. †, M.E. Colvin, P.J. Allen, and J.W. Neal. 2017. Paddlefish Polyodon spathula spawning and migratory habitat use in the Noxubee River System with focus on the Noxubee National Wildlife Refuge Management.  Interim report to the U.S. Fish and Wildlife Service.  47 pages.
 * Gilliland, C.R. †, M.E. Colvin, P.J. Allen, and J.W. Neal. 2016. Paddlefish Polyodon spathula spawning and migratory habitat use in the Noxubee River System with focus on the Noxubee National Wildlife Refuge Management.  Interim report to the U.S. Fish and Wildlife Service.  27 pages.
 * Miranda, L.E., M.E. Colvin, and A.C. Shamaskin†.  2016.  Review, revision and development of new monitoring protocols to facilitate the meeting of goals and objectives of freshwater fisheries management in Mississippi.  Progress report to Mississippi Department of Wildlife, Fisheries, and Parks.  9 pages.
@@ -181,9 +181,13 @@ michael.colvin@msstate.edu
 * Colvin, M.E., E.D. Katzenmeyer, T.W. Stewart, and C.L. Pierce. 2008.  The Clear Lake ecosystem simulation model (CLESM) Project. Annual Progress Report to the Iowa Department of Natural Resources. 
 * Munson, A.D., M.E. Colvin, and K.A. Johnson. 2005.  Ceratomyxa shasta exposure trials at Oxbow fish hatchery. Idaho Department of Fish and Game Fishery Research Report 04-48. Boise, ID.
 
-## Grants and contracts received 
+## Grants and contracts received (†graduate student, ††undergraduate student, †††postdoc) 
 
+* Colvin, M.E., D.A. Schumann†††, and K. Evans 2019. Integrating conservation planning tools to develop a transparent conservation blueprint for southeastern aquatic species. U.S. Fish and Wildlife Service. ($181,878)
+* Miranda, L.E. and M.E. Colvin.  2019. FRASps: a planning support tool for inland fisheries management.  Mississippi Department of Wildlife Fisheries and Parks.  ($109,526)
+* Colvin, M.E. 2019.  High-level planning process related to recovery of the endangered Pallid Sturgeon as part of the Missouri River Recovery Program.  U.S. Geological Survey.  ($137,589)
 * Lashley, M.A., G. Street, B. Strickland and M.E. Colvin. 2018. Continuation of using island biogeography to decrease agricultural damage and systematically eradicate feral swine from agricultural landscapes. USDA-APHIS.  ($136,000)
+* Colvin, M.E., D. Schumann†††, J.B. Davis, and L.E. Miranda. 2018. Evaluating the fish assemblage and fishery of Bluff Lake and integrating fishery objectives with Paddlefish and bird management objectives to evaluate water level management decisions. US Fish and Wildlife Service.  ($117,346)
 * Colvin, M.E., D. Schumann, J.B. Davis, and L.E. Miranda. 2018. Evaluating the fish assemblage and fishery of Bluff Lake and integrating fishery objectives with Paddlefish and bird management objectives to evaluate water level management decisions. US Fish and Wildlife Service.  ($117,346)
 * Schumann, D. and M.E. Colvin.  2018.  Evaluating Southern Brook Lamprey Movement and Biology.  College of Forest Resources Undergraduate Research Scholars Program.  ($3,000)
 * Colvin, M.E. 2018.  High-level planning process related to recovery of the endangered Pallid Sturgeon as part of the Missouri River Recovery Program.  U.S. Geological Survey.  ($128,279)
@@ -329,6 +333,9 @@ michael.colvin@msstate.edu
 
 ## Outreach & other creative work
 
+* Colvin, M.E. and J.T. Peterson.  2017.  Preparing future fisheries professionals to make good decisions.  Fisheries 41(8): 473-474.  
+* Carlson, A.K., J.R. Fischer, D.J. Dembkowski, L.L. Pierce, M.E. Colvin, J.A. Kerns. 2015. Purpose, History, and Importance of the "Student Angle".  Fisheries.  40(2): 81-83.
+* Colvin, M.E. and J. Kopaska. 2009. The role of the student member in the American Fisheries Society Fisheries Information and Technology Section. Fisheries. 34(6): 305-306. 
 * Colvin, M.E., 2015.  The legacy of Missouri Mike Colvin.  Fisheries Management Newsletter (March).  
 * Colvin, M.E., Katzenmeyer, E.K., Stewart,T.W., and C.L. Pierce. 2009. Zebra mussels: overview, preliminary trends and implications for the future of Clear Lake.  Project Clear Newsletter.
 * Colvin, M.E., Katzenmeyer, E.K., Stewart,T.W., and C.L. Pierce. 2010. Clear Lake project overview.  Clear Lake Association Annual Picnic. Clear Lake, IA. 
