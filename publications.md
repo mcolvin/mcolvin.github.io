@@ -10,15 +10,16 @@ bigimg: /img/DSCF1198.JPG
 
 #### Manuscripts
 
-1. Schumann, D.A., M.E. Colvin, L.E. Miranda, and D.T. Jones-Farrand. 2019. Occurrence and co-occurrence patterns of gar in river-floodplain habitats: leveraging species interactions to benefit distributional models. Submitted to North American Journal of Fisheries Management. (Submitted 4/30/19 UJFM-2019-0089; Revision submitted 8/7/2019)
-1. Coppola, G. H. Hatcher, S. Miranda, M.E. Colvin, and M.A. Lashley. _In press_. Submergence responses of cool-season annual plants and potential for fish habitat. Submitted to the North American Journal of Fisheries Management. 
-1. Kramer, N., Q.E. Phelps, C.L. Pierce, and M.E. Colvin. _In press_. A Food Web Modelling Assessment of Asian Carp Impacts in the Middle and Upper Mississippi River. Food Webs. (Submitted 7/16/2019; FOOWEB_2019_29; Revision requested 7/24/2019;  Accepted 8/22/2019).
-1. Shaw, S.B., J.O. Beslity, and M.E. Colvin. 2019. Working Toward a More Holistic Set of Hydrologic Principles to Teach Non-Hydrologists: Five Simple Concepts Within Catchment Hydrology. Hydrological Processes. 
-1. Ivey, M.R., M.A. Lashley, B.K. Strickland, and M.E. Colvin. 2019. The effects of vertebrate biological invasions on species-area relationships are not scale-dependent. Ecology and Evolution. 
-1. Hatcher, H.R., L.E. Miranda, M.E. Colvin, G. Coppola†, and M.A. Lashley. 2019. Fish assemblages in reservoir mudflats with low structural complexity. Submitted to Hydrobiologia (HYDR-D-19-00070; 1 February 2019). 
-1. Guy, E.L., C.C. Mischke, M.E. Colvin, and P.J. Allen. 2019. Zooplankton selectivity and commercial feed consumption of Black Buffalo _Ictiobus niger_. North American Journal of Aquaculture. 
-1. Katzenmeyer, E., M.E. Colvin, T.W. Stewart, C.L. Pierce, and S. Grummer. 2019. Fish growth changes over time in a Midwestern USA lake. Submitted to Transactions of the American Fisheries Society. 148: 493-506.
-1. Gallardo, J.C., F.J. Vilella, and M.E. Colvin. 2019. A periodic population matrix model of the Caribbean Red-tailed Hawk _Buteo jamaicensis jamaicensis_ in eastern Puerto Rico. Ibis. 161: 459-466. 
+1. Kroboth, P., D. Hann, M.E. Colvin, P. Hartfield, and H. Schramm. Accepted. Pallid Sturgeon Scaphirhynchus albus seasonal habitat selection in a large river free-flowing river, the lower Mississippi River.  Journal of Applied Ichthyology. 
+1. Schumann, D.A.†††, M.E. Colvin, L.E. Miranda, and D.T. Jones-Farrand. Accepted. Occurrence and co-occurrence patterns of gar in river-floodplain habitats: leveraging species interactions to benefit distributional models. North American Journal of Fisheries Management.  
+1. Coppola†, G. H. Hatcher†, S. Miranda, M.E. Colvin, and M.A. Lashley. In press. Submergence responses of cool-season annual plants and potential for fish habitat. North American Journal of Fisheries Management. DOI:10.1002/nafm.10359.
+1. Kramer, N., Q.E. Phelps, C.L. Pierce, and M.E. Colvin. 2019. A Food Web Modelling Assessment of Asian Carp Impacts in the Middle and Upper Mississippi River. Food Webs. https://doi.org/10.1016/j.fooweb.2019.e00120
+1. Shaw, S.B., J.O. Beslity, and M.E. Colvin. 2019. Working Toward a More Holistic Set of Hydrologic Principles to Teach Non-Hydrologists: Five Simple Concepts Within Catchment Hydrology. Hydrological Processes. 16: 2258-2262. 
+1. Ivey, M.R., M.E. Colvin, B.K. Strickland, and M.A. Lashley. 2019. The effects of vertebrate biological invasions on species-area relationships are not scale-dependent. Ecology and Evolution. 13: 7761-7767. 
+1. Hatcher†, H.R., L.E. Miranda, M.E. Colvin, G. Coppola†, and M.A. Lashley. 2019. Fish assemblages in reservoir mudflats with low structural complexity. Hydrobiologia. 841: 163-175.
+1. Guy, E.L., C.C. Mischke, M.E. Colvin, and P.J. Allen. 2019. Zooplankton selectivity and commercial feed consumption of Black Buffalo Ictiobus niger. North American Journal of Aquaculture. 81: 215-221.
+1. Katzenmeyer, E., M.E. Colvin, T.W. Stewart, C.L. Pierce, and S. Grummer. 2019. Fish growth changes over time in a Midwestern USA lake. Transactions of the American Fisheries Society. 148: 493-506.
+1. Gallardo, J.C., F.J. Vilella, and M.E. Colvin. 2019. A periodic population matrix model of the Caribbean Red-tailed Hawk Buteo jamaicensis jamaicensis in eastern Puerto Rico. Ibis. 161: 459-466. 
 1. Colvin, M.E., J.T. Peterson, C. Sharpe, M.L. Kent. and C.B. Schreck. 2018. Identifying optimal hauling densities for adult Chinook Salmon trap and haul operations. River Research and Applications. 
 1. Miranda, L.E., L. Bull, M.E. Colvin, W.D. Hubbard, and L.L. Pugh. 2018. Segmentation of Mississippi Lakes. Lake and Reservoir Management. 
 1. Gilliland, C.R., M.E. Colvin, S.A. Rush, and S. Reagan. 2018. American Alligators are predators of Paddlefish creating new nutrient flows between aquatic and terrestrial ecosystems. Foodwebs. 

@@ -118,8 +118,7 @@ michael.colvin@msstate.edu
 1. Ivey, M.R., M.E. Colvin, B.K. Strickland, and M.A. Lashley. 2019. The effects of vertebrate biological invasions on species-area relationships are not scale-dependent. Ecology and Evolution. 13: 7761-7767. 
 1. Hatcher†, H.R., L.E. Miranda, M.E. Colvin, G. Coppola†, and M.A. Lashley. 2019. Fish assemblages in reservoir mudflats with low structural complexity. Hydrobiologia. 841: 163-175.
 1. Guy, E.L., C.C. Mischke, M.E. Colvin, and P.J. Allen. 2019. Zooplankton selectivity and commercial feed consumption of Black Buffalo Ictiobus niger. North American Journal of Aquaculture. 81: 215-221.
-1. Katzenmeyer, E., M.E. Colvin, T.W. Stewart, C.L. Pierce, and S. Grummer. 2019. Fish growth changes over time in a Midwestern USA lake. Transactions of the 
-1. American Fisheries Society. 148: 493-506.
+1. Katzenmeyer, E., M.E. Colvin, T.W. Stewart, C.L. Pierce, and S. Grummer. 2019. Fish growth changes over time in a Midwestern USA lake. Transactions of the American Fisheries Society. 148: 493-506.
 1. Gallardo, J.C., F.J. Vilella, and M.E. Colvin. 2019. A periodic population matrix model of the Caribbean Red-tailed Hawk Buteo jamaicensis jamaicensis in eastern Puerto Rico. Ibis. 161: 459-466. 
 1. Colvin, M.E., J.T. Peterson, C. Sharpe, M.L. Kent. and C.B. Schreck. 2018. Identifying optimal hauling densities for adult Chinook Salmon trap and haul operations. River Research and Applications. 
 1. Miranda, L.E., L. Bull, M.E. Colvin, W.D. Hubbard, and L.L. Pugh. 2018. Segmentation of Mississippi Lakes. Lake and Reservoir Management.
