@@ -15,7 +15,7 @@ We caught 57 Frecklebelly Madtoms _Noturus munitus_ and a Fawnsfoot mussel.
 
 
 
-The class getting to sample.
+The class getting to sample. It was good and warm, low 90s but at least the water was a few degress cooler.
 
 ![](/img/lab-frecklebelly/20190924_144657.jpg)
 
