@@ -8,7 +8,7 @@ tags: [Frecklebelly Madtoms, WFA4313, lab]
 
 
 A great day out in the field with WFA4313 Fisheries Management Lab. We
-sampled a large sandbar on the Tombigbee River with the MDWFP Ichthyologist. 
+sampled a large gravel bar on the Tombigbee River with the MDWFP Ichthyologist. 
 
 
 We caught 57 Frecklebelly Madtoms _Noturus munitus_ and a Fawnsfoot mussel.
