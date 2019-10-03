@@ -2,10 +2,9 @@
 layout: post
 title: Connecting Fisheries and Wildlife Management
 subtitle: Paddlefish and Wood Stork
-bigimg:/img/big-img/bluff-before-after.png
+bigimg: /img/big-img/bluff-before-after.png
 tags: [Bluff Lake, drawdown, lotus]
 ---
-
 
 Post by [Victoria Starnes](https://VictoriaStarnes.github.io/).---From 2014-2018 an extreme annual drawdown was implemented on Bluff Lake 
 on Noxubee National Wildlife Refuge starting in July and ending in 
