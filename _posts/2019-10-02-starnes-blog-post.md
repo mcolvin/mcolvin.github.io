@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Connecting Fisheries and Wildlife Management
-subtitle: Paddlefish and Wood Stork
+title: Reclaiming Bluff Lake 
+subtitle: Treating Nuisance Plants
 bigimg: /img/big-img/bluff-before-after.png
 tags: [Bluff Lake, drawdown, lotus]
 ---
