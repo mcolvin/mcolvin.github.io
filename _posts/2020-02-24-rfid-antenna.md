@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Try, Try, and Try Again…. 
+title: Try, Try, and Try Again...
 subtitle: Radio Frequency
 Identification Antenna Triumphs, Tragedies, and Tomorrows
 bigimg: /img/big-img/rfid.png
