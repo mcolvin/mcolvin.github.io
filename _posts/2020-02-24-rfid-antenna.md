@@ -8,7 +8,7 @@ tags: [Graduate School, Mississippi State, Volunteering]
 ---
 
 
-Radio frequency identification (RFID) systems are frequently used in 
+Post by Bayley Wilmoth.—Radio frequency identification (RFID) systems are frequently used in 
 connection with passive integrated transponders (PIT Tags), and the RFID 
 receivers or antennas traditionally act as stationary pilings that are 
 placed within a watershed so that scientists can track the movements of 
