@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Try, Try, and Try Again...
-subtitle: Radio Frequency
-Identification Antenna Triumphs, Tragedies, and Tomorrows
+subtitle: Radio Frequency Identification Antenna Triumphs, Tragedies, and Tomorrows
 bigimg: /img/big-img/rfid.png
 tags: [Graduate School, Mississippi State, Volunteering]
 ---
