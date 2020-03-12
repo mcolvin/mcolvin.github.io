@@ -13,4 +13,4 @@ We gathered and screened publicly available agency documents and made notes on t
 
 We cannot be certain to the exact mechanism in goal theme patterns but believe that advances in communication and information exchange has been influential in blurring geographical lines, as well as funding mechanisms from goverment agencies. Our findings suggest that agency personnel are likely to find shared goals beyond the borders of neighboring states.
 
-![Goal themes](/img/goal-themes.jpg))
+![Goal themes](/img/goal-themes.jpg)
