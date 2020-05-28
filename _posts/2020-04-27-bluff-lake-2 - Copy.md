@@ -1,0 +1,62 @@
+---
+layout: post
+title: Equations formating in word
+subtitle: Make tabs your BFF
+bigimg: /img/2020-05-08-equation/big-img.png
+tags: [writing, equations, technical writing]
+---
+
+Having done many reports and reviewed many other technical documents 
+that have equations in them there is a mix of approaches used to get that 
+nicely centered display equation in word like below.
+
+![](/img/2020-05-08-equation/2020-05-28-equation.png)
+
+I have tried and seen many different ways to achieve this look from
+using spacing, margins, and inserting tables. While all these might
+get you there the hands down best way to get a centered table with 
+equation number where  you want it is to use tabs. Specifically a 
+center tab a 3.5 inches (center of page) and a right align tab at 
+6.5 inches (right side of page at the margin). 
+
+Setting tabs is easy all you do is 
+
+1. Click on the ruler bar in word this will open the tab dialog box
+
+![](/img/2020-05-08-equation/doc-ruler.png)
+
+You may have to clear a tab that word automatically adds depending on where
+you click on the ruler bar. 
+
+![](/img/2020-05-08-equation/tab-dialog.png)
+
+2. Then type 3.5 in the tab stop position box, click the center radio button, and 
+then click Set. That will set the center tab for the equation.
+
+![](/img/2020-05-08-equation/tab-dialog-1.png)
+
+3. While we have the Tabs dialog box open we can set the location for the equation number.
+First type 6.5 (3.5 will still be there but we already set it and you can see it in the box below the 
+Tab stop position) in the tab stop position box, click the right radio button, and 
+then click Set. That will set the right tab for the equation numbering.
+
+![](/img/2020-05-08-equation/tab-dialog-2.png)
+
+4. If all goes right you will have 2 tabs showing in the ruler bar, an upside down T for the 
+center tab at 3.5 inches and the backwards L at 6.5 inches for the right align tab, it is hard 
+to see under the margin tick but it is there. 
+
+![](/img/2020-05-08-equation/ruler-tab-set.png)
+
+5. Now if you hit tab the cursor will fly to the middle and anything you type will be center aligned. 
+And then if you hit tab again it will fly over to the right and you can type your equation number.
+
+
+![](/img/2020-05-08-equation/tabs.gif)
+
+Heck if you do equations enough you can even set a style and it will set the tabs for you.
+
+
+![](/img/2020-05-08-equation/style.png)
+
+
