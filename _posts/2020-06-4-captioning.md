@@ -38,7 +38,6 @@ location or the time when the data was collected if it is reported in
 the figure or table. Below is an example of a study area figure, figure
 1 in Herrala et al. (2014).
 
-<img src="/images/caption-study-area.png" width="1305" />
 
 ![](/img/2020-06-04-captioning_files/caption-study-area.png)
 
