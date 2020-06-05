@@ -13,9 +13,20 @@ tags: [tutorial, occupancy,JAGS,optim, likelihood]
 
 ## Overview
 
+This post builds on the previous 
+[post](https://mcolvin.github.io/2020-05-23-occupancy-1/)
+where the idea of occupancy and how to simulate occupancy data
+was presented. We have not yet gotten to imperfect detection and
+are still assuming that if one goes out to check a site for 
+a critter they will detect the true occupancy state perfectly.
+This post will cover how you can fit some models to occupancy 
+data (i.e., 0s and 1s) by maximum likelihood. There are certainly
+existing functions to do this but the methods presented below
+are a DIY approach to increase understanding. 
+
 ## Objectives
 
-The objectives of this demo is to 
+The objectives of this post is to 
 
 1. Simulate some occupancy data given 2 covariates
 2. Fit the occupancy data to a model using
@@ -23,6 +34,7 @@ The objectives of this demo is to
     2. the optim function
     3. Markov Chain Monte Carlo in JAGS
 3. [R script for this document](/img/2020-06-05-occupancy-part-2_files/2020-05-23-occupancy-1.R)
+
 We will be assuming perfect detection (i.e., critters are detected given 
 they are present at a site) and relaxing that in future posts. 
 
@@ -224,7 +236,7 @@ log_likelihood(betas=c(-2,0.01,0.02),
 ```
 
 ```
-## [1] 262.106
+## [1] 260.6282
 ```
 
 Let's see what the likelihood is for the true values. 
@@ -236,7 +248,7 @@ log_likelihood(betas=c(-3,-0.02,0.03),
 ```
 
 ```
-## [1] 287.6436
+## [1] 289.2347
 ```
 The value is higher, which is good, it should be as we are trying combinations of
 values for $$\beta$$ that maximize the log likelihood.
@@ -276,8 +288,8 @@ combos[which.max(combos$ll),]
 ```
 
 ```
-##      b0   b1  b2      ll
-## 8217  2 -4.5 0.5 339.602
+##      b0 b1  b2       ll
+## 8236 -1 -4 0.5 350.3716
 ```
 
 
@@ -346,7 +358,7 @@ fit$par
 ```
 
 ```
-## [1] -2.84517404 -0.04521009  0.03197968
+## [1] -0.94428320 -0.08871848  0.01897360
 ```
 
 ```r
@@ -354,7 +366,7 @@ fit$value
 ```
 
 ```
-## [1] 302.3432
+## [1] 303.3406
 ```
 
 
@@ -446,17 +458,17 @@ fit
 ```
 
 ```
-## Inference for Bugs model at "C:/Users/mcolvin/AppData/Local/Temp/RtmpEBOZLm/model464032322138.txt", fit using jags,
+## Inference for Bugs model at "C:/Users/mcolvin/AppData/Local/Temp/RtmpEBOZLm/model4640f2f1378.txt", fit using jags,
 ##  3 chains, each with 2000 iterations (first 1000 discarded)
 ##  n.sims = 3000 iterations saved
 ##          mu.vect sd.vect    2.5%     25%     50%     75%   97.5%  Rhat
-## beta[1]   -2.896   0.723  -4.270  -3.355  -2.882  -2.418  -1.577 1.003
-## beta[2]   -0.045   0.026  -0.096  -0.063  -0.045  -0.028   0.006 1.001
-## beta[3]    0.033   0.007   0.022   0.029   0.032   0.036   0.044 1.002
-## deviance 609.136  50.931 604.923 605.852 607.048 608.811 614.088 1.188
+## beta[1]   -0.947   0.694  -2.259  -1.423  -0.947  -0.483   0.408 1.001
+## beta[2]   -0.090   0.031  -0.144  -0.108  -0.089  -0.070  -0.036 1.016
+## beta[3]    0.019   0.006   0.008   0.015   0.019   0.023   0.030 1.001
+## deviance 612.234  56.477 606.913 607.951 609.142 610.898 616.547 1.050
 ##          n.eff
-## beta[1]   3000
-## beta[2]   2700
+## beta[1]   2400
+## beta[2]   1700
 ## beta[3]   3000
 ## deviance  3000
 ## 
@@ -464,6 +476,6 @@ fit
 ## and Rhat is the potential scale reduction factor (at convergence, Rhat=1).
 ## 
 ## DIC info (using the rule, pD = var(deviance)/2)
-## pD = 1296.9 and DIC = 1906.1
+## pD = 1595.2 and DIC = 2207.4
 ## DIC is an estimate of expected predictive error (lower deviance is better).
 ```
