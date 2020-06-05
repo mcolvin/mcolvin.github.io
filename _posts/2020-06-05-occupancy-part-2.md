@@ -236,7 +236,7 @@ log_likelihood(betas=c(-2,0.01,0.02),
 ```
 
 ```
-## [1] 260.6282
+## [1] 264.1317
 ```
 
 Let's see what the likelihood is for the true values. 
@@ -248,7 +248,7 @@ log_likelihood(betas=c(-3,-0.02,0.03),
 ```
 
 ```
-## [1] 289.2347
+## [1] 292.5592
 ```
 The value is higher, which is good, it should be as we are trying combinations of
 values for $$\beta$$ that maximize the log likelihood.
@@ -288,8 +288,8 @@ combos[which.max(combos$ll),]
 ```
 
 ```
-##      b0 b1  b2       ll
-## 8236 -1 -4 0.5 350.3716
+##        b0   b1  b2       ll
+## 8204 -4.5 -4.5 0.5 339.2681
 ```
 
 
@@ -358,7 +358,7 @@ fit$par
 ```
 
 ```
-## [1] -0.94428320 -0.08871848  0.01897360
+## [1] -2.79737935 -0.03778938  0.03026363
 ```
 
 ```r
@@ -366,7 +366,7 @@ fit$value
 ```
 
 ```
-## [1] 303.3406
+## [1] 298.7114
 ```
 
 
@@ -458,17 +458,17 @@ fit
 ```
 
 ```
-## Inference for Bugs model at "C:/Users/mcolvin/AppData/Local/Temp/RtmpEBOZLm/model4640f2f1378.txt", fit using jags,
+## Inference for Bugs model at "C:/Users/mcolvin/AppData/Local/Temp/RtmpEBOZLm/model46402db97183.txt", fit using jags,
 ##  3 chains, each with 2000 iterations (first 1000 discarded)
 ##  n.sims = 3000 iterations saved
 ##          mu.vect sd.vect    2.5%     25%     50%     75%   97.5%  Rhat
-## beta[1]   -0.947   0.694  -2.259  -1.423  -0.947  -0.483   0.408 1.001
-## beta[2]   -0.090   0.031  -0.144  -0.108  -0.089  -0.070  -0.036 1.016
-## beta[3]    0.019   0.006   0.008   0.015   0.019   0.023   0.030 1.001
-## deviance 612.234  56.477 606.913 607.951 609.142 610.898 616.547 1.050
+## beta[1]   -2.837   0.682  -4.220  -3.284  -2.820  -2.371  -1.511 1.002
+## beta[2]   -0.039   0.027  -0.094  -0.057  -0.039  -0.020   0.012 1.001
+## beta[3]    0.031   0.006   0.020   0.027   0.031   0.035   0.042 1.001
+## deviance 601.224  26.290 597.619 598.646 599.790 601.540 606.943 1.168
 ##          n.eff
-## beta[1]   2400
-## beta[2]   1700
+## beta[1]   1600
+## beta[2]   3000
 ## beta[3]   3000
 ## deviance  3000
 ## 
@@ -476,6 +476,6 @@ fit
 ## and Rhat is the potential scale reduction factor (at convergence, Rhat=1).
 ## 
 ## DIC info (using the rule, pD = var(deviance)/2)
-## pD = 1595.2 and DIC = 2207.4
+## pD = 345.6 and DIC = 946.8
 ## DIC is an estimate of expected predictive error (lower deviance is better).
 ```
