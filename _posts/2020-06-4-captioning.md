@@ -2,6 +2,7 @@
 layout: post
 title: Captioning a figure or table. 
 bigimg: /img/big-img/caption-big.png
+comments: true
 tags: [tutorial, scientific writing, captions]
 ---
 
@@ -37,7 +38,6 @@ but what that means is that you might not need to report about the
 location or the time when the data was collected if it is reported in
 the figure or table. Below is an example of a study area figure, figure
 1 in Herrala et al. (2014).
-
 
 ![](/img/2020-06-04-captioning_files/caption-study-area.png)
 
@@ -104,5 +104,3 @@ Quist, M. C., J. L. Stephen, S. T. Lynott, J. M. Goeckler, and R. D.
 Schultz. 2011. Exploitation of walleye in a Great Plains reservoir:
 harvest patterns and management scenarios. Fisheries Management and
 Ecology 17:522-531.
-
-
