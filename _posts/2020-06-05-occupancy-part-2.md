@@ -14,7 +14,7 @@ tags: [tutorial, occupancy,JAGS,optim, likelihood]
 ## Overview
 
 This post builds on the previous 
-[post](https://mcolvin.github.io/2020-05-23-occupancy-1/)
+[post](https://mcolvin.github.io/2020-06-05-occupancy-part-2_files/)
 where the idea of occupancy and how to simulate occupancy data
 was presented. We have not yet gotten to imperfect detection and
 are still assuming that if one goes out to check a site for 
@@ -236,7 +236,7 @@ log_likelihood(betas=c(-2,0.01,0.02),
 ```
 
 ```
-## [1] 264.1317
+## [1] 263.9992
 ```
 
 Let's see what the likelihood is for the true values. 
@@ -248,7 +248,7 @@ log_likelihood(betas=c(-3,-0.02,0.03),
 ```
 
 ```
-## [1] 292.5592
+## [1] 288.2885
 ```
 The value is higher, which is good, it should be as we are trying combinations of
 values for $$\beta$$ that maximize the log likelihood.
@@ -288,8 +288,8 @@ combos[which.max(combos$ll),]
 ```
 
 ```
-##        b0   b1  b2       ll
-## 8204 -4.5 -4.5 0.5 339.2681
+##      b0 b1 b2      ll
+## 8751 -6 -6  1 330.411
 ```
 
 
@@ -358,7 +358,7 @@ fit$par
 ```
 
 ```
-## [1] -2.79737935 -0.03778938  0.03026363
+## [1] -2.01762032 -0.05235751  0.02622725
 ```
 
 ```r
@@ -366,7 +366,7 @@ fit$value
 ```
 
 ```
-## [1] 298.7114
+## [1] 310.2625
 ```
 
 
@@ -458,24 +458,24 @@ fit
 ```
 
 ```
-## Inference for Bugs model at "C:/Users/mcolvin/AppData/Local/Temp/RtmpEBOZLm/model46402db97183.txt", fit using jags,
+## Inference for Bugs model at "C:/Users/mcolvin/AppData/Local/Temp/RtmpEBOZLm/model46403dc9c3e.txt", fit using jags,
 ##  3 chains, each with 2000 iterations (first 1000 discarded)
 ##  n.sims = 3000 iterations saved
 ##          mu.vect sd.vect    2.5%     25%     50%     75%   97.5%  Rhat
-## beta[1]   -2.837   0.682  -4.220  -3.284  -2.820  -2.371  -1.511 1.002
-## beta[2]   -0.039   0.027  -0.094  -0.057  -0.039  -0.020   0.012 1.001
-## beta[3]    0.031   0.006   0.020   0.027   0.031   0.035   0.042 1.001
-## deviance 601.224  26.290 597.619 598.646 599.790 601.540 606.943 1.168
+## beta[1]   -2.018   0.640  -3.257  -2.429  -2.011  -1.593  -0.794 1.001
+## beta[2]   -0.053   0.026  -0.105  -0.070  -0.052  -0.035  -0.003 1.004
+## beta[3]    0.026   0.006   0.016   0.023   0.026   0.030   0.036 1.009
+## deviance 624.585  36.572 620.725 621.725 622.907 624.607 629.793 1.110
 ##          n.eff
-## beta[1]   1600
-## beta[2]   3000
-## beta[3]   3000
+## beta[1]   2400
+## beta[2]    650
+## beta[3]   1900
 ## deviance  3000
 ## 
 ## For each parameter, n.eff is a crude measure of effective sample size,
 ## and Rhat is the potential scale reduction factor (at convergence, Rhat=1).
 ## 
 ## DIC info (using the rule, pD = var(deviance)/2)
-## pD = 345.6 and DIC = 946.8
+## pD = 668.9 and DIC = 1293.5
 ## DIC is an estimate of expected predictive error (lower deviance is better).
 ```
