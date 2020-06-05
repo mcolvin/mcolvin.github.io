@@ -73,15 +73,15 @@ first post: 1) a predictive model, 2) a statistical model that links the
 predictions to observations as probabilistic outcomes, and 3) some 
 observed data. In short we will be: 
 
-* trying different combinations of $\beta_0$, $\beta_1$, and $\beta_2$, 
+* trying different combinations of $$\beta_0$$, $$\beta_1$$, and $$\beta_2$$, 
 * calculating the sum of the log of the likelihood of the observations 
-given the values of $\beta_0$, $\beta_1$, and $\beta_2$, and then 
-* returning the values of $\beta_0$, $\beta_1$, and $\beta_2$ that 
+given the values of $$\beta_0$$, $$\beta_1$$, and $$\beta_2$$, and then 
+* returning the values of $$\beta_0$$, $$\beta_1$$, and $$\beta_2$$ that 
 maximize the sum of the log likelihood of each site. 
 
 
-The first thing needed is a function that takes values of $\beta_0$, 
-$\beta_1$, and $\beta_2$ and returns the sum of log likelihoods for each 
+The first thing needed is a function that takes values of $$\beta_0$$, 
+$$\beta_1$$, and $$\beta_2$$ and returns the sum of log likelihoods for each 
 site. 
 
 First a bit on the likelihood. The likelihood is the probability of an
@@ -194,7 +194,7 @@ transformed from log scale.
 
 ### A function to return the likelihood
 
-The function will have 2 inputs, a vector of $\beta$ and a dataset of 
+The function will have 2 inputs, a vector of $$\beta$$ and a dataset of 
 observed presence and absences at each site as 0s and 1s an the 
 associated site level covariates. The function will return the sum of 
 the log likelihood for each site. 
@@ -224,7 +224,7 @@ log_likelihood(betas=c(-2,0.01,0.02),
 ```
 
 ```
-## [1] 263.8996
+## [1] 266.4584
 ```
 
 Let's see what the likelihood is for the true values. 
@@ -236,7 +236,7 @@ log_likelihood(betas=c(-3,-0.02,0.03),
 ```
 
 ```
-## [1] 291.9829
+## [1] 296.4161
 ```
 The value is higher, which is good, it should be as we are trying combinations of
 values for $\beta$ that maximize the log likelihood.
@@ -247,7 +247,7 @@ maximize the log likelihood.
 
 ### Grid search
 
-One way to iterate over the 3 $\beta$ values we are interested in is to 
+One way to iterate over the 3 $$\beta$$ values we are interested in is to 
 do a grid search. A grid search sets up a all possible combination of 
 possible $\beta$ values and applies the ˋlog_likelihoodˋ function to each 
 combination. Then you find the combination of parameters that resulted in
@@ -268,7 +268,7 @@ combos$ll<-sapply(1:nrow(combos),function(x)
 ```
 
 
-Now identify the combination of betas that maximize the log likihood. 
+Now identify the combination of $$\beta$$s that maximize the log likihood. 
 
 
 ```r
@@ -276,8 +276,8 @@ combos[which.max(combos$ll),]
 ```
 
 ```
-##        b0   b1  b2       ll
-## 8210 -1.5 -4.5 0.5 340.1259
+##        b0 b1  b2       ll
+## 8231 -3.5 -4 0.5 349.1198
 ```
 
 
@@ -287,7 +287,7 @@ and it took a long time to evaluate a
 the combinations even at a relatively coarse
 resolution. That is an issue of a grid search,
 you need to keep reducing the step size to 
-find the combination of $\beta$ that maximizes 
+find the combination of $$\beta$$ that maximizes 
 the likelihood, but if you stare in the wrong
 spot like -6, -5 and 1 you are probably not 
 going to get where you need to be. An 
@@ -296,7 +296,7 @@ optimization algorithm solves this issue.
 ### Maximum likelihood
 
 The ˋoptimˋ function in ˋRˋ will take the log_likelihood 
-function and search for the combination of $\beta$ that 
+function and search for the combination of $$\beta$$ that 
 maximizes the log likelihood. The ˋoptimˋ function can 
 use a number of different optimizers like the Nelder Mead, 
 Simulated Annealing, or BFGS to name a couple. The BFGS 
@@ -346,7 +346,7 @@ fit$par
 ```
 
 ```
-## [1] -2.80792322 -0.01382626  0.02572546
+## [1] -3.38522097 -0.06046419  0.03987499
 ```
 
 ```r
@@ -354,7 +354,7 @@ fit$value
 ```
 
 ```
-## [1] 300.6785
+## [1] 284.9179
 ```
 
 
@@ -362,7 +362,17 @@ Those values are darn close to the parameters used to simulate the data, very ni
 
 ### Maximum likelihood by MCMC
 
-The model can also be fit to data by Markov Chain Monte Carlo sampling to find the combinations of parameters that maximize the log likelihood. The MCMC can be implemented in JAGS. In simple terms when fitting a model using MCMC, prior distributions of each parameter are set and a combination of $\beta$ is then used to the calculate the likelihood and then accepted or rejected given some probability. After a burnin  period the MCMC should be converged and each iteration represents a draw from the posterior distributions of each parameter which will be used for inference.  JAGS takes a model that can be defined in R and then performs the MCMC using an external program JAGS. 
+The model can also be fit to data by Markov Chain Monte Carlo sampling 
+to find the combinations of parameters that maximize the log likelihood. 
+The MCMC can be implemented in JAGS. In simple terms when fitting a 
+model using MCMC, prior distributions of each parameter are set and a 
+combination of $\beta$ is then used to the calculate the likelihood and 
+then accepted or rejected given some probability. After a burnin period 
+the MCMC should be converged and each iteration represents a draw from 
+the posterior distributions of each parameter which will be used for 
+inference. JAGS takes a model that can be defined in R and then performs 
+the MCMC using an external program JAGS. 
+
 
 The function below is the model that JAGS will use to estimate the parameters.
 
@@ -436,24 +446,24 @@ fit
 ```
 
 ```
-## Inference for Bugs model at "C:/Users/mcolvin/AppData/Local/Temp/RtmpEBOZLm/model464030b4ac2.txt", fit using jags,
+## Inference for Bugs model at "C:/Users/mcolvin/AppData/Local/Temp/RtmpEBOZLm/model46405a926103.txt", fit using jags,
 ##  3 chains, each with 2000 iterations (first 1000 discarded)
 ##  n.sims = 3000 iterations saved
 ##          mu.vect sd.vect    2.5%     25%     50%     75%   97.5%  Rhat
-## beta[1]   -2.831   0.701  -4.178  -3.259  -2.837  -2.363  -1.526 1.001
-## beta[2]   -0.015   0.027  -0.068  -0.033  -0.015   0.004   0.037 1.002
-## beta[3]    0.026   0.006   0.016   0.022   0.026   0.030   0.037 1.004
-## deviance 606.860  60.856 601.563 602.607 603.822 605.482 611.404 1.044
+## beta[1]   -3.421   0.704  -4.823  -3.880  -3.404  -2.934  -2.132 1.001
+## beta[2]   -0.061   0.028  -0.116  -0.080  -0.061  -0.043  -0.006 1.001
+## beta[3]    0.040   0.006   0.029   0.036   0.040   0.044   0.052 1.005
+## deviance 573.927  33.775 570.045 571.063 572.182 573.874 579.083 1.098
 ##          n.eff
 ## beta[1]   3000
-## beta[2]   1500
-## beta[3]   1000
+## beta[2]   3000
+## beta[3]   3000
 ## deviance  3000
 ## 
 ## For each parameter, n.eff is a crude measure of effective sample size,
 ## and Rhat is the potential scale reduction factor (at convergence, Rhat=1).
 ## 
 ## DIC info (using the rule, pD = var(deviance)/2)
-## pD = 1852.5 and DIC = 2459.3
+## pD = 570.4 and DIC = 1144.4
 ## DIC is an estimate of expected predictive error (lower deviance is better).
 ```
