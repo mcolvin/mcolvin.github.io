@@ -14,7 +14,7 @@ tags: [tutorial, occupancy,JAGS,optim, likelihood]
 ## Overview
 
 This post builds on the previous 
-[post](https://mcolvin.github.io/2020-06-05-occupancy-part-2_files/)
+[post](https://mcolvin.github.io/2020-05-23-occupancy-1/)
 where the idea of occupancy and how to simulate occupancy data
 was presented. We have not yet gotten to imperfect detection and
 are still assuming that if one goes out to check a site for 
@@ -33,7 +33,7 @@ The objectives of this post is to
     1. a grid search
     2. the optim function
     3. Markov Chain Monte Carlo in JAGS
-3. [R script for this document](/img/2020-06-05-occupancy-part-2_files/2020-05-23-occupancy-1.R)
+3. [R script for this document](/img/2020-06-05-occupancy-part-2_files/2020-06-05-occupancy-part-2.R)
 
 We will be assuming perfect detection (i.e., critters are detected given 
 they are present at a site) and relaxing that in future posts. 
@@ -220,7 +220,7 @@ log_likelihood<-function(betas,data)
     design_matrix<- model.matrix(~temperature+elevation,data)
     y<-design_matrix%*%betas #some useful matrix multiplication
     p<-plogis(y) #need to convert to a probability
-    sum_log_like<- sum(dbinom(occurrence,1,p))
+    sum_log_like<- sum(dbinom(occurrence,1,p,log=TRUE))
     return(sum_log_like)
     } 
 ```
@@ -236,7 +236,7 @@ log_likelihood(betas=c(-2,0.01,0.02),
 ```
 
 ```
-## [1] 263.9992
+## [1] -327.3267
 ```
 
 Let's see what the likelihood is for the true values. 
@@ -248,7 +248,7 @@ log_likelihood(betas=c(-3,-0.02,0.03),
 ```
 
 ```
-## [1] 288.2885
+## [1] -305.5747
 ```
 The value is higher, which is good, it should be as we are trying combinations of
 values for $$\beta$$ that maximize the log likelihood.
@@ -288,8 +288,8 @@ combos[which.max(combos$ll),]
 ```
 
 ```
-##      b0 b1 b2      ll
-## 8751 -6 -6  1 330.411
+##        b0 b1 b2        ll
+## 7812 -0.5  0  0 -325.0385
 ```
 
 
@@ -323,7 +323,6 @@ log_likelihood<-function(betas,data)
     design_matrix<- model.matrix(~temperature+elevation,data)
     y<-design_matrix%*%betas #some useful matrix multiplication
     p<-plogis(y) #need to convert to a probability
-    #p<-sapply(p,function(x) min(max(x,0.00001),0.99999))
     sum_log_like<- sum(dbinom(occurrence,1,p,log=TRUE))
     return(-1*sum_log_like)
     }
@@ -358,7 +357,7 @@ fit$par
 ```
 
 ```
-## [1] -2.01762032 -0.05235751  0.02622725
+## [1] -2.4635148 -0.0531301  0.0302907
 ```
 
 ```r
@@ -366,7 +365,7 @@ fit$value
 ```
 
 ```
-## [1] 310.2625
+## [1] 304.7364
 ```
 
 
@@ -430,7 +429,37 @@ Now we can feed this information into JAGS to fit the model.
 
 ```r
 library(R2jags)
-fit<-jags(data=jags_dat, 
+```
+
+```
+## Loading required package: rjags
+```
+
+```
+## Loading required package: coda
+```
+
+```
+## Linked to JAGS 4.3.0
+```
+
+```
+## Loaded modules: basemod,bugs
+```
+
+```
+## 
+## Attaching package: 'R2jags'
+```
+
+```
+## The following object is masked from 'package:coda':
+## 
+##     traceplot
+```
+
+```r
+jags_fit<-jags(data=jags_dat, 
     inits=inits, 
     parameters.to.save=c("beta"), 
     model.file=model,
@@ -439,6 +468,10 @@ fit<-jags(data=jags_dat,
     n.burnin=1000,
     n.thin=1,
     progress.bar = "none")
+```
+
+```
+## module glm loaded
 ```
 
 ```
@@ -454,28 +487,40 @@ fit<-jags(data=jags_dat,
 ```
 
 ```r
-fit
+jags_fit
 ```
 
 ```
-## Inference for Bugs model at "C:/Users/mcolvin/AppData/Local/Temp/RtmpEBOZLm/model46403dc9c3e.txt", fit using jags,
+## Inference for Bugs model at "C:/Users/mcolvin/AppData/Local/Temp/RtmpoJJXgx/model470c23011206.txt", fit using jags,
 ##  3 chains, each with 2000 iterations (first 1000 discarded)
 ##  n.sims = 3000 iterations saved
 ##          mu.vect sd.vect    2.5%     25%     50%     75%   97.5%  Rhat
-## beta[1]   -2.018   0.640  -3.257  -2.429  -2.011  -1.593  -0.794 1.001
-## beta[2]   -0.053   0.026  -0.105  -0.070  -0.052  -0.035  -0.003 1.004
-## beta[3]    0.026   0.006   0.016   0.023   0.026   0.030   0.036 1.009
-## deviance 624.585  36.572 620.725 621.725 622.907 624.607 629.793 1.110
+## beta[1]   -2.509   0.652  -3.761  -2.943  -2.504  -2.072  -1.306 1.002
+## beta[2]   -0.054   0.028  -0.108  -0.071  -0.052  -0.036  -0.003 1.010
+## beta[3]    0.031   0.007   0.021   0.027   0.031   0.034   0.042 1.018
+## deviance 616.394 100.981 609.728 610.691 611.858 613.682 619.039 1.212
 ##          n.eff
-## beta[1]   2400
-## beta[2]    650
-## beta[3]   1900
-## deviance  3000
+## beta[1]   1800
+## beta[2]    970
+## beta[3]   1800
+## deviance  1300
 ## 
 ## For each parameter, n.eff is a crude measure of effective sample size,
 ## and Rhat is the potential scale reduction factor (at convergence, Rhat=1).
 ## 
 ## DIC info (using the rule, pD = var(deviance)/2)
-## pD = 668.9 and DIC = 1293.5
+## pD = 5093.6 and DIC = 5710.0
 ## DIC is an estimate of expected predictive error (lower deviance is better).
+```
+
+```r
+jags_fit$BUGSoutput$mean
+```
+
+```
+## $beta
+## [1] -2.50930805 -0.05365530  0.03074499
+## 
+## $deviance
+## [1] 616.3938
 ```

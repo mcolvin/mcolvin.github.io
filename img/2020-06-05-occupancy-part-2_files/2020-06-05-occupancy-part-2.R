@@ -78,7 +78,7 @@ log_likelihood<-function(betas,data)
     design_matrix<- model.matrix(~temperature+elevation,data)
     y<-design_matrix%*%betas #some useful matrix multiplication
     p<-plogis(y) #need to convert to a probability
-    sum_log_like<- sum(dbinom(occurrence,1,p))
+    sum_log_like<- sum(dbinom(occurrence,1,p,log=TRUE))
     return(sum_log_like)
     } 
  
@@ -120,7 +120,6 @@ log_likelihood<-function(betas,data)
     design_matrix<- model.matrix(~temperature+elevation,data)
     y<-design_matrix%*%betas #some useful matrix multiplication
     p<-plogis(y) #need to convert to a probability
-    #p<-sapply(p,function(x) min(max(x,0.00001),0.99999))
     sum_log_like<- sum(dbinom(occurrence,1,p,log=TRUE))
     return(-1*sum_log_like)
     }
@@ -176,7 +175,7 @@ inits<-function(){list(beta=rnorm(3,0,0.1))}
  
 ## ----unnamed-chunk-21---- ##
 library(R2jags)
-fit<-jags(data=jags_dat, 
+jags_fit<-jags(data=jags_dat, 
     inits=inits, 
     parameters.to.save=c("beta"), 
     model.file=model,
@@ -185,7 +184,8 @@ fit<-jags(data=jags_dat,
     n.burnin=1000,
     n.thin=1,
     progress.bar = "none")
-fit
+jags_fit
+jags_fit$BUGSoutput$mean
  
  
  
