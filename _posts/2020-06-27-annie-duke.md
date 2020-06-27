@@ -2,7 +2,7 @@
 layout: post
 title: Uncertainty and decision making
 subtitle: Radio lab interview with Annie Duke
-bigimg: /img/big-img/bdn-big.png
+bigimg: /img/big-img/duke.png
 comments: true
 tags: [decision making, uncertainty, probability]
 ---
