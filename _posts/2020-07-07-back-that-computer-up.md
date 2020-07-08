@@ -59,33 +59,33 @@ want it to be.
 The code below demonstrates using the `robocopy` function
 to mirror directors on my laptop to 2 external hard drives. 
 
-`   
-echo ### Backing up Desktop...To portable
-robocopy "%USERPROFILE%\Desktop" Q:\backup\desktop /MIR  /np /nfl /njh /njs /ndl /nc /ns
+  
+    echo ### Backing up Desktop...To portable
+    robocopy "%USERPROFILE%\Desktop" Q:\backup\desktop /MIR  /np /nfl /njh /njs /ndl /nc /ns
 
-echo ### Backing up Desktop...To book
-robocopy "%USERPROFILE%\Desktop" D:\backup\desktop /MIR   /np /nfl /njh /njs /ndl /nc /ns
+    echo ### Backing up Desktop...To book
+    robocopy "%USERPROFILE%\Desktop" D:\backup\desktop /MIR   /np /nfl /njh /njs /ndl /nc /ns
 
-echo ### Backing up Google Drive...To portable
-robocopy "%USERPROFILE%\Google Drive" "Q:\backup\Google Drive" /MIR  /np /nfl  /njh /njs /ndl /nc /ns
+    echo ### Backing up Google Drive...To portable
+    robocopy "%USERPROFILE%\Google Drive" "Q:\backup\Google Drive" /MIR  /np /nfl  /njh /njs /ndl /nc /ns
 
-echo ### Backing up Google Drive...To book
-robocopy "%USERPROFILE%\Google Drive" "D:\backup\Google Drive" /MIR   /np /nfl /njh /njs /ndl /nc /ns
-
-
-echo ### Backing up One Drive...To portable
-robocopy "%USERPROFILE%\OneDrive - Mississippi State University" "Q:\backup\OneDrive" /MIR  /np  /nfl /njh /njs /ndl /nc /ns
-
-echo ### Backing up One Drive...To book
-robocopy "%USERPROFILE%\OneDrive - Mississippi State University" "D:\backup\OneDrive" /MIR  /np   /nfl /njh /njs /ndl /nc /ns
+    echo ### Backing up Google Drive...To book
+    robocopy "%USERPROFILE%\Google Drive" "D:\backup\Google Drive" /MIR   /np /nfl /njh /njs /ndl /nc /ns
 
 
-echo ### Backing Documents...To book
-robocopy "%USERPROFILE%\Documents" "D:\backup\Documents" /MIR  /np   /nfl /njh /njs /ndl /nc /ns
+    echo ### Backing up One Drive...To portable
+    robocopy "%USERPROFILE%\OneDrive - Mississippi State University" "Q:\backup\OneDrive" /MIR  /np  /nfl /njh /njs /ndl /nc /ns
 
-echo ### Backing up Documents...To portable
-robocopy "%USERPROFILE%\Documents" Q:\backup\Documents /MIR  /np /nfl /njh /njs /ndl /nc /ns
-`
+    echo ### Backing up One Drive...To book
+    robocopy "%USERPROFILE%\OneDrive - Mississippi State University" "D:\backup\OneDrive" /MIR  /np   /nfl /njh /njs /ndl /nc /ns
+
+
+    echo ### Backing Documents...To book
+    robocopy "%USERPROFILE%\Documents" "D:\backup\Documents" /MIR  /np   /nfl /njh /njs /ndl /nc /ns
+
+    echo ### Backing up Documents...To portable
+    robocopy "%USERPROFILE%\Documents" Q:\backup\Documents /MIR  /np /nfl /njh /njs /ndl /nc /ns
+
 
 ## Code breakdown
 
