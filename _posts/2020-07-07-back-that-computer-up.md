@@ -7,7 +7,8 @@ comments: true
 tags: [bat files,operations, best practice, back ups]
 ---
 
-TL;DR
+## TL;DR
+
 * Back up your systems to the cloud or an external drive
 * If you are using an external drive then you can use a `*.bat`
 file to make backing up a 1 click effort or set it up to
