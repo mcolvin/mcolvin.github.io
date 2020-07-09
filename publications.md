@@ -10,13 +10,16 @@ bigimg: /img/DSCF1198.JPG
 
 #### Manuscripts
 
-1. Kroboth, P., D. Hann, M.E. Colvin, P. Hartfield, and H. Schramm. 2020. Pallid Sturgeon _Scaphirhynchus albus_ seasonal habitat selection in a large river free-flowing river, the lower Mississippi River.  Journal of Applied Ichthyology. 
-1. Schumann, D.A.†††, M.E. Colvin, L.E. Miranda, and D.T. Jones-Farrand. 2020. Occurrence and co-occurrence patterns of gar in river-floodplain habitats: leveraging species interactions to benefit distributional models. North American Journal of Fisheries Management.  
-1. Coppola†, G. H. Hatcher†, S. Miranda, M.E. Colvin, and M.A. Lashley. 2019. Submergence responses of cool-season annual plants and potential for fish habitat. North American Journal of Fisheries Management. DOI:10.1002/nafm.10359.
+1. Richardson, B.M., M.J. Griffin, M.E. Colvin, T.E. Greenway, C. Ware, C.C. Mischke, T.S. Byars, D.J. Wise, and M.L. Lawrence. In press. Using quantitative Polymerase Chain Reaction (qPCR) and occupancy models to estimate atypical Aeromonas hydrophila (aAh) prevalence in catfish. Aquaculture. xx: xxx-xxx. 
+1. Norris, D.M., H.R. Hatcher, M.E. Colvin, G. Coppola, M.A. Lashley, and L.E. Miranda. In press. Assessing establishment and growth of agricultural plantings on reservoir mudflats.  North American Journal of Fisheries Management. 40: 394-405. https://doi.org/10.1002/nafm.10419 
+1. Kroboth, P., D. Hann, M.E. Colvin, P. Hartfield, and H. Schramm. 2020. Pallid sturgeon Scaphirhynchus albus seasonal habitat selection in a large river free-flowing river, the lower Mississippi River.  Journal of Applied Ichthyology. 36: 131-141. https://doi.org/10.1111/jai.14000.
+1. Schumann, D.A., M.E. Colvin, L.E. Miranda, and D.T. Jones-Farrand. 2020. Occurrence and co-occurrence patterns of gar in river-floodplain habitats: leveraging species interactions to benefit distributional models. North American Journal of Fisheries Management. 40: 622-637. https://doi.org/10.1002/nafm.10402 
+1. Jargowsky, M., P.T. Cooper, M.J. Ajemian, M.E. Colvin, and J.M. Drymon. 2019. Discerning the dietary habits of the smooth butterfly ray Gymnura lessae using two distinct methods, otolith identification and metagenetics. Journal of Fish Biology. 96:434–443.   
+1. Coppola, G. H. Hatcher, S. Miranda, M.E. Colvin, and M.A. Lashley. 2019. Submergence responses of cool-season annual plants and potential for fish habitat. North American Journal of Fisheries Management. DOI:10.1002/nafm.10359.
 1. Kramer, N., Q.E. Phelps, C.L. Pierce, and M.E. Colvin. 2019. A Food Web Modelling Assessment of Asian Carp Impacts in the Middle and Upper Mississippi River. Food Webs. https://doi.org/10.1016/j.fooweb.2019.e00120
 1. Shaw, S.B., J.O. Beslity, and M.E. Colvin. 2019. Working Toward a More Holistic Set of Hydrologic Principles to Teach Non-Hydrologists: Five Simple Concepts Within Catchment Hydrology. Hydrological Processes. 16: 2258-2262. 
 1. Ivey, M.R., M.E. Colvin, B.K. Strickland, and M.A. Lashley. 2019. The effects of vertebrate biological invasions on species-area relationships are not scale-dependent. Ecology and Evolution. 13: 7761-7767. 
-1. Hatcher†, H.R., L.E. Miranda, M.E. Colvin, G. Coppola†, and M.A. Lashley. 2019. Fish assemblages in reservoir mudflats with low structural complexity. Hydrobiologia. 841: 163-175.
+1. Hatcher, H.R., L.E. Miranda, M.E. Colvin, G. Coppola, and M.A. Lashley. 2019. Fish assemblages in reservoir mudflats with low structural complexity. Hydrobiologia. 841: 163-175.
 1. Guy, E.L., C.C. Mischke, M.E. Colvin, and P.J. Allen. 2019. Zooplankton selectivity and commercial feed consumption of Black Buffalo _Ictiobus niger_. North American Journal of Aquaculture. 81: 215-221.
 1. Katzenmeyer, E., M.E. Colvin, T.W. Stewart, C.L. Pierce, and S. Grummer. 2019. Fish growth changes over time in a Midwestern USA lake. Transactions of the American Fisheries Society. 148: 493-506.
 1. Gallardo, J.C., F.J. Vilella, and M.E. Colvin. 2019. A periodic population matrix model of the Caribbean Red-tailed Hawk Buteo jamaicensis jamaicensis in eastern Puerto Rico. Ibis. 161: 459-466. 
@@ -64,6 +67,8 @@ bigimg: /img/DSCF1198.JPG
 
 #### Technical reports
 
+
+1. Reynolds, S. and M.E. Colvin. 2019. Modeling Long-Term Population Growth Rate of Pallid Sturgeon in the Upper Missouri River Below Fort Peck Dam. Report to the U.S. Army Corps of Engineers for model certification. 38 p.
 1. Colvin, M.E., S. Reynolds, R.B. Jacobson, LL. Pierce, K.D. Steffensen, and T.L. Welker. In review. PSPAP v.2.0 redesign process: Overview of Pallid Sturgeon Assessment Framework Redesign Process. Open-file Report 2018-1166, 87 p., https://doi.org/10.3133/ofr20181166.
 1. Jacobson, R.B., Colvin, M., Bulliner, E.A., Pickard, D., and Elliott, C.M., 2018, Bend-scale geomorphic classification and assessment of the Lower Missouri River from Sioux City, Iowa, to the Mississippi River for application to pallid sturgeon management: U.S.  
 1. Randall, M., M.E. Colvin, K. Steffensen, T. Welker, L. Pierce, and R. Jacobson. 2017. Assessment of Adult Pallid Sturgeon Fish Condition, Lower Missouri River: Application of New Information to the Missouri River Recovery Program. U.S. Geological Survey Open-file Report 2017- 1121.
@@ -78,7 +83,13 @@ bigimg: /img/DSCF1198.JPG
 ### Non peer reviewed
 ---------------------------------------
 #### Technical reports
-1. Gilliland, C.R. †, M.E. Colvin, P.J. Allen, and J.W. Neal. 2017. Paddlefish Polyodon spathula spawning and migratory habitat use in the Noxubee River System with focus on the Noxubee National Wildlife Refuge Management. Interim report to the U.S. Fish and Wildlife Service. 47 pages. 
+
+1. Starnes, V., M.E. Colvin. 2019. A structured approach to water level management for a multiple use shallow eutrophic reservoir at Sam D. Hamilton Noxubee National Wildlife Refuge. Interim report to the U.S. Fish and Wildlife Service. 27 p. 
+1. Schumann, D.A. and M.E. Colvin. 2019.  Multi-objective conservation planning: prototyping a strategic decision framework for aquatic species conservation (phase 1). Completion Report to the U.S. Fish and Wildlife Service. 150 p.
+1. Miranda, L.E., M.E. Colvin, A. Shamaskin†, and C. Aldridge†. 2019. Review, revision and development of new monitoring protocols to facilitate the meeting of goals and objectives of freshwater fisheries management in Mississippi. Final report to Mississippi Department of Wildlife Fisheries and Parks. 88 p. 
+1. Colvin, M.E., and S. Reynolds. 2019.  High-level planning process related to recovery of the endangered Pallid Sturgeon as part of the Missouri River Recovery Program. Completion Report to the U.S. Geological Survey. 22 p. 
+1. Schumann, D.A., and M.E. Colvin. 2018. Multi-objective conservation planning: prototyping a strategic decision framework for aquatic species conservation (Phase 1). Gulf Coastal Plains and Ozarks Landscape Conservation Cooperative, Annual Report, Columbia, Missouri.  72 p.
+1. Gilliland, C.R., M.E. Colvin, P.J. Allen, and J.W. Neal. 2017. Paddlefish Polyodon spathula spawning and migratory habitat use in the Noxubee River System with focus on the Noxubee National Wildlife Refuge Management. Interim report to the U.S. Fish and Wildlife Service. 47 pages. 
 1. Gilliland, C.R., M.E. Colvin, P.J. Allen, and J.W. Neal. 2016. Paddlefish Polyodon spathula spawning and migratory habitat use in the Noxubee River System with focus on the Noxubee National Wildlife Refuge Management. Interim report to the U.S. Fish and Wildlife Service. 27 pages. 
 1. Miranda, L.E., M.E. Colvin, and A.C. Shamaskin. 2016. Review, revision and development of new monitoring protocols to facilitate the meeting of goals and objectives of freshwater fisheries management in Mississippi. Progress report to Mississippi Department of Wildlife, Fisheries, and Parks. 9 pages. 
 1. Peterson, J.T., K. McDonnell, and M.E. Colvin. 2014. Coarse Resolution Planning Tools for Prioritizing Central Valley Project Improvement Act Fisheries Activities. Final Report to Central Valley Project Improvement Act Fisheries Program, Sacramento, CA. 
