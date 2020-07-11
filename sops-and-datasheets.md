@@ -4,7 +4,9 @@ title: SOPs and Datasheets
 bigimg: /img/DSCF1198.JPG
 ---
 
+## Volunteer forms
 
+* [WFA volunteer waiver](pdfs/WFA-volunteer-waiver.pdf)
 
 ## SOPs
 
