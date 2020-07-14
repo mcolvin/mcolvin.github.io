@@ -25,9 +25,11 @@ we tell them apart?
 
 
 ![southern brook lamprey](/img/2020-07-17-brook-and-least-lamprey/southern.JPG)
+
 Figure 1. A southern brook lamprey  ammocoete captured in a tributary of the 
 Noxubee River in 2018. 
 
 ![least brook lamprey](/img/020-07-17-brook-and-least-lamprey/least.jpg)
-Figure 2. Image of a least brook lamprey. (Source)[https://gallery.nanfa.org/v/members/Uland/Family+Petromyzontidae/Lampetra/Lampetra+aepyptera+Least+Brook+Lamprey+Tennessee+trib+Hardin+county.JPG.html?g2_imageViewsIndex=2]
+
+Figure 2. Image of a least brook lamprey. [Source](https://gallery.nanfa.org/v/members/Uland/Family+Petromyzontidae/Lampetra/Lampetra+aepyptera+Least+Brook+Lamprey+Tennessee+trib+Hardin+county.JPG.html?g2_imageViewsIndex=2)
 
