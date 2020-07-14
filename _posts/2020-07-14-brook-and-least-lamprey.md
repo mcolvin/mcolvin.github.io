@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brook lampreys?
+title: Brook lampreys, plural?
 subtitle: Southern brook and least brook lampreys?
 bigimg: /img/2020-07-17-brook-and-least-lamprey/big.png
 comments: true
