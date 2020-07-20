@@ -9,7 +9,7 @@ bigimg: /img/DSCF1198.JPG
 ---------------------------------------
 
 #### Manuscripts
-
+1. Aldridge, C.A., L.E. Miranda, and M.E. Colvin. In press. Fisheries Goals. Fisheries. xx: xxx-xxx. 
 1. Richardson, B.M., M.J. Griffin, M.E. Colvin, T.E. Greenway, C. Ware, C.C. Mischke, T.S. Byars, D.J. Wise, and M.L. Lawrence. In press. Using quantitative Polymerase Chain Reaction (qPCR) and occupancy models to estimate atypical Aeromonas hydrophila (aAh) prevalence in catfish. Aquaculture. xx: xxx-xxx. 
 1. Norris, D.M., H.R. Hatcher, M.E. Colvin, G. Coppola, M.A. Lashley, and L.E. Miranda. In press. Assessing establishment and growth of agricultural plantings on reservoir mudflats.  North American Journal of Fisheries Management. 40: 394-405. https://doi.org/10.1002/nafm.10419 
 1. Kroboth, P., D. Hann, M.E. Colvin, P. Hartfield, and H. Schramm. 2020. Pallid sturgeon Scaphirhynchus albus seasonal habitat selection in a large river free-flowing river, the lower Mississippi River.  Journal of Applied Ichthyology. 36: 131-141. https://doi.org/10.1111/jai.14000.
