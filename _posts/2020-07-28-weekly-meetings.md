@@ -34,7 +34,7 @@ and sections but if you think a modification is needed we can discuss.
 
 ## The 4 sections are with some associated guidelines
 
-The section descriptions and guidelines are for this template [here](weekly-update-template.docx).
+The section descriptions and guidelines are for this template [here](https://mcolvin.github.io/weekly-update-template.docx). 
 
 1. What are my objectives/tasks for the upcoming week (i.e., what will I do). 
     * This section provides something you plan to accomplish over the next week and 
