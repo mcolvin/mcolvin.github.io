@@ -18,7 +18,7 @@ standing weekly meetings to try to keep on top of all the
 things but don't believe I am capturing all the significant
 operations that folks are up to. Therefore, I am requiring
 folks in my lab that have a standing meeting, usually on Fridays
-to adopt the template linked [here](weekly-update-template.docx). 
+to adopt the template linked [here](https://mcolvin.github.io/weekly-update-template.docx). 
 
 The template is like a meeting agenda and is something that has
 been used in other remote working situations. But it has been updated
@@ -27,7 +27,7 @@ likely be a bit of a task but it is intended to be a living document where
 each week you can copy and paste your previous week's information and update
 it quickly. It is not intended to micromanage folks but to assist me in 
 how I need to prioritize and allocate my time as it provides a quick reference 
-as to what is needed from me. 
+as to what is needed from me and what to expect from you. 
 
 The template has 4 sections. It is intended that you stick to the format
 and sections but if you think a modification is needed we can discuss. 
