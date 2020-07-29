@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weekly meetings?
+title: Weekly meetings
 subtitle: Trying to keep it all straight
 bigimg: /img/big-img/straight-river.png
 comments: true
