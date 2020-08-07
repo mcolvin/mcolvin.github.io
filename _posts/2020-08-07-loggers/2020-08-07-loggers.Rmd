@@ -1,0 +1,134 @@
+---
+layout: post
+title: Long 2 wide
+subtitle: Long is good for storage, wide can be good for analysis
+bigimg: /img/big-img/wide.png
+comments: true
+tags: [online meetings]
+---
+
+
+```{r,echo=FALSE,eval=FALSE}
+library(rmarkdown)
+render("2020-08-07-loggers.Rmd",output_format="html_document")
+render("2020-08-07-loggers.Rmd", 
+    output_file = "../2020-08-07-loggers.md",
+    md_document(variant = "markdown_github", 
+        preserve_yaml = TRUE))
+        
+```
+
+
+
+
+
+Storing data in long format is efficient and flexible. For example, suppose
+you have been recording data using some sort of logger like a temperature
+or water level. But each logger may be on a different recording interval
+or the time interval might not line up between loggers. The example below
+demonstrates how to convert the data inot a wide format where
+each row represents a date and time and each column represents a logger.
+Wide format is easier to deal with analysis wise while long format is much
+easier for storage. 
+
+Suppose you have 3 loggers that record water level where
+
+* Logger 1: on a 5 minute interval that starts at 3 minutes past the hour
+* Logger 2: on a 15 minute interval that starts at the top of the hour, and
+* Logger 3: on a 20 minute interval that starts at 5 minutes past the hour.
+
+The code below simulates a data stream for logger 1. 
+
+```{r}
+dat<-expand.grid(
+    year=c(2018:2020),
+    doy=c(1:365),
+    hour_fractional=seq(3,1440,by=5)/60,
+    logger=1)
+```
+Now some data for logger 2 to add to the mix.
+
+```{r}
+dat<-rbind(dat,expand.grid(
+    year=c(2017:2020),
+    doy=c(1:365),
+    hour_fractional=seq(0,1440,by=15)/60,
+    logger=2))
+```
+And some for logger 3 to finish up. 
+```{r}
+dat<-rbind(dat,expand.grid(
+    year=c(2018:2020),
+    doy=c(1:365),
+    hour_fractional=seq(5,1440,by=20)/60,
+    logger=3))
+```
+
+Here I am going to convert the `data.frame` to a `data.table`
+using the `data.table` package. The syntax for a `data.table` can
+use base `R` or the `data.table ` syntax below. I find
+that relative to other packages for summarizing and wrangling
+data that `data.table` checks all my boxes as something that is 
+fast, compact code, and does not require external package dependencies.
+
+```{r}
+library(data.table)
+dat<-as.data.table(dat)
+dat$water_level_elevation<-runif(nrow(dat)) # or
+dat[,water_level_elevation:=runif(.N)] # does the same as line above 
+```
+
+Now the challenge is getting the time into a common 
+scale. In this example logger 3 is on a 20 minute interval
+while logger 1 and logger 2 are on a 5 and 15 minute interval 
+respectively. In short we need to round the fractional hour so
+we can aggregate the water level elevations to the 20 minute interval. 
+This would be a ton easier if the logger kept to the top of the hour, 
+and most loggers do that now but we are up for the challenge here. 
+
+So will will summarize the data such that each row represents
+1-20, 21-40, and 41-60 minute intervals. The challenge there is
+converting the fractional hours to the intervals we want. The 
+intervals we want are 
+
+```{r}
+intervals<-expand.grid(hour=c(0:23),minute_interval=c(0,20/60,40/60))
+intervals<- c(sort(intervals$hour+intervals$minute_interval),24)
+```
+
+The cut function can be used to link those intervals to data, it 
+essentially assigns the hourly fraction. Note the use of `include.lowest`
+argument which sets up the logic that if a values is greater than
+or equal to the lowest value and less than the highest value it is 
+assigned to the corresponding interval. 
+
+```{r}
+dat[,interval:=cut(hour_fractional,intervals,
+    labels=c(1:length(intervals[-1])),
+     include.lowest = TRUE)]
+```
+
+Now we can summarize within the time interval.
+
+```{r}
+tmp<-dcast(dat,year+doy+interval~logger,
+    value.var="water_level_elevation",fun.aggregate=mean)
+```
+
+The result is illustrated below. It is easy to see where 
+there is missing data for each row and now each logger has
+corresponding data for the time interval. 
+
+```{r}
+head(tmp)
+```
+
+And here are the last 5 rows of data.
+
+```{r}
+tail(tmp)
+```
+
+
+
+ 
