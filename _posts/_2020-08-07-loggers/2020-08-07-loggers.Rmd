@@ -26,7 +26,7 @@ Storing data in long format is efficient and flexible. For example, suppose
 you have been recording data using some sort of logger like a temperature
 or water level. But each logger may be on a different recording interval
 or the time interval might not line up between loggers. The example below
-demonstrates how to convert the data inot a wide format where
+demonstrates how to convert the data into a wide format where
 each row represents a date and time and each column represents a logger.
 Wide format is easier to deal with analysis wise while long format is much
 easier for storage. 
