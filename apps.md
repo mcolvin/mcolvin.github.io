@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SOPs and Datasheets
+title: Web applications
 bigimg: /img/DSCF1198.JPG
 ---
 
