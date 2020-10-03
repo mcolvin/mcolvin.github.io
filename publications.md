@@ -9,12 +9,29 @@ bigimg: /img/DSCF1198.JPG
 ---------------------------------------
 
 #### Manuscripts
-1. Aldridge, C.A., L.E. Miranda, and M.E. Colvin. In press. Fisheries Goals. Fisheries. xx: xxx-xxx. 
-1. Richardson, B.M., M.J. Griffin, M.E. Colvin, T.E. Greenway, C. Ware, C.C. Mischke, T.S. Byars, D.J. Wise, and M.L. Lawrence. In press. Using quantitative Polymerase Chain Reaction (qPCR) and occupancy models to estimate atypical Aeromonas hydrophila (aAh) prevalence in catfish. Aquaculture. xx: xxx-xxx. 
-1. Norris, D.M., H.R. Hatcher, M.E. Colvin, G. Coppola, M.A. Lashley, and L.E. Miranda. In press. Assessing establishment and growth of agricultural plantings on reservoir mudflats.  North American Journal of Fisheries Management. 40: 394-405. https://doi.org/10.1002/nafm.10419 
-1. Kroboth, P., D. Hann, M.E. Colvin, P. Hartfield, and H. Schramm. 2020. Pallid sturgeon Scaphirhynchus albus seasonal habitat selection in a large river free-flowing river, the lower Mississippi River.  Journal of Applied Ichthyology. 36: 131-141. https://doi.org/10.1111/jai.14000.
-1. Schumann, D.A., M.E. Colvin, L.E. Miranda, and D.T. Jones-Farrand. 2020. Occurrence and co-occurrence patterns of gar in river-floodplain habitats: leveraging species interactions to benefit distributional models. North American Journal of Fisheries Management. 40: 622-637. https://doi.org/10.1002/nafm.10402 
-1. Jargowsky, M., P.T. Cooper, M.J. Ajemian, M.E. Colvin, and J.M. Drymon. 2019. Discerning the dietary habits of the smooth butterfly ray Gymnura lessae using two distinct methods, otolith identification and metagenetics. Journal of Fish Biology. 96:434–443.   
+1. Aldridge, C.A.†, L.E. Miranda, and M.E. Colvin. 2020. Fisheries 
+Goals. Fisheries. xx: xxx-xxx. DOI: 10.1002/fsh.10507
+1. Richardson, B.M.†, M.J. Griffin, M.E. Colvin, T.E. Greenway, C. 
+Ware, C.C. Mischke, T.S. Byars, D.J. Wise, and M.L. Lawrence. In press. 
+Using quantitative Polymerase Chain Reaction (qPCR) and occupancy models 
+to estimate atypical Aeromonas hydrophila (aAh) prevalence in catfish. 
+Aquaculture. 530: xxx-xxx. DOI: 10.1016/j.aquaculture.2020.735687
+1. Norris, D.M.†, H.R. Hatcher†, M.E. Colvin, G. Coppola†, M.A. 
+Lashley, and L.E. Miranda. Assessing Establishment and Growth of 
+Agricultural Plantings on Reservoir Mudflats. Submitted to North 
+American Journal of Fisheries Management. 40:394–405. DOI: 10.1002/nafm.10419
+1. Kroboth, P., D. Hann, M.E. Colvin, P. Hartfield, and H. Schramm. 
+Accepted. Pallid Sturgeon Scaphirhynchus albus seasonal habitat 
+selection in a large river free-flowing river, the lower Mississippi 
+River. Journal of Applied Ichthyology. 36:131–141. DOI: 10.1111/jai.14000  
+1. Schumann, D.A.†††, M.E. Colvin, L.E. Miranda, and D.T. 
+Jones-Farrand. Accepted. Occurrence and co-occurrence patterns of gar in 
+river-floodplain habitats: leveraging species interactions to benefit 
+distributional models. North American Journal of Fisheries Management. 40:622–637.
+1. Jargowsky, M., P.T. Cooper, M.J. Ajemian, M.E. Colvin, and J.M. 
+Drymon. 2019. Discerning the dietary habits of the smooth butterfly ray 
+Gymnura lessae using two distinct methods, otolith identification and 
+metagenetics. Journal of Fish Biology. 96 (2), 434-443.
 1. Coppola, G. H. Hatcher, S. Miranda, M.E. Colvin, and M.A. Lashley. 2019. Submergence responses of cool-season annual plants and potential for fish habitat. North American Journal of Fisheries Management. DOI:10.1002/nafm.10359.
 1. Kramer, N., Q.E. Phelps, C.L. Pierce, and M.E. Colvin. 2019. A Food Web Modelling Assessment of Asian Carp Impacts in the Middle and Upper Mississippi River. Food Webs. https://doi.org/10.1016/j.fooweb.2019.e00120
 1. Shaw, S.B., J.O. Beslity, and M.E. Colvin. 2019. Working Toward a More Holistic Set of Hydrologic Principles to Teach Non-Hydrologists: Five Simple Concepts Within Catchment Hydrology. Hydrological Processes. 16: 2258-2262. 

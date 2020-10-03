@@ -6,7 +6,7 @@ bigimg: /img/clear-sunset.JPG
 
 
 Michael E. Colvin  
-Assistant Professor  
+Associate Professor  
 Wildlife, Fisheries and Aquaculture Department  
 Mississippi State University  
 Mississippi State, MS, 39762 USA  
@@ -23,7 +23,8 @@ michael.colvin@msstate.edu
 
 ## Employment
 
-* 2014-pres. Mississippi State University, Department of Wildlife, Fisheries, and Aquaculture Assistant Professor Starkville, Mississippi, USA
+* 2020-pres. Mississippi State University, Department of Wildlife, Fisheries, and Aquaculture Associate Professor Starkville, Mississippi, USA
+* 2014-2020 Mississippi State University, Department of Wildlife, Fisheries, and Aquaculture Assistant Professor Starkville, Mississippi, USA
 * 2012-2014 Oregon State University, Department of Fisheries and Wildlife Postdoctoral Scholar Corvallis, Oregon, USA
 * 2007- 2012 Iowa State University, Natural Resource Ecology and Management Department Research Assistant Ames, Iowa, USA
 * 2005- 2007 United States Environmental Protection Agency, Western Ecology Division Student Contractor Corvallis, Oregon, USA
@@ -33,6 +34,19 @@ michael.colvin@msstate.edu
 * 2001- 2002 Idaho Department of Fish and Game Fisheries Technician Nampa, Idaho, USA
 
 ## Teaching, mentoring, and workshops
+
+
+
+### 2020
+
+* WFA 4313: Fisheries Management 3 Credits
+* WFA 4800: Evaluating occurrence of migratory riverine fish species 3 credits
+* WFA 4000: Fish tagging for management and conservation 3 credits
+* WFA 4000: Fisheries research and management study design 1 credit
+* WFA 7000: R for biologists 3 credits
+* WFA 4133: Fisheries Science 3 Credits 
+* WFA 7000: Fish and Fisheries of Shallow Impoundments 3 credits
+* WFA 4000: Inland Fisheries Exploitation 3 credits
 
 ### 2019
 
@@ -110,9 +124,30 @@ michael.colvin@msstate.edu
 
 ## Peer reviewed articles († denotes graduate student, †† denotes undergraduate student, ††† denotes postdoc))
 
-1. Kroboth, P., D. Hann, M.E. Colvin, P. Hartfield, and H. Schramm. Accepted. Pallid Sturgeon Scaphirhynchus albus seasonal habitat selection in a large river free-flowing river, the lower Mississippi River.  Journal of Applied Ichthyology. 
-1. Schumann, D.A.†††, M.E. Colvin, L.E. Miranda, and D.T. Jones-Farrand. Accepted. Occurrence and co-occurrence patterns of gar in river-floodplain habitats: leveraging species interactions to benefit distributional models. North American Journal of Fisheries Management.  
-1. Coppola†, G. H. Hatcher†, S. Miranda, M.E. Colvin, and M.A. Lashley. In press. Submergence responses of cool-season annual plants and potential for fish habitat. North American Journal of Fisheries Management. DOI:10.1002/nafm.10359.
+1. Aldridge, C.A.†, L.E. Miranda, and M.E. Colvin. 2020. Fisheries 
+Goals. Fisheries. xx: xxx-xxx. DOI: 10.1002/fsh.10507
+1. Richardson, B.M.†, M.J. Griffin, M.E. Colvin, T.E. Greenway, C. 
+Ware, C.C. Mischke, T.S. Byars, D.J. Wise, and M.L. Lawrence. In press. 
+Using quantitative Polymerase Chain Reaction (qPCR) and occupancy models 
+to estimate atypical Aeromonas hydrophila (aAh) prevalence in catfish. 
+Aquaculture. 530: xxx-xxx. DOI: 10.1016/j.aquaculture.2020.735687
+1. Norris, D.M.†, H.R. Hatcher†, M.E. Colvin, G. Coppola†, M.A. 
+Lashley, and L.E. Miranda. Assessing Establishment and Growth of 
+Agricultural Plantings on Reservoir Mudflats. Submitted to North 
+American Journal of Fisheries Management. 40:394–405. DOI: 10.1002/nafm.10419
+1. Kroboth, P., D. Hann, M.E. Colvin, P. Hartfield, and H. Schramm. 
+Accepted. Pallid Sturgeon Scaphirhynchus albus seasonal habitat 
+selection in a large river free-flowing river, the lower Mississippi 
+River. Journal of Applied Ichthyology. 36:131–141. DOI: 10.1111/jai.14000  
+1. Schumann, D.A.†††, M.E. Colvin, L.E. Miranda, and D.T. 
+Jones-Farrand. Accepted. Occurrence and co-occurrence patterns of gar in 
+river-floodplain habitats: leveraging species interactions to benefit 
+distributional models. North American Journal of Fisheries Management. 40:622–637.
+1. Jargowsky, M., P.T. Cooper, M.J. Ajemian, M.E. Colvin, and J.M. 
+Drymon. 2019. Discerning the dietary habits of the smooth butterfly ray 
+Gymnura lessae using two distinct methods, otolith identification and 
+metagenetics. Journal of Fish Biology. 96 (2), 434-443.
+1. Coppola†, G. H. Hatcher†, S. Miranda, M.E. Colvin, and M.A. Lashley. 2019. Submergence responses of cool-season annual plants and potential for fish habitat. North American Journal of Fisheries Management. 39 (6), 1269-1276. DOI:10.1002/nafm.10359. 
 1. Kramer, N., Q.E. Phelps, C.L. Pierce, and M.E. Colvin. 2019. A Food Web Modelling Assessment of Asian Carp Impacts in the Middle and Upper Mississippi River. Food Webs. https://doi.org/10.1016/j.fooweb.2019.e00120
 1. Shaw, S.B., J.O. Beslity, and M.E. Colvin. 2019. Working Toward a More Holistic Set of Hydrologic Principles to Teach Non-Hydrologists: Five Simple Concepts Within Catchment Hydrology. Hydrological Processes. 16: 2258-2262. 
 1. Ivey, M.R., M.E. Colvin, B.K. Strickland, and M.A. Lashley. 2019. The effects of vertebrate biological invasions on species-area relationships are not scale-dependent. Ecology and Evolution. 13: 7761-7767. 
