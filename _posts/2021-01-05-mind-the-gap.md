@@ -35,7 +35,7 @@ scheduled in the open blocks. That is what Focuster does. One neat thing
 that you can visualize on calendar there is where 'gaps' occur in your
 day, illustrated below.
 
-!()[/img/gap-2.png]
+![](/img/gap-2.png)
 
 The gaps in a time block schedule can arise from 2 sources: 1) a task took longer than you allocated or
 2) you were doing another task that was not on your daily timeblocks. Either way at the end of day
