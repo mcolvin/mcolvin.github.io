@@ -25,20 +25,25 @@ I have tried other online systems, omnifocus, my life organized,
 trello, tools in GitHub but they all seemed like a digital version 
 of my notebook with the nicer organization. In addition to my 
 notebook I lived and die by my [calendar](https://mcolvin.github.io/calendar). 
-I make my calendar viewable
-to students and others online which really cuts down on the multiple 
-emails needed to schedule a meeting. So when meetings occur then 
-no work can really be scheduled. So a system the allows one to
-work with a caledare and 'schedule' work is what is needed on my end.
-I want to be able to account for existing meetings and then have tasks
-scheduled in the open blocks. That is what Focuster does. One neat thing 
-that you can visualize on calendar there is where 'gaps' occur in your
-day, illustrated below.
+I make my calendar viewable to students and others online which really 
+cuts down on the multiple emails needed to schedule a meeting. So when 
+meetings occur then no work can really be scheduled. So a system the 
+allows one to work with a caledare and 'schedule' work is what is needed 
+on my end. I want to be able to account for existing meetings and then 
+have tasks scheduled in the open blocks. That is what Focuster does. One 
+neat thing that you can visualize on calendar there is where 'gaps' 
+occur in your day, illustrated below. 
+
+
 
 ![](/img/gap-2.png)
 
-The gaps in a time block schedule can arise from 2 sources: 1) a task took longer than you allocated or
-2) you were doing another task that was not on your daily timeblocks. Either way at the end of day
-you can see where your workflow might be in need of a tune up or some adaptation to 
-daily rythms or how to allocate tasks more approprately to the time needed to complete. 
+The gaps in a time block schedule can arise from 2 sources: 1) a task 
+took longer than you allocated or 2) you were doing another task that 
+was not on your daily timeblocks. Either way at the end of day you can 
+see where your workflow might be in need of a tune up or some adaptation 
+to daily rythms or how to allocate tasks more approprately to the time 
+needed to complete. 
+
+
 
