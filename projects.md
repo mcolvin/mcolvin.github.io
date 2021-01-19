@@ -20,7 +20,7 @@ aquaculture
 operations](https://www.bradley-richardson.com/projects/aeromonas/) 
 1. [Multi-objective Conservation Planning: Prototyping a strategic 
 decision framework for aquatic species conservation](https://daschumann.github.io/research2.html#decision)
-1. [Adding RFID capabilities to Madtom Hotels](projects/madtom-hotels/)
+1. [Adding RFID capabilities to Madtom Hotels](madtom-hotels)
 
 <!--
 
