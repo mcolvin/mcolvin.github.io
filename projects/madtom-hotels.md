@@ -31,7 +31,7 @@ Representative indices of population abundance for at-risk species are necessary
 
 ## Related blog posts
 
-* (PIT Tagging Madtoms)[http://mcolvin.github.io/2018-10-04-Madtom-Tagging/]
-* (Madtom recovery One week later)[https://mcolvin.github.io/2018-10-11-madtom/]
-* (Madtom Hotels)[http://mcolvin.github.io/2018-11-09-madtom-2/]
+* [PIT Tagging Madtoms](http://mcolvin.github.io/2018-10-04-Madtom-Tagging/)
+* [Madtom recovery One week later](https://mcolvin.github.io/2018-10-11-madtom/)
+* [Madtom Hotels](http://mcolvin.github.io/2018-11-09-madtom-2/)
 
