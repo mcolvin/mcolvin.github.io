@@ -2,7 +2,7 @@
 layout: page
 title: Hotel Madtom
 subtitle: Tiny imperiled catfish can check in & check out
-bigimg: /img/madtom-bucket.JPG
+bigimg: /img/big-img/madtom-rfid.png
 ---
 
 ## About
