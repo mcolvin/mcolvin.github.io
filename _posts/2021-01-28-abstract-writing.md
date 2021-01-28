@@ -17,7 +17,7 @@ a first draft of a paper abstracts can be challenging! But with a bit of a formu
 approach the abstract can come together relatively quickly. The formula below, shared
 with by [Dr. Schumann](https://daschumann.github.io/) has proved useful to students to
 get that first abstract draft. There are 8 parts with each part roughly equating to 
-1 or more sentances. 
+1 or more sentences. 
 
 1. Generalized topic statement 
 2. Hone in on topic/need/issue 
@@ -25,12 +25,12 @@ get that first abstract draft. There are 8 parts with each part roughly equating
 4. State how this study aims to fill the “hole”: what is/was your objective? 
 5. 2-3 sentences of study design and field methodology 
 6. 1-2 sentences of analytical techniques 
-7. Result(s) 1-3 sentances
-8. Implication, management recommendation, or what is the broader application of your result(s) (1 sentance)
+7. Result(s) 1-3 sentences
+8. Implication, management recommendation, or what is the broader application of your result(s) (1 sentence)
 
-A good strategy is to first take the 8 parts and fill them in wiht coordination of 
+A good strategy is to first take the 8 parts and fill them in with coordination of 
 your advisor or mentor. Then craft the abstract. **Note the formula is not a hard or 
-fast rule, you may need to consolidated sentances to get to the word limit.** The formula
+fast rule, you may need to consolidated sentences to get to the word limit.** The formula
 helps ensure you have the appropriate elements and then content can be consolidated as 
 needed. Most abstracts are approximately 250 works, some may go as high was 300 and others 
 may be as low as 125. But because you have 300 words to work with it does not mean you need to
@@ -43,6 +43,7 @@ So don't fret if your end presentation doesn't match your abstract, but do spend
 coming up with a good title that captures where you think you will be and can reasonably match
 the end presentation. 
 
-In closing, the abstract is imporant to get you to the stage to present and the title is important to
+In closing, the abstract is important to get you to the stage to present and the title is important to
 get folks to come to the stage!
+
 
