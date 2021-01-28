@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Abstract formula
-subtitle: Getting ready to present your research at a meeting
+subtitle: Getting students ready to present research at a meeting
 bigimg: /img/big-img/abstract.png
 tags: [abstract, presentations, students, writing, communications]
 ---
+
 
 
 
@@ -36,12 +37,17 @@ needed. Most abstracts are approximately 250 works, some may go as high was 300 
 may be as low as 125. But because you have 300 words to work with it does not mean you need to
 use all of them!
 
-One last point on presentation abstracts. The title is what folks will look at to 
+Two last points on presentation abstracts. 
+
+1. The title is what folks will look at to 
 see of they want to attend. In almost all cases what is presented in the abstract will
 not wholly match that talk, alot can happen between the time the abstract is due and the actual talk!
 So don't fret if your end presentation doesn't match your abstract, but do spend some time 
 coming up with a good title that captures where you think you will be and can reasonably match
 the end presentation. 
+2. Be sure you identify who the coauthors of the presentation are early on! Most work is not
+done in a vacuum and therefore adding folks that have a contribution to the project can and 
+should be listed as a coauthor. Coauthorship is a converstion to have with your advisor or mentor. 
 
 In closing, the abstract is important to get you to the stage to present and the title is important to
 get folks to come to the stage!
