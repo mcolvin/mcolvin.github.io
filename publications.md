@@ -10,8 +10,8 @@ bigimg: /img/DSCF1198.JPG
 
 #### Manuscripts
 
-1. Braaten, P.J., D.B. Fuller, T.M. Haddix, J.R. Hunziker, M.E. Colvin, L.M. Holmquist, R.H. Wilson.  2021. Catch rates for sturgeon and sicklefin chubs in the upper Missouri River 2004-2016, and Correlations with Biotic and Abiotic Variables. Submitted to the Journal of Fish and Wildlife Management. 
-1. Coppola, G., L.E. Miranda, M.E. Colvin, H. Hatcher, and M.A. Lashley. 2021. Selection of habitat enhancing plants depends on predator-prey interactions. Journal of Fish and Wildlife Management.
+1. Braaten, P.J., D.B. Fuller, T.M. Haddix, J.R. Hunziker, M.E. Colvin, L.M. Holmquist, R.H. Wilson.  2021. Catch rates for sturgeon and sicklefin chubs in the upper Missouri River 2004-2016, and Correlations with Biotic and Abiotic Variables. Submitted to the Journal of Fish and Wildlife Management. [DOI](https://doi.org/10.3996/JFWM-20-086)
+1. Coppola, G., L.E. Miranda, M.E. Colvin, H. Hatcher, and M.A. Lashley. 2021. Selection of habitat enhancing plants depends on predator-prey interactions. Journal of Fish and Wildlife Management. [DOI](https://doi.org/10.3996/JFWM-20-083)
 1. Shirley, C.A., M.E. Colvin, and P.J. Allen. 2021. Evaluation of methods for cryopreservation of black-stripe Black Crappie (_Pomoxis nigromaculatus_) sperm and subsequent use in egg fertilization. Submitted to the Journal of the World Aquaculture Society [DOI](http://dx.doi.org/10.1111/jwas.12763).
 1. Schumann, D.A., M.E. Colvin, Campbell, R., M.D. Wagner, and D. Schwartz. 2021. Suitability of passive integrated transponder (PIT) tags and enhanced madtom traps to monitor a cryptic species (_Noturus munitus_).  Endangered species research. Endangered Species Research 44, 1-10. [DOI](https://doi.org/10.3354/esr01086). 
 1. Aldridge, C.A., L.E. Miranda, and M.E. Colvin. 2021. Themes of Contemporary Inland Fisheries Goals. Fisheries. [DOI](https://doi.org/10.1002/fsh.10507).
