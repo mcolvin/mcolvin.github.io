@@ -12,11 +12,11 @@ Michael E. Colvin, Ph.D. [cv](/cv)
 
 ## Research Associates
 
-### Postdoctoral 
+### Postdoctoral and research associates
 
-* Dr. Corey Dunn: Approaches to perform species status assessments for 
-riverine fish of the Southeast. [website](https://dunnfishresearch.weebly.com/)
-* Dr. Sara Reynolds: Pallid sturgeon modeling and recovery
+
+* Dr. Sara Reynolds (Postdoc): Pallid sturgeon modeling and recovery
+* Logan Sleezer (2021-present): Bayesian belief networks to assist species status assessments
 
 ### Graduate 
 
@@ -29,20 +29,21 @@ riverine fish of the Southeast. [website](https://dunnfishresearch.weebly.com/)
 ### Undergraduate researchers
 
 * Haley Blische (2020-pres.)-Sampling American eels in the Noxubee River
-* Rick Campbell (2020-pres.)-Evaluating P-chips for tagging fish
-* Taylor Banks (2020-pres.)-A better way to measure fish length?
+
 
 
 
 ## Lab Alumni
 
+* Dr. Corey Dunn (Postdoc; 2020-2021) : Assistant Unit Leader U.S.G.S. Mississippi Cooperative Fish and Wildlife Unit [website](https://dunnfishresearch.weebly.com/)
+* Rick Campbell (2020-pres.)-Employed by U.S. Fish and Wildlife Service
 * Brad Richardson (PhD; Co-advised with Dr. David Wise) [website](http://www.bradley-richardson.com/) Postdoctoral Researcher USDA, Stoneville, MS.
 * Kacy Chapman (BS 2020) Undergraduate Technician-Bluff Lake Project)
 * Bayley Wilmoth (BS 2020) Currently a masters student at UNK. 
 * David Norris (MS 2020; Co-advised with Drs. Steve Miranda and Marcus Lashley) Currently
 employed as a fisheries biologist for Louisiana Department of Wildlife and Fisheries 
 * Dr. David Schumann [website](https://daschumann.github.io/)Currently employed as
-an Assistan Professor at the University of Wisconsin LaCrosse.
+an Assistant Professor at the University of Wisconsin LaCrosse.
 * Giancarlo Coppola (MS; Co-advised with Drs. Steve Miranda and Marcus Lashley) Currently employed as
 as research associate at the University of Wisconsin at Stevens Point.
 * Chelsea Gilliland (MS 2018) Currently employed by Arkansas Game and Fish Commission.
