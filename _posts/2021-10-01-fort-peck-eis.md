@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fort Peck EIS released
-subtitle: Pallid sturgeon modeling!
+subtitle: Pallid sturgeon modeling in application!
 bigimg: /img/ft-peck.png
 comments: false
 tags: [pallid sturgeon,Missouri river, models]
