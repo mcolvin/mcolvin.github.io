@@ -10,6 +10,7 @@ bigimg: /img/DSCF1198.JPG
 
 #### Manuscripts
 
+1. Caleb Aldridge, C., D.M. Norris, H.R. Hatcher, G. Coppola, L.E. Miranda, and M.E. Colvin. 2021. Retention and Dimensional Changes of Supplemental Evergreen Brush Piles within a Flood Control Reservoir. . Journal of Fish and Wildlife Management. [DOI](https://doi.org/10.3996/JFWM-21-033)
 1. Braaten, P.J., D.B. Fuller, T.M. Haddix, J.R. Hunziker, M.E. Colvin, L.M. Holmquist, R.H. Wilson.  2021. Catch rates for sturgeon and sicklefin chubs in the upper Missouri River 2004-2016, and Correlations with Biotic and Abiotic Variables. Submitted to the Journal of Fish and Wildlife Management. [DOI](https://doi.org/10.3996/JFWM-20-086)
 1. Coppola, G., L.E. Miranda, M.E. Colvin, H. Hatcher, and M.A. Lashley. 2021. Selection of habitat enhancing plants depends on predator-prey interactions. Journal of Fish and Wildlife Management. [DOI](https://doi.org/10.3996/JFWM-20-083)
 1. Shirley, C.A., M.E. Colvin, and P.J. Allen. 2021. Evaluation of methods for cryopreservation of black-stripe Black Crappie (_Pomoxis nigromaculatus_) sperm and subsequent use in egg fertilization. Submitted to the Journal of the World Aquaculture Society [DOI](http://dx.doi.org/10.1111/jwas.12763).
