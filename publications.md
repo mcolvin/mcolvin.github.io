@@ -10,7 +10,7 @@ bigimg: /img/DSCF1198.JPG
 
 #### Manuscripts
 
-1. Norris, D.M., M.E. Colvin, L.E. Miranda, and M.A. Lashley. 2022. Supplemental habitat is reservoir dependent: Identifying optimal planting decision using Bayesian Decision Networks. Journal of Environmental Management: 15: xxx-xxx. https://doi.org/10.1016/j.jenvman.2021.114139
+1. Norris, D.M., M.E. Colvin, L.E. Miranda, and M.A. Lashley. 2022. Supplemental habitat is reservoir dependent: Identifying optimal planting decision using Bayesian Decision Networks. Journal of Environmental Management: 15: xxx-xxx. [DOI](https://doi.org/10.1016/j.jenvman.2021.114139)
 1. Aldridge, C., D.M. Norris, H.R. Hatcher, G. Coppola, L.E. Miranda, and M.E. Colvin. 2021. Retention and Dimensional Changes of Supplemental Evergreen Brush Piles within a Flood Control Reservoir. . Journal of Fish and Wildlife Management. [DOI](https://doi.org/10.3996/JFWM-21-033)
 1. Braaten, P.J., D.B. Fuller, T.M. Haddix, J.R. Hunziker, M.E. Colvin, L.M. Holmquist, R.H. Wilson.  2021. Catch rates for sturgeon and sicklefin chubs in the upper Missouri River 2004-2016, and Correlations with Biotic and Abiotic Variables. Submitted to the Journal of Fish and Wildlife Management. [DOI](https://doi.org/10.3996/JFWM-20-086)
 1. Coppola, G., L.E. Miranda, M.E. Colvin, H. Hatcher, and M.A. Lashley. 2021. Selection of habitat enhancing plants depends on predator-prey interactions. Journal of Fish and Wildlife Management. [DOI](https://doi.org/10.3996/JFWM-20-083)
